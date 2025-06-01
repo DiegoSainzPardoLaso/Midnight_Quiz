@@ -2971,7 +2971,7 @@ function ThemeToggle() {
     <Button
       variant="outline"
       size="icon"
-      onClick={() => setTheme(theme === "light" ? "dark" : "light")}
+      onClick={() => setTheme(theme === "dark" ? "light" : "dark")}
       className="fixed top-4 right-4 z-50 bg-white/80 dark:bg-gray-900/80 backdrop-blur-sm border-2 hover:scale-110 transition-all duration-200"
     >
       <Sun className="h-[1.2rem] w-[1.2rem] rotate-0 scale-100 transition-all dark:-rotate-90 dark:scale-0" />
@@ -2997,6 +2997,7 @@ export default function QuizApp() {
   const [missedQuestions, setMissedQuestions] = useState<MissedQuestion[]>([])
   const [userAnswers, setUserAnswers] = useState<(number | null)[]>([])
   const [questionSummary, setQuestionSummary] = useState<QuestionSummary[]>([])
+  const [questionLimit, setQuestionLimit] = useState<number | "all">("all")
 
   const availableTopics = selectedSubject
     ? [...new Set(mockQuestions.filter((q) => q.subject === selectedSubject).map((q) => q.topic))]
@@ -3010,11 +3011,19 @@ export default function QuizApp() {
       }
 
       // Shuffle questions and their options
-      const shuffledQuestions = shuffleArray(questions).map(shuffleQuestionOptions)
+      let shuffledQuestions = shuffleArray(questions).map(shuffleQuestionOptions)
+
+      // Apply question limit if set
+      const limit = Number(questionLimit)
+      if (questionLimit !== "all" && !isNaN(limit) && limit > 0) 
+      {
+        shuffledQuestions = shuffledQuestions.slice(0, limit)
+      }
+
       setFilteredQuestions(shuffledQuestions)
       setUserAnswers(new Array(shuffledQuestions.length).fill(null))
     }
-  }, [selectedSubject, selectedTopic])
+  }, [selectedSubject, selectedTopic, questionLimit])
 
   const updateTopicStats = (topic: string, isCorrect: boolean) => {
     const currentStats = topicStats[topic] || {
@@ -3336,12 +3345,12 @@ export default function QuizApp() {
           <div className="text-center mb-8">
             <div className="relative">
               <BarChart3 className="mx-auto h-20 w-20 text-emerald-600 dark:text-emerald-400 mb-4 drop-shadow-lg" />
-              <Sparkles className="absolute -top-2 -right-2 h-6 w-6 text-yellow-500 animate-pulse" />
+              <Sparkles className="absolute -top-2 -right-2 h-0 w-6 text-yellow-500 animate-pulse" />
             </div>
             <h1 className="text-5xl font-bold bg-gradient-to-r from-emerald-600 to-teal-600 dark:from-emerald-400 dark:to-teal-400 bg-clip-text text-transparent mb-3">
-              Analytics Dashboard
+              Analytics 
             </h1>
-            <p className="text-xl text-gray-600 dark:text-gray-300">Track your progress across different topics</p>
+            <p className="text-xl text-gray-600 dark:text-gray-300"></p>
           </div>
 
           <div className="mb-8">
@@ -3377,7 +3386,7 @@ export default function QuizApp() {
               <Card className="shadow-2xl border-0 bg-white/80 dark:bg-gray-800/80 backdrop-blur-sm">
                 <CardHeader className="bg-gradient-to-r from-emerald-500/10 to-teal-500/10 dark:from-emerald-400/10 dark:to-teal-400/10">
                   <CardTitle className="text-3xl flex items-center gap-3">
-                    <Trophy className="h-8 w-8 text-emerald-600 dark:text-emerald-400" />
+                    <Trophy className="h-0 w-8 text-emerald-600 dark:text-emerald-400" />
                     Overall Performance
                   </CardTitle>
                 </CardHeader>
@@ -3483,40 +3492,9 @@ export default function QuizApp() {
                     }
 
                     return (
-                      <Card
-                        key={stat.topic}
-                        className="shadow-2xl border-0 bg-white/80 dark:bg-gray-800/80 backdrop-blur-sm"
-                      >
-                        <CardHeader className="bg-gradient-to-r from-purple-500/10 to-pink-500/10 dark:from-purple-400/10 dark:to-pink-400/10">
-                          <CardTitle className="text-xl">Topic {stat.topic} - Score Trend</CardTitle>
-                        </CardHeader>
-                        <CardContent className="p-6">
-                          <ChartContainer
-                            config={{
-                              score: { label: "Score", color: "#8b5cf6" },
-                            }}
-                            className="h-[250px] w-full"
-                          >
-                            <ResponsiveContainer width="100%" height="100%">
-                              <LineChart data={trendData}>
-                                <XAxis dataKey="test" />
-                                <YAxis domain={[0, 10]} />
-                                <Line
-                                  type="monotone"
-                                  dataKey="score"
-                                  stroke="#8b5cf6"
-                                  strokeWidth={3}
-                                  dot={{ fill: "#8b5cf6", strokeWidth: 2, r: 5 }}
-                                  activeDot={{ r: 8, stroke: "#8b5cf6", strokeWidth: 2 }}
-                                />
-                                <ChartTooltip
-                                  content={<ChartTooltipContent />}
-                                  formatter={(value, name) => [value, "Score"]}
-                                />
-                              </LineChart>
-                            </ResponsiveContainer>
-                          </ChartContainer>
-                        </CardContent>
+                      <Card key={stat.topic} className="shadow-2xl border-0 bg-white/80 dark:bg-gray-800/80 backdrop-blur-sm">
+                        
+                        
                       </Card>
                     )
                   })}
@@ -3534,7 +3512,7 @@ export default function QuizApp() {
 
   if (!quizStarted) {
     return (
-      <ThemeProvider attribute="class" defaultTheme="system" enableSystem>
+      <ThemeProvider attribute="class" defaultTheme="dark" enableSystem>
         <div className="min-h-screen bg-gradient-to-br from-blue-50 via-indigo-50 to-purple-100 dark:from-gray-900 dark:via-blue-900 dark:to-indigo-900 p-4 transition-all duration-500">
           <ThemeToggle />
           <div className="mx-auto max-w-2xl">
@@ -3559,14 +3537,14 @@ export default function QuizApp() {
               <TabsContent value="quiz">
                 <div className="text-center mb-8">
                   <div className="relative">
-                    <BookOpen className="mx-auto h-20 w-20 text-indigo-600 dark:text-indigo-400 mb-4 drop-shadow-lg" />
-                    <Sparkles className="absolute -top-2 -right-2 h-6 w-6 text-yellow-500 animate-pulse" />
+                    <BookOpen className="mx-auto h-0 w-20 text-indigo-600 dark:text-indigo-400 mb-4 drop-shadow-lg" />
+                    <Sparkles className="absolute -top-2 -right-2 h-0 w-6 text-yellow-500 animate-pulse" />
                   </div>
                   <h1 className="text-5xl font-bold bg-gradient-to-r from-indigo-600 to-purple-600 dark:from-indigo-400 dark:to-purple-400 bg-clip-text text-transparent mb-3">
-                    Practice Quiz
+                    
                   </h1>
                   <p className="text-xl text-gray-600 dark:text-gray-300">
-                    Select a subject and topic to start practicing
+                    
                   </p>
                 </div>
 
@@ -3634,6 +3612,52 @@ export default function QuizApp() {
                         </Select>
                       </div>
                     )}
+
+{selectedSubject && (
+  <div className="space-y-3">
+    <label className="text-sm font-semibold text-gray-700 dark:text-gray-300">
+      Set the maximum number of questions
+    </label>
+    <input
+      type="number"
+      value={questionLimit}
+      onChange={(e) => {
+        const rawValue = e.target.value;
+
+        // Allow empty string so user can delete all characters
+        if (rawValue === '') {
+          setQuestionLimit('');
+          return;
+        }
+
+        const value = Number(rawValue);
+        if (!isNaN(value)) {
+          setQuestionLimit(value);
+        }
+      }}
+      className="h-12 w-full rounded-lg border-2 bg-white/50 dark:bg-gray-700/50 px-4 text-base focus:outline-none focus:ring-2 focus:ring-indigo-400"
+      min="1"
+      max={filteredQuestions.length}
+      disabled={filteredQuestions.length === 0}
+    />
+    {filteredQuestions.length > 0 ? (
+      <p className="text-xs text-gray-500 dark:text-gray-400">
+        Enter the number of questions you want to practice (maximum: {filteredQuestions.length}).
+        
+      </p>
+    ) : (
+      <p className="text-xs text-red-500 dark:text-red-400">
+        No questions available for this subject.
+      </p>
+    )}
+  </div>
+)}
+
+
+
+
+
+
 
                     <div className="space-y-4">
                       <div className="flex items-center space-x-3 p-4 bg-gradient-to-r from-blue-50 to-indigo-50 dark:from-blue-900/20 dark:to-indigo-900/20 rounded-xl">
