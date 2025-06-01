@@ -1303,7 +1303,7 @@ const mockQuestions: Question[] =
     "correctAnswer": 2,
     "subject": "economy",
     "topic": "1.2",
-    "explanation": "Entrepreneurs drive innovation and job creation, which are key components of economic growth."
+    "explanation": "Entrepreneurship is a key factor in job creation and fostering economic growth."
   },
   {
     "id": 88,
@@ -2886,7 +2886,709 @@ const mockQuestions: Question[] =
     "subject": "economy",
     "topic": "2.2",
     "explanation": "Retention shows that users find real value and keep using the product."
-  }
+  },
+  {
+    "id": 201,
+    "question": "What is the main purpose of a business plan?",
+    "options": [
+      "To set prices for products",
+      "To explore global market trends",
+      "To attract key stakeholders and study business aspects",
+      "To measure employee satisfaction"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "3.1",
+    "explanation": "A business plan aims to study various aspects of the business and specific external factors to attract stakeholders."
+  },
+  {
+    "id": 202,
+    "question": "Which of the following best describes a business plan?",
+    "options": [
+      "A list of legal requirements",
+      "A one-time document never to be updated",
+      "A live and convincing selling document about the company",
+      "An academic report with historical data"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "3.1",
+    "explanation": "A business plan is a live, convincing document used to present the company and attract interest."
+  },
+  {
+    "id": 203,
+    "question": "Why is a business plan important for a company?",
+    "options": [
+      "It reduces the number of employees needed",
+      "It allows the business to avoid taxes",
+      "It helps raise funds and supports growth by identifying risks and setting strategies",
+      "It ensures competitors stay out of the market"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "3.1",
+    "explanation": "A business plan is essential for strategic planning, attracting investment, risk detection, and performance comparison."
+  },
+  {
+    "id": 204,
+    "question": "Who among the following is part of the external group interested in a business plan?",
+    "options": [
+      "Managers",
+      "Employees",
+      "Investors and banks",
+      "Consultants and interns"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "3.1",
+    "explanation": "External stakeholders like investors and banks use the business plan to evaluate the business's potential."
+  },
+  {
+    "id": 205,
+    "question": "Which section of a formal business plan contains the vision and mission statements?",
+    "options": [
+      "Cover Page",
+      "Executive Summary",
+      "Table of Contents",
+      "Financial Projections"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "3.1",
+    "explanation": "The Executive Summary provides a concise overview, including the company’s vision and mission."
+  },
+  {
+    "id": 206,
+    "question": "What does a mission statement primarily clarify?",
+    "options": [
+      "Company profits",
+      "Long-term expenses",
+      "Purpose, customer benefits, and competitive differences",
+      "Legal liabilities"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "3.1",
+    "explanation": "A mission clarifies the company’s context, benefit, target customers, and point of differentiation."
+  },
+  {
+    "id": 207,
+    "question": "What does the gross margin indicate in a business plan?",
+    "options": [
+      "The profit after tax",
+      "The portion of revenue retained after direct costs",
+      "Total production volume",
+      "Company’s market value"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "3.1",
+    "explanation": "Gross margin is the proportion of revenue remaining after subtracting direct production costs."
+  },
+  {
+    "id": 208,
+    "question": "Which equation best describes the break-even point?",
+    "options": [
+      "Fixed costs ÷ Variable costs",
+      "(Selling price - Variable cost) ÷ Fixed costs",
+      "Fixed costs ÷ (Selling price - Variable cost)",
+      "Revenue - Expenses"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "3.1",
+    "explanation": "Break-even point is calculated as Fixed Costs divided by the Contribution Margin (Selling price - Variable cost)."
+  },
+  {
+    "id": 209,
+    "question": "What kind of information is included in the full business plan section?",
+    "options": [
+      "Only the company's legal structure",
+      "Just financial data",
+      "Company description, market and industry analysis, management, and financial projections",
+      "Advertising scripts and slogans"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "3.1",
+    "explanation": "The full business plan includes comprehensive data on all key areas such as description, market, strategy, and finances."
+  },
+  {
+    "id": 210,
+    "question": "What is the main function of the Operating Income section in a business plan?",
+    "options": [
+      "To detail fixed costs only",
+      "To reflect profitability from core operations",
+      "To calculate net revenue",
+      "To list customer reviews"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "3.1",
+    "explanation": "Operating income shows the profit from core business operations, excluding non-operational factors like taxes."
+  },
+  {
+    "id": 211,
+    "question": "Which of the following is a reason for creating a business plan?",
+    "options": [
+      "To recruit low-cost labor",
+      "To outline the company's position and define the direction of the business",
+      "To reduce tax burdens",
+      "To register trademarks"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "3.1",
+    "explanation": "A business plan defines the direction of the company and outlines its current and future position."
+  },
+  {
+    "id": 212,
+    "question": "What is an internal reason for writing a business plan?",
+    "options": [
+      "To secure loans from banks",
+      "To determine salary brackets",
+      "To define future strategy and manage risk",
+      "To comply with tax laws"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "3.1",
+    "explanation": "Internally, a business plan helps define strategy, detect risks, and compare results with expectations."
+  },
+  {
+    "id": 213,
+    "question": "Which of the following is considered an external reason for developing a business plan?",
+    "options": [
+      "Setting internal KPIs",
+      "Attracting new talent",
+      "Presenting the company to banks or investors",
+      "Calculating tax returns"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "3.1",
+    "explanation": "Externally, a business plan is used to present the company to stakeholders such as banks or investors."
+  },
+  {
+    "id": 214,
+    "question": "How is a business plan described in terms of its lifecycle?",
+    "options": [
+      "It should be discarded after one year",
+      "It is static and doesn't change",
+      "It is a live document that evolves",
+      "It is prepared only for legal compliance"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "3.1",
+    "explanation": "The business plan is a live document, meaning it evolves with the business and is updated regularly."
+  },
+  {
+    "id": 215,
+    "question": "Which of the following sections is included in a full business plan?",
+    "options": [
+      "Weather reports",
+      "Company description and market analysis",
+      "Personal resumes",
+      "Monthly calendars"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "3.1",
+    "explanation": "A full business plan includes the company description and market/industry analysis."
+  },
+  {
+    "id": 216,
+    "question": "What does the SWOT analysis in a business plan examine?",
+    "options": [
+      "Only strengths and threats",
+      "Only financial trends",
+      "Strengths, weaknesses, opportunities, and threats",
+      "Just internal HR capabilities"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "3.1",
+    "explanation": "SWOT stands for strengths, weaknesses, opportunities, and threats."
+  },
+  {
+    "id": 217,
+    "question": "The financial plan in a business plan typically includes:",
+    "options": [
+      "Staff performance reviews",
+      "Balance sheets and cash flow forecasts",
+      "Personal expense reports",
+      "Competitor reviews"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "3.1",
+    "explanation": "The financial section includes balance sheets, income statements, and cash flow projections."
+  },
+  {
+    "id": 218,
+    "question": "What is the purpose of the break-even analysis in a business plan?",
+    "options": [
+      "To analyze staff productivity",
+      "To determine when revenue will equal expenses",
+      "To plan advertising budgets",
+      "To compare competitor prices"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "3.1",
+    "explanation": "Break-even analysis determines the point at which total income equals total costs."
+  },
+  {
+    "id": 219,
+    "question": "What part of the business plan outlines what the company does, for whom, and what makes it unique?",
+    "options": [
+      "Financial Plan",
+      "Marketing Strategy",
+      "Mission Statement",
+      "SWOT Analysis"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "3.1",
+    "explanation": "The mission statement defines the business purpose, target customers, and point of difference."
+  },
+  {
+    "id": 220,
+    "question": "What does the vision statement in a business plan usually express?",
+    "options": [
+      "The daily routine of workers",
+      "Tax obligations of the firm",
+      "The long-term aspiration of the company",
+      "The market size and trends"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "3.1",
+    "explanation": "The vision is the long-term aspiration of the business and guides future development."
+  },
+  {
+    "id": 221,
+    "question": "The 'Executive Summary' of a business plan is:",
+    "options": [
+      "Written only for accountants",
+      "A brief overview of the entire business plan",
+      "Focused only on product pricing",
+      "The company's employment contract"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "3.1",
+    "explanation": "The Executive Summary gives a concise overview of the plan, including vision, mission, and key details."
+  },
+  {
+    "id": 222,
+    "question": "Which of the following best defines 'Operating Income'?",
+    "options": [
+      "Income after taxes and interest",
+      "Gross sales",
+      "Profit from core business operations",
+      "Cash balance in bank"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "3.1",
+    "explanation": "Operating income refers to earnings from the company's main operations, before taxes and interest."
+  },
+  {
+    "id": 223,
+    "question": "What does the term 'gross margin' refer to?",
+    "options": [
+      "The cost of salaries",
+      "The value of machinery",
+      "Revenue minus direct costs",
+      "Net profit after all expenses"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "3.1",
+    "explanation": "Gross margin represents the income retained after covering the direct costs of production."
+  },
+  {
+    "id": 224,
+    "question": "A business plan should be written in a way that is:",
+    "options": [
+      "Highly technical and complex",
+      "Simple enough for everyone to understand",
+      "Full of marketing jargon",
+      "Only readable by lawyers"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "3.1",
+    "explanation": "A business plan should be clear and concise to be understood by all stakeholders."
+  },
+  {
+    "id": 225,
+    "question": "Which of the following documents is **not** typically part of a formal business plan?",
+    "options": [
+      "Vision and mission statements",
+      "Cash flow forecasts",
+      "Weather conditions",
+      "Break-even analysis"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "3.1",
+    "explanation": "Weather conditions are not relevant to the standard structure of a business plan."
+  },
+  {
+    "id": 226,
+    "question": "What is the purpose of defining 'Key Success Factors' in a business plan?",
+    "options": [
+      "To satisfy tax authorities",
+      "To identify critical elements for success",
+      "To outline government regulations",
+      "To describe employee relationships"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "3.1",
+    "explanation": "Key success factors highlight essential elements that the company must address to succeed."
+  },
+  {
+    "id": 227,
+    "question": "Which of these is a typical question answered by a business plan?",
+    "options": [
+      "What will we name our pet mascot?",
+      "Where should we post social media updates?",
+      "How will the company achieve profitability?",
+      "When should employees take vacations?"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "3.1",
+    "explanation": "A business plan explains how a company plans to be profitable and sustainable."
+  },
+  {
+    "id": 228,
+    "question": "Which metric helps determine the pricing strategy of a company?",
+    "options": [
+      "Break-even point",
+      "Cash flow",
+      "Net salary",
+      "Tax rate"
+    ],
+    "correctAnswer": 0,
+    "subject": "economy",
+    "topic": "3.1",
+    "explanation": "The break-even point influences the pricing needed to cover costs and generate profit."
+  },
+  {
+    "id": 229,
+    "question": "In the context of a business plan, who are 'key stakeholders'?",
+    "options": [
+      "People who follow the company on social media",
+      "Individuals or groups with an interest in the business's success",
+      "Only the CEO and founders",
+      "Employees who work overtime"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "3.1",
+    "explanation": "Stakeholders include anyone affected by or interested in the company, such as investors, banks, and customers."
+  },
+  {
+    "id": 230,
+    "question": "What is the best way to use a business plan over time?",
+    "options": [
+      "Use it only once at launch",
+      "Update it annually and adapt it as conditions change",
+      "Lock it in a drawer for legal safety",
+      "Only refer to it during bankruptcy"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "3.1",
+    "explanation": "A business plan is a dynamic tool that should be reviewed and updated regularly as the business evolves."
+  },
+   {
+    "id": 231,
+    "question": "What is typically the first section in a business plan?",
+    "options": [
+      "SWOT analysis",
+      "Financial statements",
+      "Executive summary",
+      "Marketing plan"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "3.1",
+    "explanation": "The Executive Summary is usually the first section and provides a concise overview of the business plan."
+  },
+  {
+    "id": 232,
+    "question": "Why is the company description important in a business plan?",
+    "options": [
+      "It lists all suppliers",
+      "It defines the business, its goals, and the problems it aims to solve",
+      "It shows advertising results",
+      "It describes employee complaints"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "3.1",
+    "explanation": "The company description provides a clear idea of what the business does, its objectives, and its market."
+  },
+  {
+    "id": 233,
+    "question": "The marketing and sales plan in a business plan focuses on:",
+    "options": [
+      "Employee salaries",
+      "Product development deadlines",
+      "How the business will attract and retain customers",
+      "Tax filing procedures"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "3.1",
+    "explanation": "This section outlines strategies for market entry, pricing, promotion, and sales."
+  },
+  {
+    "id": 234,
+    "question": "What should the operations plan of a business describe?",
+    "options": [
+      "Tax deductions",
+      "The daily functioning and logistics of the company",
+      "Celebrity endorsements",
+      "Bank interest rates"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "3.1",
+    "explanation": "The operations plan covers the production process, location, facilities, equipment, and logistics."
+  },
+  {
+    "id": 235,
+    "question": "Which section of the business plan highlights the background and roles of key team members?",
+    "options": [
+      "SWOT analysis",
+      "Company description",
+      "Management and organization",
+      "Break-even analysis"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "3.1",
+    "explanation": "This section identifies the people behind the business and their responsibilities."
+  },
+  {
+    "id": 236,
+    "question": "Which of the following would likely be included in the appendix of a business plan?",
+    "options": [
+      "Vision statement",
+      "Market trends",
+      "Resumes and legal documents",
+      "Executive summary"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "3.1",
+    "explanation": "The appendix includes supporting documents such as CVs, permits, and detailed data tables."
+  },
+  {
+    "id": 237,
+    "question": "What is the purpose of competitor analysis in a business plan?",
+    "options": [
+      "To avoid all competition",
+      "To criticize other companies",
+      "To understand market position and differentiation",
+      "To copy successful ideas"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "3.1",
+    "explanation": "Competitor analysis helps identify gaps in the market and position the business competitively."
+  },
+  {
+    "id": 238,
+    "question": "In a business plan, what is a 'target market'?",
+    "options": [
+      "All consumers globally",
+      "The group of people most likely to buy the product or service",
+      "Employees of the business",
+      "Shareholders only"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "3.1",
+    "explanation": "The target market refers to the specific segment of consumers the business aims to serve."
+  },
+  {
+    "id": 239,
+    "question": "A value proposition is:",
+    "options": [
+      "The cost of production",
+      "A legal business name",
+      "A clear statement of benefits offered to customers",
+      "A tax filing method"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "3.1",
+    "explanation": "It explains how a product or service solves a problem and why it’s better than alternatives."
+  },
+  {
+    "id": 240,
+    "question": "The business plan helps in setting:",
+    "options": [
+      "Vacation schedules",
+      "Tax rates",
+      "Strategic goals and monitoring mechanisms",
+      "Employee punishments"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "3.1",
+    "explanation": "It defines strategic goals and provides tools to monitor progress toward them."
+  },
+  {
+    "id": 241,
+    "question": "What is the function of the financial projections section?",
+    "options": [
+      "To show marketing trends",
+      "To visualize expected revenues and expenses",
+      "To calculate taxes",
+      "To explain employment policies"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "3.1",
+    "explanation": "This section outlines anticipated financial performance, including income, expenses, and growth."
+  },
+  {
+    "id": 242,
+    "question": "In a business plan, ROI stands for:",
+    "options": [
+      "Rate of Income",
+      "Return on Investment",
+      "Revenue Over Income",
+      "Ratio of Innovation"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "3.1",
+    "explanation": "ROI measures the profitability of investments relative to their cost."
+  },
+  {
+    "id": 243,
+    "question": "How often should a business plan be reviewed?",
+    "options": [
+      "Only at the start",
+      "Every 10 years",
+      "Only during crises",
+      "Regularly to reflect changes"
+    ],
+    "correctAnswer": 3,
+    "subject": "economy",
+    "topic": "3.1",
+    "explanation": "A business plan should be updated regularly to reflect market or internal changes."
+  },
+  {
+    "id": 244,
+    "question": "Which of the following is **not** a typical element of the market analysis section?",
+    "options": [
+      "Industry description",
+      "Target customer profile",
+      "Employee reviews",
+      "Competitive landscape"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "3.1",
+    "explanation": "Employee reviews are not part of market analysis; it focuses on external conditions."
+  },
+  {
+    "id": 245,
+    "question": "Why is the organizational structure included in a business plan?",
+    "options": [
+      "To impress investors with the number of employees",
+      "To show vacation policies",
+      "To clarify who is responsible for what",
+      "To display office locations"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "3.1",
+    "explanation": "It defines roles and responsibilities, which is crucial for execution and accountability."
+  },
+  {
+    "id": 246,
+    "question": "How does a business plan support communication?",
+    "options": [
+      "By providing email addresses",
+      "By outlining technical jargon",
+      "By summarizing the business clearly for all stakeholders",
+      "By describing entertainment options"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "3.1",
+    "explanation": "It helps communicate the business idea clearly to potential partners, employees, and investors."
+  },
+  {
+    "id": 247,
+    "question": "When presenting a business plan to investors, what is especially important?",
+    "options": [
+      "Highlighting hobbies of employees",
+      "Explaining tax returns in detail",
+      "Demonstrating profitability and growth potential",
+      "Showing office decorations"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "3.1",
+    "explanation": "Investors want to understand the business’s potential to generate returns."
+  },
+  {
+    "id": 248,
+    "question": "Which element of a business plan helps mitigate risks?",
+    "options": [
+      "SWOT analysis",
+      "Appendix",
+      "Mission statement",
+      "Vision statement"
+    ],
+    "correctAnswer": 0,
+    "subject": "economy",
+    "topic": "3.1",
+    "explanation": "SWOT analysis identifies internal and external risks and opportunities."
+  },
+  {
+    "id": 249,
+    "question": "How does a business plan aid decision-making?",
+    "options": [
+      "It acts as a legal requirement",
+      "It outlines structured goals and strategies",
+      "It replaces contracts",
+      "It controls employee behavior"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "3.1",
+    "explanation": "With clear strategies and data, the business plan guides better decision-making."
+  },
+  {
+    "id": 250,
+    "question": "Which part of a business plan would likely include graphs or charts?",
+    "options": [
+      "Executive summary",
+      "Company background",
+      "Financial plan",
+      "Mission statement"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "3.1",
+    "explanation": "The financial plan often includes visual elements like charts to explain projections."
+  },
+  
+
 ]
 
 
@@ -3339,13 +4041,13 @@ export default function QuizApp() {
     }))
 
     return (
-      <div className="min-h-screen bg-gradient-to-br from-emerald-50 via-teal-50 to-cyan-100 dark:from-gray-900 dark:via-gray-800 dark:to-gray-900 p-4 transition-all duration-500">
+      <div className="min-h-screen bg-gradient-to-br from-emerald-50 via-teal-50 to-cyan-100 dark:from-gray-900 dark:via-gray-800 dark:to-gray-900 p-2 sm:p-4 transition-all duration-500">
         <ThemeToggle />
-        <div className="mx-auto max-w-6xl">
+        <div className="mx-auto w-full max-w-6xl">
           <div className="text-center mb-8">
             <div className="relative">
               <BarChart3 className="mx-auto h-20 w-20 text-emerald-600 dark:text-emerald-400 mb-4 drop-shadow-lg" />
-              <Sparkles className="absolute -top-2 -right-2 h-0 w-6 text-yellow-500 animate-pulse" />
+              <Sparkles className="absolute -top-2 -right-2 h-6 w-6 text-yellow-500 animate-pulse" />
             </div>
             <h1 className="text-5xl font-bold bg-gradient-to-r from-emerald-600 to-teal-600 dark:from-emerald-400 dark:to-teal-400 bg-clip-text text-transparent mb-3">
               Analytics 
@@ -3381,7 +4083,7 @@ export default function QuizApp() {
               </CardContent>
             </Card>
           ) : (
-            <div className="grid gap-8">
+            <div className="flex flex-col gap-8">
               {/* Global Overview */}
               <Card className="shadow-2xl border-0 bg-white/80 dark:bg-gray-800/80 backdrop-blur-sm">
                 <CardHeader className="bg-gradient-to-r from-emerald-500/10 to-teal-500/10 dark:from-emerald-400/10 dark:to-teal-400/10">
@@ -3454,22 +4156,26 @@ export default function QuizApp() {
                 <CardHeader className="bg-gradient-to-r from-blue-500/10 to-purple-500/10 dark:from-blue-400/10 dark:to-purple-400/10">
                   <CardTitle className="text-3xl">Score by Topic (0-10)</CardTitle>
                 </CardHeader>
-                <CardContent className="p-8">
-                  <ChartContainer
-                    config={{
-                      score: { label: "Score", color: "#3b82f6" },
-                    }}
-                    className="h-[350px] w-full"
-                  >
-                    <ResponsiveContainer width="100%" height="100%">
-                      <BarChart data={topicsBarData}>
-                        <XAxis dataKey="topic" />
-                        <YAxis domain={[0, 10]} />
-                        <Bar dataKey="score" fill="#3b82f6" radius={[6, 6, 0, 0]} />
-                        <ChartTooltip content={<ChartTooltipContent />} formatter={(value, name) => [value, "Score"]} />
-                      </BarChart>
-                    </ResponsiveContainer>
-                  </ChartContainer>
+                <CardContent className="p-2 sm:p-8">
+                  <div className="w-full overflow-x-auto">
+                    <div className="min-w-[350px] sm:min-w-0 h-[250px] sm:h-[350px]">
+                      <ChartContainer
+                        config={{
+                          score: { label: "Score", color: "#3b82f6" },
+                        }}
+                        className="h-full w-full"
+                      >
+                        <ResponsiveContainer width="100%" height="100%">
+                          <BarChart data={topicsBarData}>
+                            <XAxis dataKey="topic" />
+                            <YAxis domain={[0, 10]} />
+                            <Bar dataKey="score" fill="#3b82f6" radius={[6, 6, 0, 0]} />
+                            <ChartTooltip content={<ChartTooltipContent />} formatter={(value, name) => [value, "Score"]} />
+                          </BarChart>
+                        </ResponsiveContainer>
+                      </ChartContainer>
+                    </div>
+                  </div>
                 </CardContent>
               </Card>
 
@@ -3483,7 +4189,6 @@ export default function QuizApp() {
                       score: Number.parseFloat(attempt.score.toFixed(1)),
                     }))
 
-                    // Add a second point for single test to show a line
                     if (trendData.length === 1) {
                       trendData.push({
                         test: "Test 2",
@@ -3493,17 +4198,39 @@ export default function QuizApp() {
 
                     return (
                       <Card key={stat.topic} className="shadow-2xl border-0 bg-white/80 dark:bg-gray-800/80 backdrop-blur-sm">
-                        
-                        
-                      </Card>
-                    )
-                  })}
-              </div>
-            </div>
-          )}
+                        <CardHeader>
+                          <CardTitle className="text-lg truncate">{stat.topic}</CardTitle>
+                        </CardHeader>
+                        <CardContent className="p-2 sm:p-8">
+                          <div className="w-full overflow-x-auto">
+                            <div className="min-w-[300px] h-[200px] sm:h-[250px]">
+                              <ChartContainer
+                                config={{
+                                  score: { label: "Score", color: "#3b82f6" },
+                            }}
+                            className="h-full w-full"
+                          >
+                            <ResponsiveContainer width="100%" height="100%">
+                              <LineChart data={trendData}>
+                                <XAxis dataKey="test" />
+                                <YAxis domain={[0, 10]} />
+                                <Line type="monotone" dataKey="score" stroke="#3b82f6" strokeWidth={3} dot />
+                                <ChartTooltip content={<ChartTooltipContent />} formatter={(value, name) => [value, "Score"]} />
+                              </LineChart>
+                            </ResponsiveContainer>
+                          </ChartContainer>
+                        </div>
+                      </div>
+                    </CardContent>
+                  </Card>
+                )
+              })}
+          </div>
         </div>
-      </div>
-    )
+      )}
+    </div>
+  </div>
+)
   }
 
   if (activeTab === "analytics") {
@@ -3552,7 +4279,7 @@ export default function QuizApp() {
                   <CardHeader className="bg-gradient-to-r from-indigo-500/10 to-purple-500/10 dark:from-indigo-400/10 dark:to-purple-400/10">
                     <CardTitle className="text-3xl text-center flex items-center justify-center gap-3">
                       <Target className="h-8 w-8 text-indigo-600 dark:text-indigo-400" />
-                      Setup Quiz
+                      Midnight Quiz
                     </CardTitle>
                   </CardHeader>
                   <CardContent className="space-y-8 p-8">
@@ -3610,10 +4337,12 @@ export default function QuizApp() {
                             )}
                           </SelectContent>
                         </Select>
+                        
                       </div>
+                      
                     )}
 
-{selectedSubject && (
+                    {selectedSubject && (
   <div className="space-y-3">
     <label className="text-sm font-semibold text-gray-700 dark:text-gray-300">
       Set the maximum number of questions
@@ -3641,7 +4370,7 @@ export default function QuizApp() {
       disabled={filteredQuestions.length === 0}
     />
     {filteredQuestions.length > 0 ? (
-      <p className="text-xs text-gray-500 dark:text-gray-400">
+      <p className="text-xs text-gray-500 dark:text-gray-400 px-4">
         Enter the number of questions you want to practice (maximum: {filteredQuestions.length}).
         
       </p>
@@ -3652,12 +4381,6 @@ export default function QuizApp() {
     )}
   </div>
 )}
-
-
-
-
-
-
 
                     <div className="space-y-4">
                       <div className="flex items-center space-x-3 p-4 bg-gradient-to-r from-blue-50 to-indigo-50 dark:from-blue-900/20 dark:to-indigo-900/20 rounded-xl">
@@ -3688,6 +4411,7 @@ export default function QuizApp() {
                         </p>
                       </div>
                     )}
+                    
 
                     <Button
                       onClick={startQuiz}
@@ -3695,6 +4419,7 @@ export default function QuizApp() {
                       className="w-full h-14 text-lg bg-gradient-to-r from-indigo-500 to-purple-500 hover:from-indigo-600 hover:to-purple-600 text-white shadow-lg hover:shadow-xl transition-all duration-200 hover:scale-105 disabled:opacity-50 disabled:cursor-not-allowed"
                     >
                       <Target className="h-5 w-5 mr-2" />
+                      
                       Start Quiz
                     </Button>
                   </CardContent>
@@ -3702,8 +4427,20 @@ export default function QuizApp() {
               </TabsContent>
             </Tabs>
           </div>
+          <div className="mt-12 text-center">
+              <a
+                href="https://docs.google.com/document/d/1I9rDIekOVPR_JyWGnMYYecI3d_-b1IOX-co_IN12ToE/edit?pli=1&tab=t.0"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-block text-blue-700 dark:text-blue-300 underline hover:text-blue-900 dark:hover:text-blue-100 transition"
+              >
+                View the study document
+              </a>
+            </div>
         </div>
+        
       </ThemeProvider>
+      
     )
   }
 
@@ -3712,6 +4449,7 @@ export default function QuizApp() {
 
     return (
       <div className="min-h-screen bg-gradient-to-br from-emerald-50 via-green-50 to-teal-100 dark:from-gray-900 dark:via-emerald-900 dark:to-teal-900 p-4 transition-all duration-500">
+        
         <ThemeToggle />
         <div className="mx-auto max-w-6xl">
           <Card className="shadow-2xl border-0 bg-white/80 dark:bg-gray-800/80 backdrop-blur-sm mb-8">
