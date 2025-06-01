@@ -8571,8 +8571,21 @@ export default function QuizApp() {
                   <Target className="h-4 w-4 mr-2" />
                   Start Quiz
                 </Button>
+                {/* Mike Acton Photo at the Bottom */}
+<div className="flex flex-col items-center mt-12 mb-8">
+  <img
+    src="/acton1_0.jpg"
+    alt="Mike Acton"
+    className="rounded shadow-lg w-80 h-80 object-cover"
+  />
+  
+  <p className="mt-4 text-center text-gray-600 italic">
+    Mike Acton wouldn't be proud of the implementation of this page
+  </p>
+</div>
               </CardContent>
             </Card>
+            
           ) : (
             <div className="flex flex-col gap-8">
               {/* Global Overview */}
