@@ -3587,7 +3587,4498 @@ const mockQuestions: Question[] =
     "topic": "3.1",
     "explanation": "The financial plan often includes visual elements like charts to explain projections."
   },
-  
+  {
+    "id": 251,
+    "subject": "economy",
+    "topic": "3.2",
+    "question": "What is the primary goal of the marketing section in a formal business plan?",
+    "options": [
+      "To list the available suppliers and raw materials.",
+      "To analyze price, promotion, distribution, and sales strategies.",
+      "To create a full organizational chart of the business.",
+      "To identify the legal responsibilities of board members."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The marketing section of a formal business plan is focused on analyzing price, promotion, distribution, and sales to define how the company will attract and retain customers."
+  },
+  {
+    "id": 252,
+    "subject": "economy",
+    "topic": "3.2",
+    "question": "What is a 'buyer persona' in the context of a business plan?",
+    "options": [
+      "A legal representative of the company's investors.",
+      "A type of distribution strategy.",
+      "A fictional, generalized representation of ideal customers.",
+      "A tool used to calculate financial ratios."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Buyer personas are fictional profiles that help businesses understand and target their ideal customers more effectively."
+  },
+  {
+    "id": 253,
+    "subject": "economy",
+    "topic": "3.2",
+    "question": "What is the function of the 'pro forma income statement'?",
+    "options": [
+      "To display the company's organizational structure.",
+      "To explain how products will be distributed.",
+      "To show projected sales, profits, and margins.",
+      "To summarize the company’s legal risks."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The pro forma income statement provides an economic projection of the business, including expected sales, profits, and margins."
+  },
+  {
+    "id": 254,
+    "subject": "economy",
+    "topic": "3.2",
+    "question": "Why are 'negative buyer personas' useful in a business plan?",
+    "options": [
+      "They help determine employee wages.",
+      "They assist in identifying markets to avoid.",
+      "They reveal the most profitable customer segments.",
+      "They highlight the company's equity structure."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Negative buyer personas represent the types of customers that are not ideal for the business due to reasons like lack of budget or low retention."
+  },
+  {
+    "id": 255,
+    "subject": "economy",
+    "topic": "3.2",
+    "question": "Which of the following best describes the 'investment proposal' section of a business plan?",
+    "options": [
+      "A record of the company's past expenditures.",
+      "A breakdown of day-to-day operations.",
+      "A description of financing needs, usage, risks, and repayment schedule.",
+      "A chart of the product’s life cycle."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The investment proposal outlines the required funding, its planned usage, risk assessment, and repayment plan."
+  },
+  {
+    "id": 256,
+    "subject": "economy",
+    "topic": "3.2",
+    "question": "What is the role of the 'pro forma cash flow statement'?",
+    "options": [
+      "To define the company’s tax obligations.",
+      "To measure the business’s productivity.",
+      "To show when money will be available to pay debts.",
+      "To assess employee satisfaction."
+    ],
+    "correctAnswer": "To show when money will be available to pay debts.",
+    "explanation": "The pro forma cash flow statement is critical because it shows the company's expected liquidity, helping assess the feasibility of debt payments."
+  },
+  {
+    "id": 257,
+    "subject": "economy",
+    "topic": "3.2",
+    "question": "Which of the following is NOT typically included in the full business plan?",
+    "options": [
+      "Company brand and customer base.",
+      "Staff responsibilities and educational background.",
+      "Daily emotional state of employees.",
+      "Pro forma financial statements."
+    ],
+    "correctAnswer": 2,
+    "explanation": "While staff responsibilities and qualifications are included, personal emotional states are not relevant to the structure of a business plan."
+  },
+  {
+    "id": 258,
+    "subject": "economy",
+    "topic": "3.2",
+    "question": "What is a common investor preference when presenting a business plan?",
+    "options": [
+      "A long technical document with formulas.",
+      "A brief oral presentation supported by visuals.",
+      "A product demonstration video only.",
+      "A silent slideshow with text-heavy slides."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Investors often prefer a concise oral presentation with graphic support before reading the full business plan."
+  },
+  {
+    "id": 259,
+    "subject": "economy",
+    "topic": "3.2",
+    "question": "Which of the following factors should be considered when selecting a business location?",
+    "options": [
+      "Local folklore and traditions.",
+      "Proximity to customers and suppliers, wage rates, and infrastructure.",
+      "Personal hobbies of the founder.",
+      "Color of nearby buildings."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Business location should be strategic and consider factors like access to customers, suppliers, infrastructure, and cost-effective labor."
+  },
+  {
+    "id": 260,
+    "subject": "economy",
+    "topic": "3.2",
+    "question": "Which financial document is most consulted in a business plan?",
+    "options": [
+      "Pro forma balance sheet",
+      "Pro forma income statement",
+      "Pro forma cash flow statement",
+      "Investment proposal"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The pro forma cash flow statement is crucial because it indicates when the business will have funds available to meet financial obligations."
+  },
+   {
+    "id": 261,
+    "question": "What is the main purpose of creating buyer personas?",
+    "options": ["To find legal loopholes", "To better understand your ideal customers", "To increase manufacturing efficiency", "To reduce supplier costs"],
+    "correctAnswer": 1,
+    "subject": "economy",
+   "topic": "3.2",
+    "explanation": "Buyer personas help tailor content and marketing strategies to meet the specific needs of different customer segments."
+  },
+  {
+    "id": 262,
+    "question": "What type of persona represents customers you do NOT want to target?",
+    "options": ["Positive personas", "Support personas", "Buyer avatars", "Negative buyer personas"],
+    "correctAnswer": 3,
+    "subject": "economy",
+    "topic": "3.2",
+    "explanation": "Negative buyer personas represent people who are unlikely to be profitable or are too expensive to acquire."
+  },
+  {
+    "id": 263,
+    "question": "Which of the following is NOT a common reason to exclude someone using a negative buyer persona?",
+    "options": ["They are highly educated", "They don't have the budget", "They are uninterested", "They are hard to retain"],
+    "correctAnswer": 0,
+    "subject": "economy",
+   "topic": "3.2",
+    "explanation": "Education level alone is not a common reason to exclude a customer unless it affects product fit."
+  },
+  {
+    "id": 264,
+    "question": "What should the Marketing section of a business plan include?",
+    "options": ["Company mission only", "Product dimensions", "Price, promotion, sales and distribution analysis", "Daily operational schedule"],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "3.2",
+    "explanation": "The marketing section outlines the company's strategy in pricing, promoting, and selling its products or services."
+  },
+  {
+    "id": 265,
+    "question": "Why is a sales cycle important in a business plan?",
+    "options": ["To determine legal obligations", "To explain advertising costs", "To explain the time it takes to close a sale", "To set packaging standards"],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "3.2",
+    "explanation": "The sales cycle illustrates how long it takes to convert a lead into a paying customer, essential for revenue planning."
+  },
+  {
+    "id": 266,
+    "question": "What type of costs should advertising and promotion be included under?",
+    "options": ["Variable costs", "Capital expenditures", "General indirect costs", "Fixed assets"],
+    "correctAnswer": 2,
+    "subject": "economy",
+   "topic": "3.2",
+    "explanation": "Marketing expenses like advertising and promotion are indirect costs not tied directly to product manufacturing."
+  },
+  {
+    "id": 267,
+    "question": "What does the organizational chart in a business plan show?",
+    "options": ["The advertising schedule", "The legal liabilities", "The company hierarchy", "The customer satisfaction levels"],
+    "correctAnswer": 2,
+    "subject": "economy",
+   "topic": "3.2",
+    "explanation": "An organization chart illustrates the structure, positions, and responsibilities within the company."
+  },
+  {
+    "id": 268,
+    "question": "What is the purpose of the 'pro forma' income statement?",
+    "options": ["To record past financial transactions", "To show future expected sales and profits", "To estimate tax deductions", "To outline government grants"],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "3.2",
+    "explanation": "The pro forma income statement is a financial forecast showing expected revenues and expenses."
+  },
+  {
+    "id": 269,
+    "question": "Which ratio is NOT typically included in a pro forma income statement analysis?",
+    "options": ["ROE", "ROA", "ROS", "LTV"],
+    "correctAnswer": 3,
+    "subject": "economy",
+    "topic": "3.2",
+    "explanation": "LTV (Customer Lifetime Value) is a marketing metric, not part of standard financial ratio analysis in income statements."
+  },
+  {
+    "id": 270,
+    "question": "What does the pro forma balance sheet help determine?",
+    "options": ["Marketing strategy", "Asset financing", "Hiring policies", "Sales commissions"],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "3.2",
+    "explanation": "The pro forma balance sheet indicates what assets are needed and how they will be financed."
+  },
+  {
+    "id": 271,
+    "question": "Why is the pro forma cash flow statement critical?",
+    "options": ["It shows the number of customers acquired", "It calculates income tax", "It shows when the business can pay its debts", "It determines the equity structure"],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "3.2",
+    "explanation": "The cash flow statement highlights liquidity and the company's ability to meet short-term obligations."
+  },
+  {
+    "id": 272,
+    "question": "What should an investment proposal include?",
+    "options": ["Employee preferences", "Schedule of product features", "Use of funds and repayment plan", "Product descriptions only"],
+    "correctAnswer": 2,
+    "subject": "economy",
+   "topic": "3.2",
+    "explanation": "An investment proposal outlines how the capital will be used, repayment terms, and key milestones."
+  },
+  {
+    "id": 273,
+    "question": "What does the sustainability section address?",
+    "options": ["Operational errors", "Customer loyalty programs", "Social, economic, and environmental impact", "Office design layout"],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "3.2",
+    "explanation": "This section assesses the company’s responsibility and opportunities for positive impact."
+  },
+  {
+    "id": 274,
+    "question": "What is the purpose of the Appendix in a business plan?",
+    "options": ["To replace the executive summary", "To include unrelated business topics", "To provide additional support material", "To outline HR policies"],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "3.2",
+    "explanation": "The Appendix includes supporting evidence, charts, or documents that reinforce other sections."
+  },
+  {
+    "id": 275,
+    "question": "What is one of the main goals of the Operational Plan?",
+    "options": ["To define customer satisfaction goals", "To determine CEO compensation", "To explain how the business will be run", "To set government lobbying policies"],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "3.2",
+    "explanation": "The operational plan provides detailed insights into how the business will function daily."
+  },
+  {
+    "id": 276,
+    "question": "Which of the following is typically included in a startup business plan?",
+    "options": ["Daily timecards", "Company brand and financial info", "Complete production log", "Legislative proposals"],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "3.2",
+    "explanation": "A startup plan includes essentials like branding, customers, team, finances, and available cash."
+  },
+  {
+    "id": 277,
+    "question": "When presenting to investors, what type of presentation is usually preferred?",
+    "options": ["Long legal document", "Short oral pitch with graphs", "Full market research report", "Technical specifications"],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "3.2",
+    "explanation": "Investors prefer concise pitches with visuals that highlight the opportunity clearly and quickly."
+  },
+  {
+    "id": 278,
+    "question": "What is NOT recommended in a pitch presentation?",
+    "options": ["Sharp slides", "Smooth delivery", "Overloaded text", "Showing enthusiasm"],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "3.2",
+    "explanation": "Effective presentations avoid clutter and focus on key points with clean, readable visuals."
+  },
+  {
+    "id": 279,
+    "question": "Which of the 5 C's evaluates whether the entrepreneur can repay a loan?",
+    "options": ["Character", "Collateral", "Capacity", "Conditions"],
+    "correctAnswer": 2,
+    "subject": "economy",
+   "topic": "3.2",
+    "explanation": "Capacity refers to the entrepreneur's ability, in financial terms, to repay a loan."
+  },
+  {
+    "id": 280,
+    "question": "Which factor is NOT directly related to choosing a business location?",
+    "options": ["Digital connectivity", "Weather conditions", "Wage rates", "Marketing strategy"],
+    "correctAnswer": 3,
+    "subject": "economy",
+    "topic": "3.2",
+    "explanation": "While marketing is important, factors like proximity to customers and infrastructure directly affect location decisions."
+  },
+    {
+    "id": 281,
+    "question": "Why might a business use scenario planning in its financial forecasting?",
+    "options": ["To avoid paying taxes", "To determine branding guidelines", "To prepare for multiple future conditions", "To define mission and vision"],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "3.2",
+    "explanation": "Scenario planning allows a company to forecast different financial outcomes based on varying economic or market conditions."
+  },
+  {
+    "id": 282,
+    "question": "What is the primary risk of overestimating projected sales in a pro forma income statement?",
+    "options": ["Increased competition", "Unrealistic budgeting and poor cash flow management", "Improved investor confidence", "Reduced legal obligations"],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "3.2",
+    "explanation": "Overestimating sales can result in poor budgeting, overhiring, or overspending, leading to cash flow problems."
+  },
+  {
+    "id": 283,
+    "question": "How does a business plan address operational scalability?",
+    "options": ["By listing tax obligations", "By showing how operations can expand without proportionate cost increases", "By reducing the marketing budget", "By limiting the product line"],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "3.2",
+    "explanation": "Operational scalability describes the ability to grow operations efficiently, which is key to investor interest."
+  },
+  {
+    "id": 284,
+    "question": "In financial forecasting, what does 'burn rate' refer to?",
+    "options": ["Interest rates charged on loans", "Rate of customer churn", "Rate at which a startup spends its capital", "Amount of tax owed per quarter"],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "3.2",
+    "explanation": "Burn rate is the pace at which a startup uses its cash before generating income, critical for planning runway."
+  },
+  {
+    "id": 285,
+    "question": "Which of the following best illustrates vertical integration in an operational plan?",
+    "options": ["Opening a retail chain to sell company-made products", "Outsourcing all marketing tasks", "Buying ads from third-party platforms", "Licensing products to foreign markets"],
+    "correctAnswer": 0,
+    "subject": "economy",
+    "topic": "3.2",
+    "explanation": "Vertical integration means controlling more steps in the supply chain, like manufacturing and distribution."
+  },
+  {
+    "id": 286,
+    "question": "Why might a startup choose to include a break-even analysis in its business plan?",
+    "options": ["To compare employee performance", "To determine when revenue will equal total costs", "To evaluate branding effectiveness", "To estimate long-term tax savings"],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "3.2",
+    "explanation": "A break-even analysis identifies the point where total revenue equals total expenses, critical for financial planning."
+  },
+  {
+    "id": 287,
+    "question": "Which method would most accurately evaluate an entrepreneur’s readiness for expansion?",
+    "options": ["Analyzing the equity ratio", "Assessing brand popularity", "Conducting a SWOT and capacity analysis", "Monitoring competitor pricing"],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "3.2",
+    "explanation": "Readiness for growth is evaluated through internal capability assessments like SWOT and capacity analysis."
+  },
+  {
+    "id": 288,
+    "question": "What is the role of a contingency plan in a formal business plan?",
+    "options": ["It defines the executive team", "It outlines optional HR policies", "It addresses potential risks and alternative responses", "It lists fixed and variable costs"],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "3.2",
+    "explanation": "A contingency plan outlines how a business will respond to unexpected disruptions or market shifts."
+  },
+  {
+    "id": 289,
+    "question": "Which financial document would an investor examine to verify how profits are reinvested?",
+    "options": ["Cash flow statement", "Balance sheet", "Pro forma income statement", "Statement of retained earnings"],
+    "correctAnswer": 3,
+    "subject": "economy",
+    "topic": "3.2",
+    "explanation": "The statement of retained earnings shows how profits are reinvested or distributed as dividends."
+  },
+  {
+    "id": 290,
+    "question": "What does sensitivity analysis help identify in a financial projection?",
+    "options": ["Which team member is underperforming", "How profits vary with changes in key variables", "Legal risks from product liability", "How to reduce HR costs"],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "3.2",
+    "explanation": "Sensitivity analysis tests how changes in variables like costs or sales affect financial outcomes."
+  },
+  {
+    "id": 291,
+    "question": "Which of the following is a key metric for operational efficiency?",
+    "options": ["Customer acquisition cost", "Inventory turnover ratio", "Social media reach", "Total liabilities"],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "3.2",
+    "explanation": "Inventory turnover reflects how efficiently a business manages its inventory in relation to sales."
+  },
+  {
+    "id": 292,
+    "question": "Which of the following would most directly affect the assumptions in a financial projection?",
+    "options": ["Office paint color", "Distribution channel changes", "Employee benefits", "Patent expiration timelines"],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "3.2",
+    "explanation": "Changes in distribution channels can significantly alter cost structures and sales assumptions."
+  },
+  {
+    "id": 293,
+    "question": "What is the difference between gross margin and operating margin?",
+    "options": ["Gross margin includes taxes; operating margin does not", "Operating margin subtracts more expenses like salaries and rent", "They are the same metric", "Gross margin includes only net profit"],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "3.2",
+    "explanation": "Gross margin is revenue minus cost of goods sold; operating margin also subtracts operating expenses like rent and salaries."
+  },
+  {
+    "id": 294,
+    "question": "Why is liquidity analysis critical in a startup business plan?",
+    "options": ["It helps choose packaging suppliers", "It forecasts profit margins", "It assesses ability to meet short-term obligations", "It ensures compliance with international tax law"],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "3.2",
+    "explanation": "Liquidity analysis evaluates whether a startup can cover its short-term debts with its current assets."
+  },
+  {
+    "id": 295,
+    "question": "What kind of liability is typically listed under short-term obligations?",
+    "options": ["Long-term lease", "Accounts payable", "Deferred taxes", "Retained earnings"],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "3.2",
+    "explanation": "Accounts payable are short-term debts owed to suppliers or vendors, listed under current liabilities."
+  },
+  {
+    "id": 296,
+    "question": "Which component of a business plan is most likely to include customer archetypes?",
+    "options": ["Operations Plan", "Financial Plan", "Marketing Plan", "Legal Structure"],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "3.2",
+    "explanation": "Customer archetypes, or personas, are used in the marketing plan to tailor promotional strategies."
+  },
+  {
+    "id": 297,
+    "question": "Which funding source is most likely to require equity exchange?",
+    "options": ["Bank loan", "Angel investment", "Crowdfunding donation", "Revenue reinvestment"],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "3.2",
+    "explanation": "Angel investors usually provide funding in exchange for equity in the company."
+  },
+  {
+    "id": 298,
+    "question": "Why might a business plan emphasize competitive barriers?",
+    "options": ["To avoid taxes", "To impress regulators", "To highlight protection from market threats", "To attract new employees"],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "3.2",
+    "explanation": "Competitive barriers like patents or brand loyalty protect a business and reassure investors."
+  },
+  {
+    "id": 299,
+    "question": "What financial metric evaluates a company’s ability to use equity efficiently?",
+    "options": ["ROA", "LTV", "ROE", "EBITDA"],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "3.2",
+    "explanation": "Return on Equity (ROE) shows how efficiently a company uses shareholder equity to generate profits."
+  },
+  {
+    "id": 300,
+    "question": "In a pitch, what makes traction data valuable to investors?",
+    "options": ["It reduces fixed costs", "It proves product-market fit and early success", "It outlines hiring needs", "It replaces the need for branding"],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "3.2",
+    "explanation": "Traction data shows user growth, sales, or partnerships, validating the business model’s viability."
+  },
+  {
+    "id": 301,
+    "question": "What is price in the context of the marketing mix?",
+    "options": [
+      "The total cost of production",
+      "The money spent on advertising",
+      "The amount of money consumers pay to buy a product",
+      "The sum of all fixed and variable costs"
+    ],
+    "correctAnswer": "The amount of money consumers pay to buy a product",
+    "subject": "economy",
+    "topic": "4.1",
+    "explanation": "Price refers to the amount of money consumers pay to buy a product, and it is the only element that generates revenue in the marketing mix."
+  },
+  {
+    "id": 302,
+    "question": "Which of the following best describes what price communicates?",
+    "options": [
+      "Factory efficiency and profit margins",
+      "Sales targets and logistics data",
+      "Brand, market position, and product quality",
+      "Employee salaries and manufacturing output"
+    ],
+    "correctAnswer": "Brand, market position, and product quality",
+    "subject": "economy",
+    "topic": "4.1",
+    "explanation": "Price communicates the brand, the position in the market, the quality of the product/service, and the image of the business."
+  },
+  {
+    "id": 303,
+    "question": "Which of the following is a characteristic of cost-based pricing?",
+    "options": [
+      "It is based on perceived customer value",
+      "It begins by estimating customer demand",
+      "It adds a markup percentage to product cost",
+      "It uses competitor prices as a baseline"
+    ],
+    "correctAnswer": "It adds a markup percentage to product cost",
+    "subject": "economy",
+    "topic": "4.1",
+    "explanation": "Cost-based pricing is calculated by adding a markup to the cost of the product."
+  },
+  {
+    "id": 304,
+    "question": "What does value-based pricing primarily rely on?",
+    "options": [
+      "Fixed manufacturing costs",
+      "The cost of raw materials",
+      "What consumers would pay for the product",
+      "Discounted supplier prices"
+    ],
+    "correctAnswer": "What consumers would pay for the product",
+    "subject": "economy",
+    "topic": "4.1",
+    "explanation": "Value-based pricing estimates what consumers would pay for a product and adjusts the price accordingly."
+  },
+  {
+    "id": 305,
+    "question": "Which of the following is a strategy to increase profitability without changing the base price?",
+    "options": [
+      "Cutting customer support",
+      "Reducing product quality",
+      "Including a surcharge",
+      "Raising prices drastically"
+    ],
+    "correctAnswer": "Including a surcharge",
+    "subject": "economy",
+    "topic": "4.1",
+    "explanation": "Including a surcharge instead of raising the price is a strategy to increase profitability."
+  },
+  {
+    "id": 306,
+    "question": "Which pricing tactic uses prices ending in .99 or similar figures?",
+    "options": [
+      "Zone pricing",
+      "Odd pricing",
+      "Bundling",
+      "Leader pricing"
+    ],
+    "correctAnswer": "Odd pricing",
+    "subject": "economy",
+    "topic": "4.1",
+    "explanation": "Odd pricing gives the impression of a lower price by using figures like 9.99 instead of 10.00."
+  },
+  {
+    "id": 307,
+    "question": "What does the markup percentage of retail price equal?",
+    "options": [
+      "Markup ÷ Cost",
+      "Retail price – Markup",
+      "Markup ÷ Retail price",
+      "Markup ÷ Total expenses"
+    ],
+    "correctAnswer": "Markup ÷ Retail price",
+    "subject": "economy",
+    "topic": "4.1",
+    "explanation": "Markup as a percentage of retail price is calculated as Markup ÷ Retail Price."
+  },
+  {
+    "id": 308,
+    "question": "Which pricing strategy includes a portion of fixed and variable factory overhead in each unit?",
+    "options": [
+      "Cost-plus pricing",
+      "Variable costing",
+      "Absorption pricing",
+      "Leader pricing"
+    ],
+    "correctAnswer": "Absorption pricing",
+    "subject": "economy",
+    "topic": "4.1",
+    "explanation": "Absorption pricing assigns a portion of both fixed and variable factory overhead costs to each unit."
+  },
+  {
+    "id": 309,
+    "question": "How do most service firms determine their prices?",
+    "options": [
+      "Using competitor data",
+      "A flat monthly fee",
+      "Hourly rate based on time required",
+      "Bidding for contracts"
+    ],
+    "correctAnswer": "Hourly rate based on time required",
+    "subject": "economy",
+    "topic": "4.1",
+    "explanation": "Service firms often base their prices on the number of hours required to perform the service."
+  },
+  {
+    "id": 310,
+    "question": "Why must credit card fees be considered in final product pricing?",
+    "options": [
+      "They reduce overhead",
+      "They affect wholesale pricing",
+      "They reduce the net income for merchants",
+      "They increase the brand image"
+    ],
+    "correctAnswer": "They reduce the net income for merchants",
+    "subject": "economy",
+    "topic": "4.1",
+    "explanation": "Credit card fees and transaction charges reduce the final amount merchants receive, so they must be factored into pricing."
+  },
+  {
+    "id": 311,
+    "question": "Which pricing method involves setting the price based on what consumers are willing to pay?",
+    "options": [
+      "Cost-based pricing",
+      "Value-based pricing",
+      "Absorption pricing",
+      "Freemium pricing"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.1",
+    "explanation": "Value-based pricing estimates what consumers would pay and adjusts accordingly."
+  },
+  {
+    "id": 312,
+    "question": "Which pricing tactic involves using odd numbers to give the impression of a lower price?",
+    "options": [
+      "Zone pricing",
+      "Leader pricing",
+      "Odd pricing",
+      "Price lining"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "4.1",
+    "explanation": "Odd pricing uses prices like €9.99 instead of €10 to appear cheaper."
+  },
+  {
+    "id": 313,
+    "question": "In which pricing strategy are accessories priced separately from the main product?",
+    "options": [
+      "Captive-product pricing",
+      "Bundling",
+      "Optional-product pricing",
+      "Dynamic pricing"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "4.1",
+    "explanation": "Optional-product pricing involves separate pricing for accessories."
+  },
+  {
+    "id": 314,
+    "question": "What is the main difference between absorption costing and variable costing?",
+    "options": [
+      "Absorption includes all fixed and variable overheads; variable only includes variable costs.",
+      "Variable includes more fixed costs.",
+      "Absorption uses a fixed profit margin.",
+      "Variable costing uses direct materials only."
+    ],
+    "correctAnswer": 0,
+    "subject": "economy",
+    "topic": "4.1",
+    "explanation": "Absorption costing includes all overheads, while variable includes only those that change with output."
+  },
+  {
+    "id": 315,
+    "question": "Which pricing method uses a fixed markup on the cost of goods sold?",
+    "options": [
+      "Markup pricing",
+      "Dynamic pricing",
+      "Value-based pricing",
+      "Bundling"
+    ],
+    "correctAnswer": 0,
+    "subject": "economy",
+    "topic": "4.1",
+    "explanation": "Markup pricing adds a percentage to the product cost."
+  },
+  {
+    "id": 316,
+    "question": "What is a characteristic of freemium pricing?",
+    "options": [
+      "It adjusts prices based on location.",
+      "It offers products for free with premium upgrades.",
+      "It involves separate pricing for accessories.",
+      "It prices the product based on customer demand."
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.1",
+    "explanation": "Freemium gives a basic product for free and charges for premium features."
+  },
+  {
+    "id": 317,
+    "question": "What is the main goal of price transparency?",
+    "options": [
+      "Hide actual production costs",
+      "Simplify payment systems",
+      "Improve customer trust and loyalty",
+      "Reduce overhead"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "4.1",
+    "explanation": "Price transparency helps customers trust the pricing process."
+  },
+  {
+    "id": 318,
+    "question": "Which strategy can improve profitability without raising the price of a product?",
+    "options": [
+      "Include a surcharge",
+      "Offer more discounts",
+      "Increase stock-out frequency",
+      "Expand product line"
+    ],
+    "correctAnswer": 0,
+    "subject": "economy",
+    "topic": "4.1",
+    "explanation": "Adding surcharges instead of increasing base prices can help avoid customer pushback."
+  },
+  {
+    "id": 319,
+    "question": "What does bundling involve?",
+    "options": [
+      "Offering optional accessories",
+      "Setting different prices by region",
+      "Packaging products/services together for added value",
+      "Pricing based on competition"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "4.1",
+    "explanation": "Bundling includes several items together at a better perceived value."
+  },
+  {
+    "id": 320,
+    "question": "How does leader pricing work?",
+    "options": [
+      "Sets prices lower than competitors to attract customers",
+      "Sets prices based on production costs",
+      "Reduces price of popular items to draw in customers",
+      "Follows the pricing of industry leaders"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "4.1",
+    "explanation": "Leader pricing marks down key items to drive store traffic."
+  },
+  {
+    "id": 321,
+    "question": "In trade credit, how do companies encourage early payment?",
+    "options": [
+      "Allow layaways",
+      "Impose late penalties",
+      "Offer cash discounts",
+      "Use installment plans"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "4.1",
+    "explanation": "Trade credit often includes cash discounts to speed up payment."
+  },
+  {
+    "id": 322,
+    "question": "Which cost is included in variable costing?",
+    "options": [
+      "Fixed overheads",
+      "Depreciation",
+      "Factory overheads that vary with output",
+      "Marketing fees"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "4.1",
+    "explanation": "Variable costing includes only costs that vary with output."
+  },
+  {
+    "id": 323,
+    "question": "What impact does pricing have on profitability?",
+    "options": [
+      "Less than cost reduction",
+      "Greater than cost reduction",
+      "Equal to cost reduction",
+      "Only in long-term strategies"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.1",
+    "explanation": "Pricing has a greater effect on profit than reducing costs."
+  },
+  {
+    "id": 324,
+    "question": "What does suggested retail pricing mean?",
+    "options": [
+      "Price fixed by law",
+      "Price used in freemium models",
+      "Price proposed by manufacturer for resellers",
+      "Lowest possible selling price"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "4.1",
+    "explanation": "Manufacturers suggest retail prices for consistency across sellers."
+  },
+  {
+    "id": 325,
+    "question": "Which pricing method includes both fixed and variable overheads?",
+    "options": [
+      "Variable costing",
+      "Absorption pricing",
+      "Value-based pricing",
+      "Markup pricing"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.1",
+    "explanation": "Absorption pricing includes all types of overhead."
+  },
+  {
+    "id": 326,
+    "question": "What is a characteristic of credit card payments?",
+    "options": [
+      "No additional cost for companies",
+      "Fees are only charged to customers",
+      "Companies pay transaction and percentage fees",
+      "They do not affect pricing"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "4.1",
+    "explanation": "Credit card processing costs are borne by companies."
+  },
+  {
+    "id": 327,
+    "question": "Why do customers tend to spend more with credit cards?",
+    "options": [
+      "Lower interest rates",
+      "Discounts",
+      "Delayed payment effect",
+      "Reward points"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "4.1",
+    "explanation": "The psychological effect of delayed payment leads to higher spending."
+  },
+  {
+    "id": 328,
+    "question": "Which type of credit is often used for high-priced durable goods?",
+    "options": [
+      "Trade credit",
+      "Installment credit",
+      "Credit card",
+      "Cash credit"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.1",
+    "explanation": "Installment credit is typical for big-ticket items like cars or appliances."
+  },
+  {
+    "id": 329,
+    "question": "Which strategy focuses on making the product more efficient to increase profitability?",
+    "options": [
+      "Freemium pricing",
+      "Dynamic pricing",
+      "Improving operations",
+      "Bundling"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "4.1",
+    "explanation": "Operational efficiency helps reduce costs and boost margins."
+  },
+  {
+    "id": 330,
+    "question": "What does dynamic pricing mean?",
+    "options": [
+      "Pricing is the same everywhere",
+      "Customers get prices adjusted to their profile",
+      "Prices are set below cost",
+      "Prices are static over time"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.1",
+    "explanation": "Dynamic pricing involves customized pricing based on customer data or market conditions."
+  },
+  {
+    "id": 331,
+    "subject": "economy",
+    "topic": "4.1",
+    "question": "Which of the following best explains why pricing is considered the most critical element in the marketing mix in terms of profitability?",
+    "options": [
+      "It determines customer loyalty more than any other factor.",
+      "It is the only element that directly generates revenue.",
+      "It requires the least investment to implement.",
+      "It influences the other Ps in the marketing mix."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Price is the only element in the marketing mix that directly produces revenue; the others represent costs."
+  },
+  {
+    "id": 332,
+    "subject": "economy",
+    "topic": "4.1",
+    "question": "A company uses the following method to set prices: it estimates what customers would be willing to pay and then subtracts a margin to ensure competitiveness. This is an example of:",
+    "options": [
+      "Cost-based pricing",
+      "Value-based pricing",
+      "Odd pricing",
+      "Markup pricing"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Value-based pricing estimates the perceived value to the customer and adjusts to include a cushion."
+  },
+  {
+    "id": 333,
+    "subject": "economy",
+    "topic": "4.1",
+    "question": "A firm adopts freemium pricing. Which of the following best describes its expected strategy?",
+    "options": [
+      "Offer a core product for free and sell upgraded features.",
+      "Offer lower prices for bulk purchases.",
+      "Charge different prices in different geographical areas.",
+      "Offer limited-time discounts to promote sales."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Freemium pricing provides basic features for free and charges for premium functionalities."
+  },
+  {
+    "id": 334,
+    "subject": "economy",
+    "topic": "4.1",
+    "question": "What is a major drawback of dynamic pricing if not handled transparently?",
+    "options": [
+      "It causes cost-based losses.",
+      "It leads to customer confusion and distrust.",
+      "It limits access to global markets.",
+      "It complicates bundling strategies."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Dynamic pricing can alienate customers if perceived as unfair or inconsistent."
+  },
+  {
+    "id": 335,
+    "subject": "economy",
+    "topic": "4.1",
+    "question": "Which pricing tactic is most suitable for introducing a new product to attract foot traffic into a retail store?",
+    "options": [
+      "Zone pricing",
+      "Leader pricing",
+      "Optional-product pricing",
+      "Price lining"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Leader pricing involves marking down a popular item to attract customers into the store."
+  },
+  {
+    "id": 336,
+    "subject": "economy",
+    "topic": "4.1",
+    "question": "A firm calculates its markup as a percentage of cost rather than of the retail price. This method:",
+    "options": [
+      "Typically yields a lower apparent percentage.",
+      "Requires a lower breakeven point.",
+      "Is less common in competitive markets.",
+      "Shows a higher margin on low-cost items."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Markup as a percentage of cost shows a higher relative profit on lower-cost items."
+  },
+  {
+    "id": 337,
+    "subject": "economy",
+    "topic": "4.1",
+    "question": "Which of the following is NOT included in the cost structure of absorption pricing?",
+    "options": [
+      "Direct materials",
+      "Variable factory overhead",
+      "Fixed factory overhead",
+      "Opportunity cost"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Absorption pricing includes both fixed and variable costs but does not factor in opportunity cost directly."
+  },
+  {
+    "id": 338,
+    "subject": "economy",
+    "topic": "4.1",
+    "question": "Why might a company prefer variable costing over absorption costing?",
+    "options": [
+      "It gives a better picture of total profitability.",
+      "It simplifies external financial reporting.",
+      "It focuses on costs that fluctuate with production levels.",
+      "It includes all overhead in each unit's price."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Variable costing includes only variable costs, aligning costs directly with output levels."
+  },
+  {
+    "id": 339,
+    "subject": "economy",
+    "topic": "4.1",
+    "question": "Which strategy does NOT help improve profitability without directly raising the product's unit price?",
+    "options": [
+      "Reducing discount programs",
+      "Selling smaller product quantities",
+      "Lowering production costs",
+      "Offering interest-free credit options"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Offering credit may increase sales but adds administrative and financial costs."
+  },
+  {
+    "id": 340,
+    "subject": "economy",
+    "topic": "4.1",
+    "question": "How does pricing communicate a company's market position?",
+    "options": [
+      "Through the number of channels used",
+      "Via the time required to launch products",
+      "By implying the brand image and quality perception",
+      "Based on the taxes charged to customers"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Price influences perceived brand value and market positioning in the minds of consumers."
+  },
+  {
+    "id": 341,
+    "subject": "economy",
+    "topic": "4.1",
+    "question": "Which of the following pricing tactics involves packaging products and services together for a single price?",
+    "options": [
+      "Bundling",
+      "Lining",
+      "Odd pricing",
+      "Dynamic pricing"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Bundling combines products and/or services into a single offer to increase perceived value."
+  },
+  {
+    "id": 342,
+    "subject": "economy",
+    "topic": "4.1",
+    "question": "A merchant receives €97.67 after a €100 credit card sale. What does this most likely reflect?",
+    "options": [
+      "Late payment fees",
+      "Customer discounts",
+      "Credit card transaction and interchange fees",
+      "Retail markdown losses"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Credit card processing and interchange fees reduce the final amount received by the merchant."
+  },
+  {
+    "id": 343,
+    "subject": "economy",
+    "topic": "4.1",
+    "question": "Which of the following is a primary cost consideration for service firms when setting prices?",
+    "options": [
+      "Geographic distance",
+      "Packaging costs",
+      "Hourly labor and materials",
+      "Customer discounts"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Service firms base prices largely on labor hours and the material costs involved."
+  },
+  {
+    "id": 344,
+    "subject": "economy",
+    "topic": "4.1",
+    "question": "What is the main reason companies use installment credit for high-ticket items?",
+    "options": [
+      "To improve delivery speed",
+      "To allow customers to pay through regular, affordable amounts",
+      "To increase stock rotation",
+      "To reduce VAT liability"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Installment credit makes expensive purchases more accessible through smaller payments over time."
+  },
+  {
+    "id": 345,
+    "subject": "economy",
+    "topic": "4.1",
+    "question": "In which pricing method is a fixed percentage added to the unit cost to determine the price?",
+    "options": [
+      "Absorption pricing",
+      "Cost-plus pricing",
+      "Freemium pricing",
+      "Zone pricing"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cost-plus pricing adds a markup to the cost to determine the final selling price."
+  },
+  {
+    "id": 346,
+    "subject": "economy",
+    "topic": "4.1",
+    "question": "Which tactic uses psychological perception to make prices appear lower?",
+    "options": [
+      "Odd pricing",
+      "Bundling",
+      "Captive-product pricing",
+      "Dynamic pricing"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Odd pricing uses non-rounded numbers (like 9.99) to give the impression of a lower price."
+  },
+  {
+    "id": 347,
+    "subject": "economy",
+    "topic": "4.1",
+    "question": "Why might a company use suggested retail pricing?",
+    "options": [
+      "To ensure variable cost consistency",
+      "To let manufacturers control distribution prices",
+      "To increase the break-even point",
+      "To encourage price wars"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Manufacturers suggest retail prices to maintain consistency and competitiveness across distributors."
+  },
+  {
+    "id": 348,
+    "subject": "economy",
+    "topic": "4.1",
+    "question": "Which of these is a primary benefit of follow-the-leader pricing?",
+    "options": [
+      "It allows complete autonomy in pricing.",
+      "It enhances product differentiation.",
+      "It simplifies competitive positioning.",
+      "It eliminates production costs."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Follow-the-leader pricing simplifies decision-making by aligning with market standards set by leading competitors."
+  },
+  {
+    "id": 349,
+    "subject": "economy",
+    "topic": "4.1",
+    "question": "Which crediting strategy allows companies to avoid financing purchases but still secure future sales?",
+    "options": [
+      "Trade credit",
+      "Credit card use",
+      "Layaway plans",
+      "Installment credit"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Layaway plans allow customers to pay in advance over time without taking the product until it’s fully paid."
+  },
+  {
+    "id": 350,
+    "subject": "economy",
+    "topic": "4.1",
+    "question": "What does pricing transparency involve?",
+    "options": [
+      "Hiding markups from customers",
+      "Changing prices dynamically without notice",
+      "Being open about how and why prices are set",
+      "Providing volume discounts secretly"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Transparency in pricing means clearly communicating how prices are determined and what they include."
+  },
+ {
+    "id": 351,
+    "question": "What is the primary purpose of basic financial statements in a company?",
+    "options": [
+      "To forecast future trends and revenues",
+      "To compare marketing strategies",
+      "To obtain a snapshot of the company’s activity for internal and external use",
+      "To calculate employee bonuses"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "4.2",
+    "explanation": "Financial statements provide a comprehensive 'photography' of the company's activity and are meant for both internal and external audiences."
+  },
+  {
+    "id": 352,
+    "question": "Which of the following is NOT typically considered a current asset?",
+    "options": [
+      "Cash",
+      "Accounts receivable",
+      "Inventory",
+      "Buildings"
+    ],
+    "correctAnswer": 3,
+    "subject": "economy",
+    "topic": "4.2",
+    "explanation": "Buildings are fixed assets used for long-term operations, not current assets convertible into cash within one year."
+  },
+  {
+    "id": 353,
+    "question": "What does the balance statement primarily show?",
+    "options": [
+      "Company profitability over a period",
+      "Marketing performance indicators",
+      "Assets, liabilities, and owners’ equity at a specific point in time",
+      "Cash flow trends over a fiscal year"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "4.2",
+    "explanation": "The balance statement shows the financial position of a business at a given moment, listing assets, liabilities, and equity."
+  },
+  {
+    "id": 354,
+    "question": "Which type of asset has the highest liquidity?",
+    "options": [
+      "Intangible asset",
+      "Fixed asset",
+      "Current asset",
+      "Tangible asset"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "4.2",
+    "explanation": "Current assets are easily converted into cash within a year and thus have the highest liquidity."
+  },
+  {
+    "id": 355,
+    "question": "What does a high debt-to-equity ratio suggest about a company?",
+    "options": [
+      "It has a low level of profitability",
+      "It is overly reliant on shareholder funding",
+      "It may be in financial distress and highly leveraged",
+      "It has a strong capacity for liquidity"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "4.2",
+    "explanation": "A high debt-to-equity ratio indicates heavy reliance on borrowed funds, implying greater risk for investors."
+  },
+  {
+    "id": 356,
+    "question": "Which ratio refines the general liquidity ratio by excluding inventories?",
+    "options": [
+      "Debt-to-equity ratio",
+      "Quick ratio",
+      "Cash ratio",
+      "Total asset turnover ratio"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.2",
+    "explanation": "The quick ratio excludes inventories to measure only the most liquid assets available to cover short-term liabilities."
+  },
+  {
+    "id": 357,
+    "question": "What is considered a healthy benchmark for the Current Ratio?",
+    "options": [
+      "1:1",
+      "0.5:1",
+      "2:1",
+      "3:1"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "4.2",
+    "explanation": "A current ratio of 2:1 is considered healthy, especially for service businesses, as it means twice the assets compared to liabilities."
+  },
+  {
+    "id": 358,
+    "question": "What does a negative working capital indicate?",
+    "options": [
+      "Strong investor confidence",
+      "Potential financial difficulties and inability to cover short-term liabilities",
+      "Excessive equity funding",
+      "A profitable operational structure"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.2",
+    "explanation": "Negative working capital suggests the company may struggle to meet short-term obligations, which can lead to financial distress."
+  },
+  {
+    "id": 359,
+    "question": "What is EBITDA a measure of?",
+    "options": [
+      "Company net income after taxes",
+      "Profit from operations before interest, tax, depreciation, and amortization",
+      "Company’s liquidity over time",
+      "Total asset turnover ratio"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.2",
+    "explanation": "EBITDA measures earnings from core operations, excluding interest, taxes, depreciation, and amortization."
+  },
+  {
+    "id": 360,
+    "question": "If a firm has an EBITDA < 0, what does it imply?",
+    "options": [
+      "It is highly efficient",
+      "It has positive net income",
+      "It is experiencing operating losses and potentially shrinking",
+      "It is receiving external subsidies"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "4.2",
+    "explanation": "A negative EBITDA shows the firm is not profitable from its core operations and may be losing assets and value."
+  },
+  {
+    "id": 361,
+    "question": "What is the formula to calculate working capital?",
+    "options": [
+      "Total assets - Total liabilities",
+      "Current assets - Current liabilities",
+      "Net income - Operating expenses",
+      "Equity + Long-term debt"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.2",
+    "explanation": "Working capital is calculated by subtracting current liabilities from current assets."
+  },
+  {
+    "id": 362,
+    "question": "Which of the following is a long-term liability?",
+    "options": [
+      "Accounts payable",
+      "Wages payable",
+      "Short-term loans",
+      "Mortgage payable"
+    ],
+    "correctAnswer": 3,
+    "subject": "economy",
+    "topic": "4.2",
+    "explanation": "Mortgage payable is a long-term liability, usually repaid over several years."
+  },
+  {
+    "id": 363,
+    "question": "What does a high current ratio generally indicate?",
+    "options": [
+      "Low liquidity",
+      "Strong liquidity position",
+      "High debt levels",
+      "Low asset turnover"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.2",
+    "explanation": "A high current ratio shows the company has more current assets than liabilities, indicating good short-term financial health."
+  },
+  {
+    "id": 364,
+    "question": "Which of these is an intangible asset?",
+    "options": [
+      "Machinery",
+      "Inventory",
+      "Patents",
+      "Buildings"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "4.2",
+    "explanation": "Patents are intangible assets since they lack physical substance but have value."
+  },
+  {
+    "id": 365,
+    "question": "Why is the quick ratio more conservative than the current ratio?",
+    "options": [
+      "It includes only long-term liabilities",
+      "It ignores cash balances",
+      "It excludes inventory from current assets",
+      "It excludes short-term liabilities"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "4.2",
+    "explanation": "The quick ratio excludes inventory because it’s not always quickly convertible into cash."
+  },
+  {
+    "id": 366,
+    "question": "Which item would NOT appear on a balance sheet?",
+    "options": [
+      "Cash",
+      "Revenue",
+      "Accounts payable",
+      "Equity"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.2",
+    "explanation": "Revenue appears in the income statement, not the balance sheet."
+  },
+  {
+    "id": 367,
+    "question": "In financial accounting, what does 'equity' represent?",
+    "options": [
+      "The company's debt",
+      "The value owed to employees",
+      "The owners’ residual interest after liabilities",
+      "The total amount of fixed assets"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "4.2",
+    "explanation": "Equity is the residual value after subtracting liabilities from assets; it belongs to the owners."
+  },
+  {
+    "id": 368,
+    "question": "Which of the following is a current liability?",
+    "options": [
+      "Patent amortization",
+      "Bank loan payable in 10 years",
+      "Accounts payable",
+      "Equity capital"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "4.2",
+    "explanation": "Accounts payable are obligations due within a short period and are thus current liabilities."
+  },
+  {
+    "id": 369,
+    "question": "What does the term 'liquidity' refer to in financial statements?",
+    "options": [
+      "A company's ability to expand operations",
+      "The volume of equity capital",
+      "The ability to meet short-term obligations",
+      "The profitability over time"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "4.2",
+    "explanation": "Liquidity refers to how easily a company can pay its short-term debts using its current assets."
+  },
+  {
+    "id": 370,
+    "question": "What does a low quick ratio generally indicate?",
+    "options": [
+      "Strong asset base",
+      "Inability to pay short-term debts quickly",
+      "High profitability",
+      "Overvaluation of inventory"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.2",
+    "explanation": "A low quick ratio means the company may struggle to meet short-term obligations using only liquid assets."
+  },
+  {
+    "id": 371,
+    "question": "EBITDA helps investors understand...",
+    "options": [
+      "Cash flow from investment activities",
+      "The true cost of debt financing",
+      "Operational profitability excluding financial and accounting adjustments",
+      "The fair market value of company assets"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "4.2",
+    "explanation": "EBITDA isolates profitability from the effects of financing and non-cash accounting decisions."
+  },
+  {
+    "id": 372,
+    "question": "Which of these would increase owners’ equity?",
+    "options": [
+      "Issuing new shares",
+      "Paying dividends",
+      "Taking on a loan",
+      "Buying new inventory"
+    ],
+    "correctAnswer": 0,
+    "subject": "economy",
+    "topic": "4.2",
+    "explanation": "Issuing new shares increases equity by bringing in capital from investors."
+  },
+  {
+    "id": 373,
+    "question": "Which component is necessary for calculating the current ratio?",
+    "options": [
+      "Total liabilities",
+      "Owner's equity",
+      "Fixed assets",
+      "Current liabilities"
+    ],
+    "correctAnswer": 3,
+    "subject": "economy",
+    "topic": "4.2",
+    "explanation": "The current ratio divides current assets by current liabilities to assess liquidity."
+  },
+  {
+    "id": 374,
+    "question": "Depreciation affects which type of asset?",
+    "options": [
+      "Current asset",
+      "Fixed asset",
+      "Intangible asset",
+      "Financial asset"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.2",
+    "explanation": "Depreciation accounts for the loss of value of fixed (tangible) assets over time."
+  },
+  {
+    "id": 375,
+    "question": "What is the main limitation of EBITDA?",
+    "options": [
+      "It includes non-operating income",
+      "It ignores the effect of interest and taxes",
+      "It does not reflect true cash flow",
+      "It is too simple for startups"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "4.2",
+    "explanation": "EBITDA excludes capital expenditures and debt payments, so it can mislead about true cash flow."
+  },
+  {
+    "id": 376,
+    "question": "Which of the following best describes intangible assets?",
+    "options": [
+      "Assets with no value",
+      "Assets with a physical form",
+      "Non-physical assets with future economic benefit",
+      "Short-term investment items"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "4.2",
+    "explanation": "Intangible assets are non-physical assets that provide future benefits, like trademarks and goodwill."
+  },
+  {
+    "id": 377,
+    "question": "Which financial statement best shows profitability over a time period?",
+    "options": [
+      "Balance sheet",
+      "Cash flow statement",
+      "Income statement",
+      "Owner's equity statement"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "4.2",
+    "explanation": "The income statement summarizes revenues and expenses to show net profit or loss."
+  },
+  {
+    "id": 378,
+    "question": "A quick ratio less than 1 typically suggests that a company...",
+    "options": [
+      "Is highly profitable",
+      "Cannot pay short-term liabilities with its most liquid assets",
+      "Has too much inventory",
+      "Has excessive fixed assets"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.2",
+    "explanation": "A quick ratio under 1 indicates insufficient liquid assets to meet short-term obligations."
+  },
+  {
+    "id": 379,
+    "question": "Which of the following is not included in EBITDA?",
+    "options": [
+      "Revenue",
+      "Operating expenses",
+      "Depreciation",
+      "Interest"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "4.2",
+    "explanation": "EBITDA excludes depreciation, interest, taxes, and amortization to focus on core operations."
+  },
+  {
+    "id": 380,
+    "question": "Why might a company have a high current ratio but still struggle financially?",
+    "options": [
+      "It has high quick ratio",
+      "Most of its current assets are not easily liquidated",
+      "It has no long-term debt",
+      "It is highly profitable"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.2",
+    "explanation": "If current assets are tied up in slow-moving inventory, the firm may still face cash flow problems despite a high current ratio."
+  },
+   {
+    "id": 381,
+    "question": "Which of the following would most likely distort the usefulness of the current ratio as a measure of liquidity?",
+    "options": [
+      "Large cash reserves",
+      "Highly liquid marketable securities",
+      "High inventory levels that are slow to sell",
+      "High accounts receivable turnover"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "4.2",
+    "explanation": "The current ratio may appear healthy despite low liquidity if current assets consist largely of inventory that is not quickly sold."
+  },
+  {
+    "id": 382,
+    "question": "A company’s total liabilities increase while its total assets remain constant. What must happen to its equity?",
+    "options": [
+      "Equity remains the same",
+      "Equity increases",
+      "Equity decreases",
+      "Equity becomes negative"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "4.2",
+    "explanation": "According to the accounting equation (Assets = Liabilities + Equity), if liabilities rise and assets are constant, equity must decrease."
+  },
+  {
+    "id": 383,
+    "question": "Which financial statement would you analyze to determine whether a company can sustain operations without external financing?",
+    "options": [
+      "Balance sheet",
+      "Income statement",
+      "Statement of cash flows",
+      "Statement of changes in equity"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "4.2",
+    "explanation": "The statement of cash flows, especially operating activities, reveals whether the business generates enough cash to sustain itself."
+  },
+  {
+    "id": 384,
+    "question": "Which of the following transactions would NOT affect equity directly?",
+    "options": [
+      "Issuance of common stock",
+      "Payment of dividends",
+      "Borrowing from a bank",
+      "Net profit earned"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "4.2",
+    "explanation": "Borrowing increases liabilities but does not directly affect equity."
+  },
+  {
+    "id": 385,
+    "question": "How does depreciation affect the financial statements?",
+    "options": [
+      "Reduces cash flow from financing activities",
+      "Increases net income",
+      "Reduces both net income and asset value",
+      "Increases equity over time"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "4.2",
+    "explanation": "Depreciation is a non-cash expense that lowers reported net income and reduces the book value of fixed assets."
+  },
+  {
+    "id": 386,
+    "question": "If a company capitalizes rather than expenses a cost, how are the financial statements affected in the short term?",
+    "options": [
+      "Net income is lower",
+      "Total assets are lower",
+      "Equity is reduced",
+      "Net income is higher"
+    ],
+    "correctAnswer": 3,
+    "subject": "economy",
+    "topic": "4.2",
+    "explanation": "Capitalizing spreads the cost over time, so current net income appears higher compared to expensing it all at once."
+  },
+  {
+    "id": 387,
+    "question": "Which ratio best evaluates a firm's ability to meet long-term obligations?",
+    "options": [
+      "Current ratio",
+      "Debt-to-equity ratio",
+      "Quick ratio",
+      "Gross profit margin"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.2",
+    "explanation": "The debt-to-equity ratio measures financial leverage and indicates the firm’s reliance on debt financing for long-term obligations."
+  },
+  {
+    "id": 388,
+    "question": "A company has positive EBITDA but negative net income. What does this indicate?",
+    "options": [
+      "The company is profitable overall",
+      "Non-operating expenses or depreciation are significant",
+      "The company has high current liabilities",
+      "The company is undervalued"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.2",
+    "explanation": "EBITDA excludes interest, taxes, depreciation, and amortization. If net income is negative, these excluded costs are significant."
+  },
+  {
+    "id": 389,
+    "question": "If a firm’s return on equity (ROE) is decreasing despite stable net income, what is most likely happening?",
+    "options": [
+      "Debt is increasing",
+      "Assets are decreasing",
+      "Equity is increasing",
+      "Dividends are increasing"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "4.2",
+    "explanation": "ROE = Net Income / Equity. If equity grows and net income remains constant, ROE will fall."
+  },
+  {
+    "id": 390,
+    "question": "Which of the following would be considered an off-balance-sheet item?",
+    "options": [
+      "Deferred tax liabilities",
+      "Operating lease obligations (under old accounting rules)",
+      "Accounts receivable",
+      "Inventory"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.2",
+    "explanation": "Prior to accounting changes, operating leases were not recorded on the balance sheet, making them off-balance-sheet items."
+  },
+  {
+    "id": 391,
+    "question": "How does FIFO (First In, First Out) inventory accounting affect financials during inflation?",
+    "options": [
+      "Lowers reported income",
+      "Results in higher inventory value on the balance sheet",
+      "Leads to lower taxes",
+      "Shows lower gross margin"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.2",
+    "explanation": "In inflation, FIFO assigns older (cheaper) costs to COGS, resulting in higher profits and higher inventory value."
+  },
+  {
+    "id": 392,
+    "question": "Which change would most likely improve a company’s quick ratio?",
+    "options": [
+      "Purchasing inventory with cash",
+      "Collecting accounts receivable",
+      "Issuing long-term debt",
+      "Buying fixed assets with equity"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.2",
+    "explanation": "Collecting receivables increases cash and improves the quick ratio, which excludes inventory."
+  },
+  {
+    "id": 393,
+    "question": "If a company uses aggressive revenue recognition practices, which financial statement is most immediately affected?",
+    "options": [
+      "Balance sheet",
+      "Income statement",
+      "Statement of cash flows",
+      "Statement of equity"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.2",
+    "explanation": "Aggressive revenue recognition inflates revenue and net income on the income statement prematurely."
+  },
+  {
+    "id": 394,
+    "question": "Under accrual accounting, revenue is recognized when...",
+    "options": [
+      "Cash is received",
+      "Inventory is ordered",
+      "Goods or services are delivered",
+      "A purchase order is received"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "4.2",
+    "explanation": "Accrual accounting recognizes revenue when earned, typically upon delivery of goods or services, regardless of cash receipt."
+  },
+  {
+    "id": 395,
+    "question": "What is the primary purpose of a classified balance sheet?",
+    "options": [
+      "To report tax liabilities separately",
+      "To organize assets and liabilities by liquidity",
+      "To list items in alphabetical order",
+      "To exclude non-current items"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.2",
+    "explanation": "Classified balance sheets group items by current vs. non-current, helping users assess liquidity and solvency."
+  },
+  {
+    "id": 396,
+    "question": "An increase in accounts payable has what effect on the cash flow statement?",
+    "options": [
+      "Increases cash from operating activities",
+      "Decreases cash from investing activities",
+      "Increases financing cash flows",
+      "Reduces net income"
+    ],
+    "correctAnswer": 0,
+    "subject": "economy",
+    "topic": "4.2",
+    "explanation": "An increase in accounts payable means the company delayed payments, conserving cash in operations."
+  },
+  {
+    "id": 397,
+    "question": "A company with high depreciation but low capital expenditures may indicate...",
+    "options": [
+      "Strong growth potential",
+      "A shrinking asset base",
+      "Overvaluation of assets",
+      "Rising profit margins"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.2",
+    "explanation": "Low capital investment despite high depreciation suggests the company is not replacing aging assets."
+  },
+  {
+    "id": 398,
+    "question": "Which ratio best assesses how effectively a company uses its assets to generate profit?",
+    "options": [
+      "Return on assets (ROA)",
+      "Current ratio",
+      "EBITDA margin",
+      "Debt-to-equity ratio"
+    ],
+    "correctAnswer": 0,
+    "subject": "economy",
+    "topic": "4.2",
+    "explanation": "ROA measures net income against total assets, indicating how efficiently the assets are used to generate profit."
+  },
+  {
+    "id": 399,
+    "question": "Which financial metric would an investor primarily analyze to assess shareholder profitability?",
+    "options": [
+      "Net profit margin",
+      "Return on equity (ROE)",
+      "Operating margin",
+      "Interest coverage ratio"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.2",
+    "explanation": "ROE reveals how much profit is generated with shareholders’ equity and is key to assessing investor returns."
+  },
+  {
+    "id": 400,
+    "question": "If a company reports positive cash flow from operations but negative net income, which of the following is most likely true?",
+    "options": [
+      "It is inflating its income",
+      "It has substantial non-cash expenses like depreciation",
+      "It is not generating revenue",
+      "It is not paying its suppliers"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.2",
+    "explanation": "Non-cash expenses such as depreciation reduce net income but do not affect actual cash flow, explaining the disparity."
+  },
+  {
+    "id": 401,
+    "question": "What is the most critical factor determining whether a start-up can continue operating?",
+    "options": [
+      "High initial sales",
+      "Strong branding",
+      "Cash availability",
+      "Product innovation"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "4.3",
+    "explanation": "Start-ups often don't generate positive cash flow at the beginning, so cash availability—not sales or profit—is what determines their survival."
+  },
+  {
+    "id": 402,
+    "question": "What is the 'valley of death' in the context of start-ups?",
+    "options": [
+      "A drop in market demand",
+      "The phase of negative cash flow before becoming self-supporting",
+      "A period of profit before a crash",
+      "The phase of legal registration and tax payment"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.3",
+    "explanation": "The 'valley of death' refers to the time during which start-ups face negative cash flow as they work to build a customer base and become self-sustaining."
+  },
+  {
+    "id": 403,
+    "question": "Which of the following activities is NOT typically included in cash flow management?",
+    "options": [
+      "Forecasting cash needs",
+      "Collecting and disbursing cash",
+      "Planning for product development",
+      "Investing surplus funds"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "4.3",
+    "explanation": "Cash flow management includes forecasting, collecting, disbursing, investing, and planning cash—not directly product development."
+  },
+  {
+    "id": 404,
+    "question": "Which activity shows cash exchanged between a company and its owners or creditors?",
+    "options": [
+      "Operating activities",
+      "Investing activities",
+      "Financing activities",
+      "Marketing activities"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "4.3",
+    "explanation": "Financing activities reflect the cash flow between the business and owners/creditors, such as debt payments and dividends."
+  },
+  {
+    "id": 405,
+    "question": "Why is a short working capital cycle beneficial for a company?",
+    "options": [
+      "It increases fixed assets",
+      "It improves customer service",
+      "It provides more liquidity",
+      "It reduces labor costs"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "4.3",
+    "explanation": "A shorter working capital cycle means the company gets cash faster, improving liquidity and reducing reliance on external funds."
+  },
+  {
+    "id": 406,
+    "question": "What does a high Average Inventory Turnover (AIT) ratio typically indicate?",
+    "options": [
+      "Poor inventory management",
+      "Obsolete inventory",
+      "Strong sales or low inventory",
+      "Decreased liquidity"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "4.3",
+    "explanation": "A high AIT ratio suggests the company is efficiently selling and restocking its inventory, which is positive."
+  },
+  {
+    "id": 407,
+    "question": "What is a potential consequence of a low inventory turnover ratio?",
+    "options": [
+      "Higher profitability",
+      "Lower interest expenses",
+      "Obsolete or overstocked inventory",
+      "Improved customer satisfaction"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "4.3",
+    "explanation": "Low inventory turnover may indicate poor management, obsolete goods, and results in increased costs and reduced profitability."
+  },
+  {
+    "id": 408,
+    "question": "Which ratio indicates the average number of days it takes to collect accounts receivable?",
+    "options": [
+      "Payables period",
+      "Inventory turnover",
+      "Collection period",
+      "Sales margin"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "4.3",
+    "explanation": "The collection period shows how long it takes to collect receivables. A higher number indicates potential cash flow issues."
+  },
+  {
+    "id": 409,
+    "question": "If a firm has a collection period above 40 days, what risk increases?",
+    "options": [
+      "Higher inventory turnover",
+      "Lower demand",
+      "Bad debt losses",
+      "Cash surplus"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "4.3",
+    "explanation": "A long collection period increases the risk of bad debts and cash shortages."
+  },
+  {
+    "id": 410,
+    "question": "What does a very high average payables period suggest?",
+    "options": [
+      "Efficient operations",
+      "Strong supplier relationships",
+      "Delayed payments or overdue accounts",
+      "Improved working capital"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "4.3",
+    "explanation": "A very high payables period might indicate the firm is delaying payments, which could damage its credit reputation."
+  },
+  {
+    "id": 411,
+    "question": "Which financial activity involves cash flow from buying or selling assets like property or equipment?",
+    "options": [
+      "Operating activity",
+      "Financing activity",
+      "Investing activity",
+      "Leasing activity"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "4.3",
+    "explanation": "Investing activities involve the purchase or sale of long-term assets like property, equipment, or securities."
+  },
+  {
+    "id": 412,
+    "question": "Which of the following is NOT a benefit of strong cash flow management?",
+    "options": [
+      "Minimizing cost of capital",
+      "Avoiding insolvency",
+      "Maximizing cash surpluses",
+      "Delaying customer payments"
+    ],
+    "correctAnswer": 3,
+    "subject": "economy",
+    "topic": "4.3",
+    "explanation": "Delaying customer payments would harm cash flow. Strong cash management focuses on early collections and controlled spending."
+  },
+  {
+    "id": 413,
+    "question": "What is a common way to shorten the cash conversion cycle?",
+    "options": [
+      "Extend payables period indefinitely",
+      "Increase inventory levels",
+      "Speed up receivables collection",
+      "Reduce product prices"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "4.3",
+    "explanation": "Speeding up the collection of receivables brings in cash faster, shortening the cash conversion cycle."
+  },
+  {
+    "id": 414,
+    "question": "What does it mean when a company has negative working capital?",
+    "options": [
+      "It has more current liabilities than current assets",
+      "It is operating at a profit",
+      "It has no long-term debt",
+      "It is overcapitalized"
+    ],
+    "correctAnswer": 0,
+    "subject": "economy",
+    "topic": "4.3",
+    "explanation": "Negative working capital means the company’s short-term obligations exceed its short-term assets, which may be risky."
+  },
+  {
+    "id": 415,
+    "question": "What is the primary goal of working capital management?",
+    "options": [
+      "Maximize tax efficiency",
+      "Minimize capital investment",
+      "Ensure liquidity and operational efficiency",
+      "Reduce sales fluctuations"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "4.3",
+    "explanation": "Working capital management aims to ensure the business has enough liquidity for its day-to-day operations."
+  },
+  {
+    "id": 416,
+    "question": "Which financial statement best reflects cash inflows and outflows?",
+    "options": [
+      "Income statement",
+      "Balance sheet",
+      "Cash flow statement",
+      "Retained earnings report"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "4.3",
+    "explanation": "The cash flow statement shows actual cash movements in and out of the company."
+  },
+  {
+    "id": 417,
+    "question": "A business with a long inventory turnover period may struggle with:",
+    "options": [
+      "Staff retention",
+      "High marketing costs",
+      "Tied-up cash in unsold goods",
+      "Underpriced assets"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "4.3",
+    "explanation": "Slow inventory turnover ties up cash in stock that isn't generating revenue."
+  },
+  {
+    "id": 418,
+    "question": "Why might a business want to lengthen its average payables period?",
+    "options": [
+      "To receive discounts",
+      "To conserve cash flow",
+      "To gain supplier trust",
+      "To reduce liabilities"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.3",
+    "explanation": "Delaying payments allows a business to hold on to cash longer, improving short-term liquidity."
+  },
+  {
+    "id": 419,
+    "question": "What could be a risk of excessively delaying payments to suppliers?",
+    "options": [
+      "Reduced product quality",
+      "Supplier refusing further business",
+      "Increased profit margins",
+      "Lower fixed costs"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.3",
+    "explanation": "Suppliers may stop doing business with a company that consistently delays payments, damaging supply chains."
+  },
+  {
+    "id": 420,
+    "question": "What happens if a business collects receivables faster than it pays its bills?",
+    "options": [
+      "It incurs a deficit",
+      "It improves cash flow",
+      "It increases liabilities",
+      "It lowers revenue"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.3",
+    "explanation": "This timing improves liquidity by keeping cash on hand for longer before having to pay expenses."
+  },
+  {
+    "id": 421,
+    "question": "In cash flow terms, what is the danger of overtrading?",
+    "options": [
+      "Higher debt ratios",
+      "Rapid growth exceeding available cash",
+      "Fewer working hours",
+      "Overpaying taxes"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.3",
+    "explanation": "Overtrading happens when a business grows faster than its cash flow can support, leading to liquidity issues."
+  },
+  {
+    "id": 422,
+    "question": "Which strategy can help reduce the collection period?",
+    "options": [
+      "Raising prices",
+      "Offering cash discounts for early payment",
+      "Extending credit terms",
+      "Delaying invoicing"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.3",
+    "explanation": "Incentivizing early payment with discounts can shorten the time it takes to collect cash."
+  },
+  {
+    "id": 423,
+    "question": "What is the impact of increasing sales on cash flow if receivables collection remains slow?",
+    "options": [
+      "Improved cash flow",
+      "No impact",
+      "Worsened cash flow",
+      "Lower asset turnover"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "4.3",
+    "explanation": "More sales on credit with slow collection worsens cash flow, tying up cash in receivables."
+  },
+  {
+    "id": 424,
+    "question": "Which action would most directly improve the Average Inventory Turnover ratio?",
+    "options": [
+      "Lowering product prices",
+      "Increasing production",
+      "Reducing inventory levels",
+      "Raising wages"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "4.3",
+    "explanation": "Lower inventory levels, while maintaining sales, will improve the turnover ratio."
+  },
+  {
+    "id": 425,
+    "question": "A business that pays its suppliers in 60 days and collects from customers in 30 days is likely to:",
+    "options": [
+      "Have cash flow problems",
+      "Need more inventory",
+      "Have positive cash flow timing",
+      "Reduce net income"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "4.3",
+    "explanation": "This creates a favorable cash flow position by getting money in before having to pay it out."
+  },
+  {
+    "id": 426,
+    "question": "Why might a business delay payment to suppliers even if it has sufficient cash?",
+    "options": [
+      "To invest surplus cash temporarily",
+      "To reduce fixed costs",
+      "To avoid taxes",
+      "To improve customer loyalty"
+    ],
+    "correctAnswer": 0,
+    "subject": "economy",
+    "topic": "4.3",
+    "explanation": "Delaying payments allows temporary use of surplus cash for short-term investments or interest generation."
+  },
+  {
+    "id": 427,
+    "question": "Which activity is classified under operating activities in a cash flow statement?",
+    "options": [
+      "Paying dividends",
+      "Purchasing equipment",
+      "Receiving customer payments",
+      "Issuing shares"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "4.3",
+    "explanation": "Operating activities include cash from core operations, such as customer payments and supplier expenses."
+  },
+  {
+    "id": 428,
+    "question": "What kind of financing is most commonly used to cover short-term cash shortages?",
+    "options": [
+      "Equity investment",
+      "Long-term loans",
+      "Overdraft facilities",
+      "Lease agreements"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "4.3",
+    "explanation": "Overdrafts are flexible, short-term solutions used by businesses to cover brief cash deficits."
+  },
+  {
+    "id": 429,
+    "question": "A company with a short payables period and long receivables period may experience:",
+    "options": [
+      "Positive working capital",
+      "Cash flow problems",
+      "Lower profit margins",
+      "Inventory surplus"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.3",
+    "explanation": "Paying suppliers quickly while collecting slowly creates a cash gap that can strain liquidity."
+  },
+  {
+    "id": 430,
+    "question": "Which is the best reason to maintain an optimal inventory level?",
+    "options": [
+      "To impress investors",
+      "To minimize storage costs and avoid stockouts",
+      "To increase fixed costs",
+      "To raise asset valuation"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.3",
+    "explanation": "Maintaining the right inventory level reduces holding costs and ensures product availability, optimizing cash flow and service."
+  },
+  {
+    "id": 431,
+    "question": "Which of the following best describes the impact of an increasing cash conversion cycle on a company's liquidity?",
+    "options": [
+      "Liquidity improves as cash is tied up longer",
+      "Liquidity deteriorates as cash is tied up longer",
+      "No effect on liquidity",
+      "Liquidity improves due to faster payments"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.3",
+    "explanation": "A longer cash conversion cycle means cash remains tied up in inventory and receivables longer, reducing liquidity."
+  },
+  {
+    "id": 432,
+    "question": "If a company reduces its accounts receivable days but its inventory turnover days increase, what is the likely net effect on working capital?",
+    "options": [
+      "Working capital will definitely decrease",
+      "Working capital will definitely increase",
+      "Effect on working capital depends on magnitude of changes",
+      "No effect on working capital"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "4.3",
+    "explanation": "Changes in receivables and inventory affect working capital in opposite ways; the net effect depends on the size of those changes."
+  },
+  {
+    "id": 433,
+    "question": "Which statement correctly explains the use of factoring to improve cash flow?",
+    "options": [
+      "Factoring extends the payment terms with suppliers",
+      "Factoring allows a company to sell its receivables for immediate cash",
+      "Factoring reduces inventory holding costs",
+      "Factoring increases the accounts payable period"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.3",
+    "explanation": "Factoring is the process of selling accounts receivable to a third party at a discount to receive immediate cash."
+  },
+  {
+    "id": 434,
+    "question": "In what way does just-in-time (JIT) inventory management most significantly affect the cash conversion cycle?",
+    "options": [
+      "Increases inventory days, lengthening the cycle",
+      "Decreases inventory days, shortening the cycle",
+      "Has no effect on the cash conversion cycle",
+      "Increases receivables days"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.3",
+    "explanation": "JIT reduces inventory levels by receiving goods only as needed, thus decreasing inventory days and shortening the cash conversion cycle."
+  },
+  {
+    "id": 435,
+    "question": "Which of the following risks is most associated with aggressive accounts payable policies?",
+    "options": [
+      "Loss of supplier goodwill",
+      "Increased inventory costs",
+      "Higher interest expenses",
+      "Reduced sales volume"
+    ],
+    "correctAnswer": 0,
+    "subject": "economy",
+    "topic": "4.3",
+    "explanation": "Delaying payments excessively can damage relationships and reduce supplier goodwill."
+  },
+  {
+    "id": 436,
+    "question": "How can a company maintain liquidity while undertaking rapid growth without raising additional equity?",
+    "options": [
+      "By increasing accounts receivable days",
+      "By reducing inventory and extending payables",
+      "By decreasing payables period",
+      "By reducing credit sales"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.3",
+    "explanation": "Reducing inventory and extending payables delays cash outflows and frees up cash for growth."
+  },
+  {
+    "id": 437,
+    "question": "What is the principal limitation of using the current ratio alone to assess a company’s liquidity?",
+    "options": [
+      "It ignores the timing of cash flows",
+      "It includes intangible assets",
+      "It excludes inventories",
+      "It only measures profitability"
+    ],
+    "correctAnswer": 0,
+    "subject": "economy",
+    "topic": "4.3",
+    "explanation": "The current ratio does not consider when assets convert to cash, which is crucial for liquidity."
+  },
+  {
+    "id": 438,
+    "question": "Which technique allows a company to monitor its daily cash position and forecast short-term liquidity needs accurately?",
+    "options": [
+      "Cash budgeting",
+      "Budget variance analysis",
+      "Ratio analysis",
+      "Capital budgeting"
+    ],
+    "correctAnswer": 0,
+    "subject": "economy",
+    "topic": "4.3",
+    "explanation": "Cash budgeting tracks expected daily inflows and outflows to anticipate cash shortages or surpluses."
+  },
+  {
+    "id": 439,
+    "question": "How does a negative working capital cycle sometimes indicate a competitive advantage?",
+    "options": [
+      "When the company collects cash from customers before paying suppliers",
+      "When the company has no inventory",
+      "When accounts payable exceed long-term debt",
+      "When profit margins are very high"
+    ],
+    "correctAnswer": 0,
+    "subject": "economy",
+    "topic": "4.3",
+    "explanation": "A negative working capital cycle means cash is received before it must be paid out, improving liquidity and operational efficiency."
+  },
+  {
+    "id": 440,
+    "question": "Which of the following best explains why increasing the inventory turnover ratio might not always be beneficial?",
+    "options": [
+      "It can increase stockouts and lost sales",
+      "It always leads to higher storage costs",
+      "It decreases sales volume",
+      "It increases accounts payable days"
+    ],
+    "correctAnswer": 0,
+    "subject": "economy",
+    "topic": "4.3",
+    "explanation": "Excessive turnover can lead to insufficient stock levels, causing stockouts and lost sales opportunities."
+  },
+  {
+    "id": 441,
+    "question": "A company that uses an aggressive collection policy is likely to experience:",
+    "options": [
+      "Decreased bad debts but potentially lower sales",
+      "Increased bad debts and higher sales",
+      "Longer receivables days",
+      "Improved supplier relationships"
+    ],
+    "correctAnswer": 0,
+    "subject": "economy",
+    "topic": "4.3",
+    "explanation": "Aggressive collection reduces credit risk but may alienate customers and reduce sales volume."
+  },
+  {
+    "id": 442,
+    "question": "Which of the following is true about the relationship between cash flow and profitability?",
+    "options": [
+      "Profitability always guarantees positive cash flow",
+      "Cash flow and profitability are the same",
+      "Profitability does not necessarily mean positive cash flow",
+      "Cash flow ignores operating costs"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "4.3",
+    "explanation": "A business can be profitable on paper but face negative cash flow due to timing differences in cash inflows and outflows."
+  },
+  {
+    "id": 443,
+    "question": "Which statement best describes a company’s operating cycle?",
+    "options": [
+      "Time from cash collection to inventory purchase",
+      "Time from inventory purchase to cash collection",
+      "Time from supplier payment to customer payment",
+      "Time to pay long-term debt"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.3",
+    "explanation": "The operating cycle measures the time taken from purchasing inventory until collecting cash from sales."
+  },
+  {
+    "id": 444,
+    "question": "What is the effect of offering extended credit terms to customers on cash flow and sales volume?",
+    "options": [
+      "Improves cash flow but lowers sales",
+      "Worsens cash flow but may increase sales",
+      "Improves both cash flow and sales",
+      "No effect on cash flow or sales"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.3",
+    "explanation": "Longer credit terms delay cash inflows, worsening cash flow, but may boost sales volume by attracting more customers."
+  },
+  {
+    "id": 445,
+    "question": "Which financial ratio measures how efficiently a company uses its assets to generate sales?",
+    "options": [
+      "Current ratio",
+      "Asset turnover ratio",
+      "Debt-to-equity ratio",
+      "Profit margin"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.3",
+    "explanation": "Asset turnover ratio evaluates how well assets are utilized to produce revenue."
+  },
+  {
+    "id": 446,
+    "question": "In a scenario of tightening liquidity, what is the most appropriate management action?",
+    "options": [
+      "Increase inventory levels",
+      "Delay payments to suppliers as long as possible",
+      "Speed up collections and reduce inventory",
+      "Extend credit terms to customers"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "4.3",
+    "explanation": "Accelerating collections and lowering inventory free up cash and improve liquidity."
+  },
+  {
+    "id": 447,
+    "question": "What is a disadvantage of relying heavily on short-term borrowing to finance working capital?",
+    "options": [
+      "Lower interest costs",
+      "Reduced risk of insolvency",
+      "Vulnerability to refinancing risk and interest rate fluctuations",
+      "Improved supplier relationships"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "4.3",
+    "explanation": "Short-term borrowing exposes the company to risks if credit markets tighten or rates increase."
+  },
+  {
+    "id": 448,
+    "question": "Why might a company accept a lower profit margin on sales paid in cash versus sales on credit?",
+    "options": [
+      "Cash sales are riskier",
+      "Cash sales improve liquidity and reduce collection costs",
+      "Credit sales have lower operational costs",
+      "Cash sales increase accounts receivable"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.3",
+    "explanation": "Cash sales provide immediate funds and reduce collection costs, often justifying a lower margin."
+  },
+  {
+    "id": 449,
+    "question": "Which cash flow activity category does interest paid on loans belong to under IFRS?",
+    "options": [
+      "Operating activities",
+      "Investing activities",
+      "Financing activities",
+      "Non-cash activities"
+    ],
+    "correctAnswer": 0,
+    "subject": "economy",
+    "topic": "4.3",
+    "explanation": "Under IFRS, interest paid is generally classified as an operating cash flow."
+  },
+  {
+    "id": 450,
+    "question": "Which of the following strategies is LEAST effective for improving cash flow in a seasonal business?",
+    "options": [
+      "Negotiating extended payment terms with suppliers",
+      "Securing a revolving credit facility",
+      "Increasing inventory before peak season",
+      "Offering early payment discounts to customers"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "4.3",
+    "explanation": "Increasing inventory ties up cash before sales, which can worsen cash flow in seasonal businesses."
+  },
+  {
+    "id": 451,
+    "question": "Which of the following payment collection methods involves a physical document with a future payment order that can be legally discounted?",
+    "options": [
+      "Transference",
+      "Bill of exchange",
+      "Promissory Note",
+      "Virtual POS"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.4",
+    "explanation": "A Bill of Exchange is a physical document representing a future payment order and has legal guarantees; it can be discounted."
+  },
+  {
+    "id": 452,
+    "question": "What is a key difference between crowdfunding based on rewards and crowdfunding based on shares (crowdequity)?",
+    "options": [
+      "Rewards crowdfunding requires investors to provide collateral.",
+      "Crowdequity involves structured business plans and investor selection.",
+      "Reward crowdfunding offers equity stakes to contributors.",
+      "Crowdequity has no follow-up requirements after funding."
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.4",
+    "explanation": "Crowdequity requires a structured business plan and investor selection, unlike rewards crowdfunding which offers products or services without equity."
+  },
+  {
+    "id": 453,
+    "question": "Which source of startup financing is characterized by no scheduled repayments and shared control of the business?",
+    "options": [
+      "Personal Savings",
+      "Equity from founders",
+      "Bank loans",
+      "Trade credit"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.4",
+    "explanation": "Equity investment from founders involves personal investment with no scheduled repayments and shared control among shareholders."
+  },
+  {
+    "id": 454,
+    "question": "Why is venture capital considered advantageous for startups compared to traditional debt financing?",
+    "options": [
+      "VCs require collateral and immediate repayment.",
+      "VCs provide long-term capital without repayment schedules and add management expertise.",
+      "VC investments always limit the startup's growth potential.",
+      "VC investors typically avoid involvement in business strategy."
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.4",
+    "explanation": "VCs invest long-term capital without repayment schedules and often provide expertise and strategic support to startups."
+  },
+  {
+    "id": 455,
+    "question": "Which of the following best describes the role of 'confirming' in payment collection methods?",
+    "options": [
+      "It is a bank order to debit a customer's account immediately.",
+      "It is a service where the creditor can anticipate payment risk transfer to the issuing bank.",
+      "It is a virtual online payment platform for e-commerce transactions.",
+      "It is a physical document similar to a check for immediate collection."
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.4",
+    "explanation": "'Confirming' is a financial payment management service allowing creditors to anticipate payments and transfer risk to the issuing bank."
+  },
+  {
+    "id": 456,
+    "question": "In the fundraising process, why is the 'pre-money' valuation important during the preparation stage?",
+    "options": [
+      "It defines the future market value after investment.",
+      "It is the startup’s valuation before receiving new capital.",
+      "It refers to the amount of debt the company must repay.",
+      "It is the cost of marketing campaigns during crowdfunding."
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.4",
+    "explanation": "'Pre-money' valuation refers to the company's valuation before the injection of new capital, crucial for negotiating equity stakes."
+  },
+  {
+    "id": 457,
+    "question": "What distinguishes microcredit Credit B from Credit A according to the summary?",
+    "options": [
+      "Credit B is aimed at established corporations, Credit A at individuals.",
+      "Credit B has a lower maximum amount and targets unemployed or young entrepreneurs.",
+      "Credit A requires no financial solvency demonstration, Credit B does.",
+      "Credit B offers larger loans than Credit A."
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.4",
+    "explanation": "Credit B targets unemployed, young entrepreneurs or immigrants with a maximum of EUR 15,000, while Credit A is for self-employed and entrepreneurs with up to EUR 25,000."
+  },
+  {
+    "id": 458,
+    "question": "What is a key risk associated with bootstrapping as a startup financing method?",
+    "options": [
+      "Excessive outside investor control",
+      "Threat of undercapitalization",
+      "High interest repayment obligations",
+      "Long legal procedures"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.4",
+    "explanation": "Bootstrapping, mainly using personal savings and low-cost methods, carries the risk of undercapitalization which can limit growth."
+  },
+  {
+    "id": 459,
+    "question": "Which financing method involves selling accounts receivable to a specialized institution in exchange for immediate partial payment?",
+    "options": [
+      "Factoring",
+      "Asset Based Lending",
+      "Purchase Order Finance",
+      "Trade Credit"
+    ],
+    "correctAnswer": 0,
+    "subject": "economy",
+    "topic": "4.4",
+    "explanation": "Factoring is a mechanism where a factor buys accounts receivable, paying a portion upfront and collecting from customers later."
+  },
+  {
+    "id": 460,
+    "question": "Why might a startup consider accelerators as a source of financing and support?",
+    "options": [
+      "They provide unlimited funding for startups.",
+      "They offer intensive structured development programs and seed capital, attracting further investors.",
+      "They guarantee immediate loan repayment plans.",
+      "They only serve established businesses."
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.4",
+    "explanation": "Accelerators offer intensive development programs plus small seed capital, helping startups grow and attract future investors."
+  },
+  {
+    "id": 461,
+    "question": "In venture capital investment stages, what is the primary purpose of the due diligence process?",
+    "options": [
+      "To finalize the business plan by the entrepreneur.",
+      "To verify legal, fiscal, administrative, and sometimes technological documentation of the startup.",
+      "To publicly announce the startup’s launch.",
+      "To negotiate marketing campaigns."
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.4",
+    "explanation": "Due diligence allows the investor to thoroughly check the startup’s legal, fiscal, administrative, and sometimes technological status before finalizing the investment."
+  },
+  {
+    "id": 462,
+    "question": "Which characteristic best applies to equity capital invested by business angels?",
+    "options": [
+      "Large amounts invested at a late stage.",
+      "Small to moderate amounts at early stages, often seed capital.",
+      "Debt financing with fixed repayment schedules.",
+      "Only invested in established, low-risk firms."
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.4",
+    "explanation": "Business Angels usually provide smaller amounts of finance at early startup stages, commonly seed capital."
+  },
+  {
+    "id": 463,
+    "question": "What is the main difference between a traditional bank loan and asset-based lending?",
+    "options": [
+      "Traditional loans are always unsecured; asset-based loans require collateral.",
+      "Asset-based lending uses company assets as primary repayment sources, less dependent on creditworthiness.",
+      "Bank loans are only short-term; asset-based lending is always long-term.",
+      "Asset-based lending is only for real estate."
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.4",
+    "explanation": "Asset-based lending is secured by company assets and the loan amount depends on asset value rather than creditworthiness."
+  },
+  {
+    "id": 464,
+    "question": "What is a primary reason family and friends are considered potential investors in startups?",
+    "options": [
+      "They always provide large capital sums.",
+      "They usually demand immediate repayment.",
+      "They are easier to negotiate with and help attract other investors despite modest capital.",
+      "They operate formal venture capital funds."
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "4.4",
+    "explanation": "Family and friends tend to be easier to negotiate with and their involvement can attract additional investors, although the capital is often modest."
+  },
+  {
+    "id": 465,
+    "question": "Which crowdfunding model requires the preparation of a marketing campaign lasting 4-6 months and often using English language on the platform?",
+    "options": [
+      "Donation-based crowdfunding",
+      "Reward-based crowdfunding",
+      "Crowdequity (shares-based crowdfunding)",
+      "Crowdlending"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.4",
+    "explanation": "Reward-based crowdfunding requires careful planning of marketing campaigns, often lasting several months, and frequently demands English communication on platforms."
+  },
+  {
+    "id": 466,
+    "question": "What is the main benefit of leasing as a bootstrap financing mechanism for startups?",
+    "options": [
+      "Requires full upfront payment for assets.",
+      "Reduces long-term capital needs and improves cash flow without down payment.",
+      "Transfers ownership immediately to the lessee.",
+      "Has no impact on cash flow."
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.4",
+    "explanation": "Leasing allows startups to use expensive assets while spreading out payments over time, reducing upfront capital requirements and improving cash flow."
+  },
+  {
+    "id": 467,
+    "question": "In the context of venture capital investor profiles, what is a significant concern when dealing with industrial VC partners?",
+    "options": [
+      "They only invest in unrelated sectors.",
+      "They always impose short-term exit strategies.",
+      "Their presence may discourage other investors due to competition or strategic conflicts.",
+      "They never provide any strategic help."
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "4.4",
+    "explanation": "Industrial VC investors may dissuade other investors due to their sector involvement and potential competitive conflicts."
+  },
+  {
+    "id": 468,
+    "question": "Which stage in venture capital investment is primarily managed by the entrepreneur and involves preparing the business plan and valuation?",
+    "options": [
+      "Prospection",
+      "Negotiation",
+      "Preparation of the operation",
+      "Closure of the operation"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "4.4",
+    "explanation": "The entrepreneur runs the preparation stage, developing business plans, valuation (pre-money), and gathering necessary documentation."
+  },
+  {
+    "id": 469,
+    "question": "Which of the following best describes trade credit as a financing method?",
+    "options": [
+      "A short-term loan backed by property collateral.",
+      "Credit extended to sustain import/export activities, often via documentary credits or letters of credit.",
+      "Investment by family and friends in startup equity.",
+      "Venture capital funding for early-stage startups."
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.4",
+    "explanation": "Trade credit in import/export often involves documentary credits, letters of credit, or confirmed letters of credit to ensure payment."
+  },
+  {
+    "id": 470,
+    "question": "Why might venture capital investors impose strict conditions on startup entrepreneurs during negotiation?",
+    "options": [
+      "To increase their own share value and control over exit decisions.",
+      "Because they provide non-repayable grants.",
+      "Because entrepreneurs always have excess capital.",
+      "To discourage other investors."
+    ],
+    "correctAnswer": 0,
+    "subject": "economy",
+    "topic": "4.4",
+    "explanation": "VC investors seek to maximize return by gaining significant control, including exit decisions, to protect their investment."
+  },
+   {
+    "id": 471,
+    "question": "What is the primary characteristic of mezzanine financing in startup capital structure?",
+    "options": [
+      "It is a form of equity with voting rights only.",
+      "It combines features of debt and equity, often convertible to shares.",
+      "It is a government grant with no repayment.",
+      "It is a short-term loan with high interest rates."
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.4",
+    "explanation": "Mezzanine financing is hybrid capital combining debt and equity features, frequently convertible into equity shares."
+  },
+  {
+    "id": 472,
+    "question": "Which of the following is a key advantage of issuing convertible bonds for startups?",
+    "options": [
+      "They immediately dilute founders’ equity.",
+      "They provide debt financing that can later convert to equity, delaying dilution.",
+      "They are non-repayable grants.",
+      "They guarantee fixed dividends to bondholders."
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.4",
+    "explanation": "Convertible bonds start as debt but can convert to equity later, allowing startups to delay equity dilution."
+  },
+  {
+    "id": 473,
+    "question": "What role does a 'lead investor' typically play in a venture capital round?",
+    "options": [
+      "Provides the smallest amount of capital in the round.",
+      "Coordinates due diligence and leads negotiations with other investors.",
+      "Only invests after the round closes.",
+      "Acts as a silent partner with no involvement."
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.4",
+    "explanation": "The lead investor spearheads due diligence, valuation negotiation, and coordinates the syndicate of investors."
+  },
+  {
+    "id": 474,
+    "question": "Which statement best describes the SAFE (Simple Agreement for Future Equity) instrument?",
+    "options": [
+      "A loan requiring immediate repayment.",
+      "An agreement allowing investors to convert investment to equity at a future financing round without setting a valuation now.",
+      "A traditional equity share certificate.",
+      "A form of government subsidy."
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.4",
+    "explanation": "SAFE allows early investors to convert investments into equity during future priced rounds, postponing valuation decisions."
+  },
+  {
+    "id": 475,
+    "question": "In crowdfunding, what does 'all-or-nothing' funding mean?",
+    "options": [
+      "Funds are collected regardless of whether the goal is met.",
+      "Funds are only collected if the campaign reaches its funding target.",
+      "Investors receive equity regardless of outcome.",
+      "Funds are immediately refunded after the campaign."
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.4",
+    "explanation": "'All-or-nothing' means that funds are only collected if the campaign hits or exceeds its funding goal."
+  },
+  {
+    "id": 476,
+    "question": "Which financial metric is most relevant when a startup negotiates a valuation based on expected future profits?",
+    "options": [
+      "EBITDA",
+      "Net Book Value",
+      "Current Assets",
+      "Liquidity Ratio"
+    ],
+    "correctAnswer": 0,
+    "subject": "economy",
+    "topic": "4.4",
+    "explanation": "EBITDA (Earnings Before Interest, Taxes, Depreciation, and Amortization) is often used to value startups based on profit potential."
+  },
+  {
+    "id": 477,
+    "question": "Why do venture capitalists prefer startups with a scalable business model?",
+    "options": [
+      "Because scalability guarantees immediate profits.",
+      "Because scalable models can grow revenues quickly without proportional increases in costs.",
+      "Because scalability reduces market risk to zero.",
+      "Because only scalable startups are legally allowed to receive VC funding."
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.4",
+    "explanation": "Scalable models enable rapid growth in revenue with relatively low incremental costs, increasing potential returns."
+  },
+  {
+    "id": 478,
+    "question": "What is the main purpose of an exit strategy for venture capital investors?",
+    "options": [
+      "To immediately liquidate the startup’s assets.",
+      "To define how investors will eventually realize returns by selling shares or IPO.",
+      "To prevent any new investors from entering.",
+      "To stop the startup from growing further."
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.4",
+    "explanation": "Exit strategies allow VCs to plan how and when to monetize their investment via sale or public offering."
+  },
+  {
+    "id": 479,
+    "question": "Which of the following best describes 'bootstrapping' in startup financing?",
+    "options": [
+      "Using external venture capital funds.",
+      "Funding a startup solely through internal cash flow and personal savings.",
+      "Raising capital from angel investors.",
+      "Receiving government grants."
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.4",
+    "explanation": "Bootstrapping refers to financing growth using personal savings or business revenue without external investors."
+  },
+  {
+    "id": 480,
+    "question": "What is a common characteristic of ‘business angels’ as investors?",
+    "options": [
+      "They invest large sums during late-stage rounds.",
+      "They are usually experienced entrepreneurs investing their own money early in startups.",
+      "They provide only loans with fixed interest.",
+      "They typically avoid involvement in business decisions."
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.4",
+    "explanation": "Business angels are often successful entrepreneurs investing personal funds early and offering mentorship."
+  },
+  {
+    "id": 481,
+    "question": "How does factoring improve a startup’s cash flow?",
+    "options": [
+      "By delaying invoice payments.",
+      "By selling accounts receivable to a third party for immediate cash.",
+      "By increasing the startup’s debt levels.",
+      "By securing long-term bank loans."
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.4",
+    "explanation": "Factoring provides immediate liquidity by converting accounts receivable into cash."
+  },
+  {
+    "id": 482,
+    "question": "What distinguishes equity crowdfunding from reward-based crowdfunding?",
+    "options": [
+      "Equity crowdfunding involves giving rewards, reward-based gives shares.",
+      "Equity crowdfunding grants shares in the company to contributors; reward-based offers products or perks.",
+      "Reward-based crowdfunding requires formal due diligence.",
+      "Equity crowdfunding has no legal regulation."
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.4",
+    "explanation": "Equity crowdfunding gives investors ownership stakes; reward crowdfunding offers non-financial incentives."
+  },
+  {
+    "id": 483,
+    "question": "Which of these best explains the concept of a 'valuation cap' in convertible notes or SAFEs?",
+    "options": [
+      "It sets a maximum valuation at which the investment converts to equity.",
+      "It guarantees a minimum return on investment.",
+      "It limits how much capital a startup can raise.",
+      "It sets the maximum debt a startup can incur."
+    ],
+    "correctAnswer": 0,
+    "subject": "economy",
+    "topic": "4.4",
+    "explanation": "A valuation cap protects early investors by capping the conversion price in future equity rounds."
+  },
+  {
+    "id": 484,
+    "question": "What is an advantage of using government-backed microcredits for startups?",
+    "options": [
+      "They require high collateral and strict credit history.",
+      "They facilitate access to financing for individuals with limited creditworthiness.",
+      "They are only available to large corporations.",
+      "They require immediate repayment within one month."
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.4",
+    "explanation": "Microcredits aim to support entrepreneurs who lack traditional collateral or credit histories."
+  },
+  {
+    "id": 485,
+    "question": "Why is the timing of capital injection important in a startup's life cycle?",
+    "options": [
+      "Because early capital injections always result in no dilution.",
+      "Because funding at key growth stages ensures operational needs and market expansion without premature dilution.",
+      "Because late capital injections are legally prohibited.",
+      "Because timing has no impact on ownership structure."
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.4",
+    "explanation": "Capital injections timed for growth stages help startups scale while managing dilution and financial health."
+  },
+  {
+    "id": 486,
+    "question": "What is a common reason startups use leasing as a financing option for equipment?",
+    "options": [
+      "Leasing requires immediate full payment for equipment.",
+      "Leasing spreads equipment costs over time, preserving working capital.",
+      "Leasing always transfers ownership immediately.",
+      "Leasing increases upfront capital needs."
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.4",
+    "explanation": "Leasing reduces upfront expenditure by spreading payments, helping preserve cash flow."
+  },
+  {
+    "id": 487,
+    "question": "What distinguishes venture capital funds from business angels?",
+    "options": [
+      "VC funds invest their own personal money, angels manage pooled funds.",
+      "VC funds manage pooled investments from many investors, while angels invest their personal funds.",
+      "VC funds only invest in debt instruments.",
+      "Angels require no return on investment."
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.4",
+    "explanation": "Venture capital funds pool money from multiple investors; business angels invest their own capital."
+  },
+  {
+    "id": 488,
+    "question": "What is the typical impact of venture capital on startup management?",
+    "options": [
+      "VC involvement usually reduces operational guidance.",
+      "VCs often demand active participation in strategic decisions and board representation.",
+      "VCs require startups to abandon their business plan.",
+      "VCs impose no conditions on startup governance."
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.4",
+    "explanation": "VCs commonly seek active roles in governance to protect their investment and guide growth."
+  },
+  {
+    "id": 489,
+    "question": "Why do startups often prefer equity financing over debt financing?",
+    "options": [
+      "Equity financing requires fixed repayments.",
+      "Equity financing does not require immediate repayment and shares risk with investors.",
+      "Debt financing never requires collateral.",
+      "Equity financing limits future fundraising."
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.4",
+    "explanation": "Equity financing avoids fixed debt repayments and shares financial risk with investors."
+  },
+   {
+    "id": 490,
+    "question": "What is a common purpose of a 'due diligence' process in startup investments?",
+    "options": [
+      "To delay the funding round indefinitely.",
+      "To thoroughly evaluate the startup's financials, market, and risks before investing.",
+      "To guarantee the startup’s success.",
+      "To determine the startup’s customer base."
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.4",
+    "explanation": "Due diligence involves careful assessment of all critical aspects before an investment decision."
+  },
+  {
+    "id": 491,
+    "question": "Which type of investor is most likely to invest during a startup’s seed funding stage?",
+    "options": [
+      "Private equity funds",
+      "Business angels",
+      "Initial Public Offering (IPO) investors",
+      "Mutual funds"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.4",
+    "explanation": "Business angels typically provide early seed funding to startups."
+  },
+  {
+    "id": 492,
+    "question": "What does the 'burn rate' indicate in a startup?",
+    "options": [
+      "The rate at which the startup generates profit.",
+      "The speed at which the startup spends its available cash.",
+      "The number of products sold monthly.",
+      "The speed of customer acquisition."
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.4",
+    "explanation": "Burn rate is the rate at which a startup consumes cash to cover expenses."
+  },
+  {
+    "id": 493,
+    "question": "Which of the following is a typical feature of venture capital funding?",
+    "options": [
+      "Long-term investment with active involvement in the company.",
+      "Short-term loan with no equity participation.",
+      "Government grant without repayment.",
+      "Crowdfunding from many small investors."
+    ],
+    "correctAnswer": 0,
+    "subject": "economy",
+    "topic": "4.4",
+    "explanation": "Venture capital usually implies long-term equity investments with active investor participation."
+  },
+  {
+    "id": 494,
+    "question": "What does the term 'liquidity event' refer to in startup financing?",
+    "options": [
+      "An event where a startup issues more debt.",
+      "An event such as an IPO or acquisition that allows investors to sell their shares.",
+      "An event where the startup runs out of cash.",
+      "An internal audit of financial statements."
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.4",
+    "explanation": "Liquidity events let investors convert equity into cash by selling shares publicly or to buyers."
+  },
+  {
+    "id": 495,
+    "question": "Which statement best describes the role of a 'term sheet' in venture capital?",
+    "options": [
+      "It is a binding contract to invest immediately.",
+      "It is a non-binding document outlining the basic terms and conditions of an investment.",
+      "It guarantees a startup’s valuation.",
+      "It forbids startups from raising further capital."
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.4",
+    "explanation": "A term sheet sets out proposed investment terms but is typically non-binding until final contracts."
+  },
+  {
+    "id": 496,
+    "question": "Which financial instrument allows investors to provide capital without immediately determining a startup’s valuation?",
+    "options": [
+      "Convertible notes",
+      "Equity shares",
+      "Bank loans",
+      "Revenue-based financing"
+    ],
+    "correctAnswer": 0,
+    "subject": "economy",
+    "topic": "4.4",
+    "explanation": "Convertible notes delay valuation by converting to equity during a future priced round."
+  },
+  {
+    "id": 497,
+    "question": "What is the main risk for investors when providing debt financing to startups?",
+    "options": [
+      "High risk of losing voting control.",
+      "Risk of default if the startup cannot repay the loan.",
+      "Risk of equity dilution.",
+      "Risk of immediate liquidation."
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.4",
+    "explanation": "Debt financing entails risk of default if the startup cannot meet repayment obligations."
+  },
+  {
+    "id": 498,
+    "question": "Why is diversification important for venture capital firms?",
+    "options": [
+      "To invest all funds in one startup for maximum impact.",
+      "To spread risk across multiple startups, reducing impact of failure.",
+      "To focus only on startups in one industry.",
+      "To guarantee success of every investment."
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "4.4",
+    "explanation": "Diversification reduces risk by spreading investments over various startups and sectors."
+  },
+  {
+    "id": 499,
+    "question": "What distinguishes revenue-based financing from traditional equity financing?",
+    "options": [
+      "Investors receive a percentage of revenue until a cap is reached instead of equity shares.",
+      "Investors become board members immediately.",
+      "Investors acquire full ownership.",
+      "Startups must repay with fixed monthly installments."
+    ],
+    "correctAnswer": 0,
+    "subject": "economy",
+    "topic": "4.4",
+    "explanation": "Revenue-based financing returns investor capital as a percentage of revenue until a predefined amount is paid, not equity."
+  },
+  {
+  "id": 500,
+  "question": "What is the primary objective of an exit strategy for startup investors?",
+  "options": [
+    "To increase the startup’s daily operations efficiency.",
+    "To plan how investors will realize returns by selling their shares.",
+    "To prevent the startup from seeking additional funding.",
+    "To avoid paying taxes on profits."
+  ],
+  "correctAnswer": 1,
+  "subject": "economy",
+  "topic": "4.4",
+  "explanation": "An exit strategy outlines how investors will liquidate their holdings to realize gains."
+},
+{
+    "id": 501,
+    "question": "What distinguishes a commercial company from a civil company?",
+    "options": [
+      "Commercial companies have no profit-making intention.",
+      "Civil companies pursue profit-making intention.",
+      "Commercial companies pursue profit-making intention.",
+      "Civil companies operate internationally."
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "5.0",
+    "explanation": "Commercial companies have the intention to make a profit, while civil companies do not, focusing instead on moral compensation."
+  },
+  {
+    "id": 502,
+    "question": "Which classification of companies is based on the number of employees?",
+    "options": [
+      "Legal form",
+      "Size",
+      "Sector",
+      "Property"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "5.0",
+    "explanation": "Size classification categorizes companies as small (up to 50 employees), medium (50-250), or large (more than 250 employees)."
+  },
+  {
+    "id": 503,
+    "question": "What is an example of a primary sector activity?",
+    "options": [
+      "Manufacturing electronics",
+      "Agriculture",
+      "Retail stores",
+      "Banking services"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "5.0",
+    "explanation": "The primary sector involves activities like agriculture and fishing, with little or no transformation of products."
+  },
+  {
+    "id": 504,
+    "question": "In terms of legal liability, what does 'limited liability' mean?",
+    "options": [
+      "Shareholders are responsible for all company debts with personal assets.",
+      "Shareholders are only responsible for company debts up to their contributed sums.",
+      "The company is fully liable for shareholder debts.",
+      "No liability applies to shareholders."
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "5.0",
+    "explanation": "Limited liability means shareholders risk only the money they invested, not their personal assets."
+  },
+  {
+    "id": 505,
+    "question": "What distinguishes a public property company from a private property company?",
+    "options": [
+      "Public companies are owned by private individuals.",
+      "Private companies are owned and managed by the government.",
+      "Public companies are owned and managed by a public entity.",
+      "There is no difference."
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "5.0",
+    "explanation": "Public companies belong to the public sector, with ownership and management by the state or government entities."
+  },
+  {
+    "id": 506,
+    "question": "Which integration level groups firms performing the same productive process?",
+    "options": [
+      "Vertical integration",
+      "Horizontal integration",
+      "Territorial integration",
+      "Functional integration"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "5.0",
+    "explanation": "Horizontal integration groups companies in the same productive stage to increase scale and reduce competition."
+  },
+  {
+    "id": 507,
+    "question": "Which business classification refers to a business operating only within one city or town?",
+    "options": [
+      "Regional",
+      "Local",
+      "National",
+      "Multinational"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "5.0",
+    "explanation": "A local business operates in a single town or city."
+  },
+  {
+    "id": 508,
+    "question": "How is self-employment typically distinguished from freelance activity?",
+    "options": [
+      "Self-employed workers never own a business.",
+      "Freelancers always have employees.",
+      "Self-employed business includes self-employed workers and company directors without employees.",
+      "Freelance means owning a limited company."
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "5.0",
+    "explanation": "Self-employed businesses consist of independent workers and company directors who do not employ others."
+  },
+  {
+    "id": 509,
+    "question": "Which is a key characteristic of a sole proprietorship?",
+    "options": [
+      "Owned by multiple partners.",
+      "Owner has unlimited personal liability.",
+      "Profits are taxed at the corporate rate.",
+      "Ownership is shared with investors."
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "5.0",
+    "explanation": "In a sole proprietorship, one person owns the business and is personally liable for all debts."
+  },
+  {
+    "id": 510,
+    "question": "In a partnership, how are taxes generally applied?",
+    "options": [
+      "The partnership pays corporate taxes.",
+      "Partners pay personal income taxes on their share of profits.",
+      "The business pays no taxes.",
+      "Only the managing partner pays taxes."
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "5.0",
+    "explanation": "Partners pay personal income tax on their share of profits; the partnership itself is not taxed separately."
+  },
+  {
+    "id": 511,
+    "question": "What is a main advantage of a corporation compared to other business forms?",
+    "options": [
+      "Unlimited liability for owners.",
+      "Easier access to financing and limited liability.",
+      "No need for formal governance.",
+      "Owner has full control without board of directors."
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "5.0",
+    "explanation": "Corporations offer limited liability to shareholders and better access to capital markets."
+  },
+  {
+    "id": 512,
+    "question": "What defines a cooperative business?",
+    "options": [
+      "Owned by investors focused on profit only.",
+      "Owned and controlled by those who use its services.",
+      "A legal entity separate from its members.",
+      "Operates exclusively for charitable purposes."
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "5.0",
+    "explanation": "Cooperatives are owned and managed by members who benefit from its services."
+  },
+  {
+    "id": 513,
+    "question": "Which legal form is most common in Spain for limited liability companies?",
+    "options": [
+      "Sociedad Anónima (S.A.)",
+      "Sociedad Limitada Nueva Empresa (SLNE)",
+      "Sociedad Limitada (S.L.)",
+      "European Company (SE)"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "5.0",
+    "explanation": "The Sociedad Limitada (S.L.) is the most commonly used limited liability company form in Spain."
+  },
+  {
+    "id": 514,
+    "question": "Which of these is NOT a characteristic of a start-up company in Spain?",
+    "options": [
+      "No more than five years old.",
+      "Has a scalable and innovative model.",
+      "Is listed on the stock exchange.",
+      "Annual turnover under ten million euros."
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "5.0",
+    "explanation": "Start-ups are not listed on the stock exchange."
+  },
+  {
+    "id": 515,
+    "question": "What tax rate applies to start-ups in Spain while the start-up status is maintained?",
+    "options": [
+      "25% Corporate Income Tax rate",
+      "15% Corporate Income Tax rate",
+      "30% Personal Income Tax rate",
+      "0% tax rate"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "5.0",
+    "explanation": "Start-ups benefit from a reduced corporate income tax rate of 15% for up to four years."
+  },
+  {
+    "id": 516,
+    "question": "What is the main benefit of the new visa for digital nomads in Spain?",
+    "options": [
+      "Unlimited duration stay.",
+      "Pay non-resident income tax instead of personal income tax.",
+      "Requires investment in local businesses.",
+      "Only valid for citizens of the EU."
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "5.0",
+    "explanation": "Digital nomads can pay non-resident income tax, which is often more favorable than regular personal income tax."
+  },
+  {
+    "id": 517,
+    "question": "How has the deduction percentage in Personal Income Tax (IRPF) for investing in start-ups changed?",
+    "options": [
+      "Increased from 30% to 50%",
+      "Decreased from 50% to 30%",
+      "Remained at 30%",
+      "Is no longer available"
+    ],
+    "correctAnswer": 0,
+    "subject": "economy",
+    "topic": "5.0",
+    "explanation": "The law increased the deduction from 30% to 50% to encourage investment in start-ups."
+  },
+  {
+    "id": 518,
+    "question": "What is 'carried interest' in relation to investment companies?",
+    "options": [
+      "A tax credit given to start-ups.",
+      "Return that investment companies earn from their management success, taxed at 50%.",
+      "A form of salary paid to employees.",
+      "A penalty for failed investments."
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "5.0",
+    "explanation": "'Carried interest' is the profit share earned by investment companies, taxed favorably at 50%."
+  },
+  {
+    "id": 519,
+    "question": "What is the main purpose of controlled test environments ('sandboxes') for start-ups?",
+    "options": [
+      "To accelerate financial audits.",
+      "To test innovations’ viability and impact before market launch.",
+      "To control competitors’ access to new technologies.",
+      "To standardize tax compliance."
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "5.0",
+    "explanation": "Sandboxes allow start-ups to test new technologies and innovations in a controlled setting."
+  },
+  {
+    "id": 520,
+    "question": "Which of the following is NOT a main industry for start-ups according to the summary?",
+    "options": [
+      "Automobile",
+      "Construction",
+      "Fast-food restaurants",
+      "Heavy mining"
+    ],
+    "correctAnswer": 3,
+    "subject": "economy",
+    "topic": "5.0",
+    "explanation": "Heavy mining is not listed among the main industries for start-ups in the provided summary."
+  },
+   {
+    "id": 521,
+    "question": "Which is considered an external factor that can cause a crisis in a business?",
+    "options": [
+      "Cash flow problems",
+      "Economic downturn",
+      "Poor management decisions",
+      "Employee dissatisfaction"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "5.0",
+    "explanation": "Economic downturns are external factors impacting businesses beyond their control."
+  },
+  {
+    "id": 522,
+    "question": "What is a key feature of a cooperative business?",
+    "options": [
+      "Profit distribution based on capital invested",
+      "Owned and democratically controlled by its members",
+      "Unlimited liability for members",
+      "Run by a single owner"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "5.0",
+    "explanation": "Cooperatives are member-owned organizations with democratic control."
+  },
+  {
+    "id": 523,
+    "question": "What distinguishes a non-profit organization from a commercial business?",
+    "options": [
+      "Focus on providing public or social benefit rather than profit",
+      "Always government-funded",
+      "Limited liability of members",
+      "Unlimited liability of members"
+    ],
+    "correctAnswer": 0,
+    "subject": "economy",
+    "topic": "5.0",
+    "explanation": "Non-profits prioritize social or public benefit rather than profit generation."
+  },
+  {
+    "id": 524,
+    "question": "What is the legal document that creates a company called?",
+    "options": [
+      "Partnership agreement",
+      "Articles of incorporation",
+      "Business plan",
+      "Memorandum of understanding"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "5.0",
+    "explanation": "The articles of incorporation are the official documents registering a company."
+  },
+  {
+    "id": 525,
+    "question": "Which business type has the easiest transfer of ownership?",
+    "options": [
+      "Sole proprietorship",
+      "Partnership",
+      "Corporation",
+      "Cooperative"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+        "topic": "5.0",
+    "explanation": "Corporations have shares that can be easily transferred, unlike sole proprietorships or partnerships."
+  },
+  {
+    "id": 526,
+    "question": "Which of the following is NOT a requirement for a start-up under Spanish law?",
+    "options": [
+      "Being less than 5 years old",
+      "Having an annual turnover under 10 million euros",
+      "Being listed on the stock exchange",
+      "Innovative or scalable business model"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "5.0",
+    "explanation": "Start-ups are not required or expected to be publicly listed companies."
+  },
+  {
+    "id": 527,
+    "question": "In a limited liability company, who is responsible for company debts?",
+    "options": [
+      "Only the company assets",
+      "Shareholders’ personal assets",
+      "The government",
+      "The employees"
+    ],
+    "correctAnswer": 0,
+    "subject": "economy",
+    "topic": "5.0",
+    "explanation": "In limited liability companies, liability is limited to company assets only."
+  },
+  {
+    "id": 528,
+    "question": "Which tax benefit applies to the first four years of a start-up’s life in Spain?",
+    "options": [
+      "Reduced VAT rate",
+      "Reduced corporate tax rate of 15%",
+      "Exemption from income tax",
+      "Exemption from social security contributions"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "5.0",
+    "explanation": "Start-ups benefit from a reduced corporate tax rate of 15% for up to four years."
+  },
+  {
+    "id": 529,
+    "question": "Which is NOT a characteristic of franchising?",
+    "options": [
+      "Franchisee pays royalties",
+      "Franchisor provides training and marketing support",
+      "Franchisee owns the entire brand",
+      "Franchisee operates under franchisor’s system"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "5.0",
+    "explanation": "Franchisees do not own the brand; the franchisor retains brand ownership."
+  },
+  {
+    "id": 530,
+    "question": "Which growth strategy involves merging with or acquiring other companies?",
+    "options": [
+      "Internal growth",
+      "External growth",
+      "Licensing",
+      "Franchising"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "5.0",
+    "explanation": "External growth involves mergers and acquisitions."
+  },
+  {
+    "id": 531,
+    "question": "What is a joint venture?",
+    "options": [
+      "A merger of two companies into one",
+      "Two or more companies collaborating on a project while remaining independent",
+      "One company buying another",
+      "A franchise agreement"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "5.0",
+    "explanation": "A joint venture is a cooperative project between companies without merging."
+  },
+  {
+    "id": 532,
+    "question": "Which of these is a common disadvantage of sole proprietorships?",
+    "options": [
+      "Unlimited liability",
+      "Difficulty in decision-making",
+      "Double taxation",
+      "Complex legal formalities"
+    ],
+    "correctAnswer": 0,
+    "subject": "economy",
+    "topic": "5.0",
+    "explanation": "Sole proprietors have unlimited liability for business debts."
+  },
+  {
+    "id": 533,
+    "question": "What does 'limited liability' mean for shareholders?",
+    "options": [
+      "They cannot sell their shares",
+      "They are not personally responsible for company debts beyond their investment",
+      "They must work for the company",
+      "They pay personal income tax on company profits"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "5.0",
+    "explanation": "Limited liability protects shareholders from personal responsibility beyond their investment."
+  },
+  {
+    "id": 534,
+    "question": "Which sector of the economy includes services such as education and healthcare?",
+    "options": [
+      "Primary",
+      "Secondary",
+      "Tertiary",
+      "Quaternary"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "5.0",
+    "explanation": "The tertiary sector covers services like education, healthcare, and retail."
+  },
+  {
+    "id": 535,
+    "question": "Which is a characteristic of a public limited company (PLC)?",
+    "options": [
+      "Shares are publicly traded",
+      "Only one owner",
+      "No liability protection",
+      "No need to publish financial reports"
+    ],
+    "correctAnswer": 0,
+    "subject": "economy",
+    "topic": "5.0",
+    "explanation": "PLCs can sell shares to the public via stock exchanges."
+  },
+  {
+    "id": 536,
+    "question": "Which of the following is NOT an example of external business growth?",
+    "options": [
+      "Acquisitions",
+      "Mergers",
+      "Franchising",
+      "Developing new products internally"
+    ],
+    "correctAnswer": 3,
+    "subject": "economy",
+    "topic": "5.0",
+    "explanation": "Developing new products internally is an internal growth strategy."
+  },
+  {
+    "id": 537,
+    "question": "Which legal form typically requires the most complex setup procedures?",
+    "options": [
+      "Sole proprietorship",
+      "Partnership",
+      "Corporation",
+      "Cooperative"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+      "topic": "5.0",
+    "explanation": "Corporations have the most legal formalities and regulatory requirements."
+  },
+  {
+    "id": 538,
+    "question": "What is the main goal of social entrepreneurship?",
+    "options": [
+      "Maximize profits",
+      "Solve social problems sustainably",
+      "Avoid taxes",
+      "Expand market share"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "5.0",
+    "explanation": "Social entrepreneurship aims to create social value and impact."
+  },
+  {
+    "id": 539,
+    "question": "Which document governs the internal rules of a cooperative?",
+    "options": [
+      "Bylaws",
+      "Articles of incorporation",
+      "Franchise agreement",
+      "Business plan"
+    ],
+    "correctAnswer": 0,
+    "subject": "economy",
+    "topic": "5.0",
+    "explanation": "Bylaws regulate the internal management and operations of a cooperative."
+  },
+  {
+    "id": 540,
+    "question": "What distinguishes a civil company from a commercial company?",
+    "options": [
+      "Civil companies pursue moral compensation, not profit",
+      "Civil companies have more employees",
+      "Civil companies pay more taxes",
+      "Civil companies cannot be formed by individuals"
+    ],
+    "correctAnswer": 0,
+    "subject": "economy",
+    "topic": "5.0",
+    "explanation": "Civil companies generally pursue moral compensation and do not aim primarily for profit."
+  },
+  {
+    "id": 541,
+    "question": "In Spanish corporate law, what is the minimum capital requirement for forming a Sociedad Anónima (S.A.)?",
+    "options": [
+      "3,000 euros",
+      "60,000 euros",
+      "12,000 euros",
+      "30,000 euros"
+    ],
+    "correctAnswer": 3,
+    "subject": "economy",
+    "topic": "5.0",
+    "explanation": "The minimum capital for a Sociedad Anónima is 60,000 euros, but 25% must be paid at incorporation, so 30,000 euros is the minimum paid up."
+  },
+  {
+    "id": 542,
+    "question": "Which of the following best describes the 'lifting of the corporate veil' in company law?",
+    "options": [
+      "The process of merging two companies into one",
+      "Holding shareholders personally liable for company debts in specific cases",
+      "A tax exemption applied to small companies",
+      "The dissolution of a company after bankruptcy"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "5.0",
+    "explanation": "Lifting the corporate veil allows courts to hold shareholders personally liable when misuse or fraud occurs."
+  },
+  {
+    "id": 543,
+    "question": "What is the primary difference between a Sociedad Limitada (S.L.) and a Sociedad Anónima (S.A.) regarding shareholder liability and share transfer?",
+    "options": [
+      "S.L. has unlimited liability; S.A. has limited liability",
+      "S.L. shares are freely transferable; S.A. shares require approval",
+      "S.L. has limited liability and restricted share transfer; S.A. has limited liability and freely transferable shares",
+      "S.L. is for public companies; S.A. is for private companies"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "5.0",
+    "explanation": "S.L. limits share transfer to protect members, while S.A. allows free transfer of shares."
+  },
+  {
+    "id": 544,
+    "question": "Under the Spanish Law of Startups (Ley de Startups), which condition allows a company to benefit from tax incentives?",
+    "options": [
+      "Being headquartered in Madrid or Barcelona",
+      "Having a turnover under 10 million euros and investing in R&D",
+      "Being listed on the stock market",
+      "Having over 100 employees"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "5.0",
+    "explanation": "Startups benefit from tax incentives when meeting turnover thresholds and investing in innovation."
+  },
+  {
+    "id": 545,
+    "question": "Which legal instrument in Spain facilitates the creation of a company through a single notarial act and electronic registration?",
+    "options": [
+      "Escritura pública de constitución",
+      "Acta de junta general",
+      "Sociedad Limitada de Formación Sucesiva",
+      "Sociedad Limitada Nueva Empresa (SLNE)"
+    ],
+    "correctAnswer": 3,
+    "subject": "economy",
+    "topic": "5.0",
+    "explanation": "SLNE simplifies company creation with electronic procedures and reduced capital requirements."
+  },
+  {
+    "id": 546,
+    "question": "What is a 'socio comanditario' in the context of a Sociedad Comanditaria in Spain?",
+    "options": [
+      "A limited partner with liability limited to their investment",
+      "A managing partner with unlimited liability",
+      "A silent partner with no voting rights",
+      "A creditor of the company"
+    ],
+    "correctAnswer": 0,
+    "subject": "economy",
+    "topic": "5.0",
+    "explanation": "Socios comanditarios have limited liability and do not manage the company."
+  },
+  {
+    "id": 547,
+    "question": "In terms of corporate governance, what is the role of the 'Consejo de Administración' in Spanish corporations?",
+    "options": [
+      "To audit financial statements",
+      "To manage and represent the company on behalf of shareholders",
+      "To represent employees in corporate decisions",
+      "To regulate market competition"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "5.0",
+    "explanation": "The board of directors ('Consejo de Administración') manages and represents the company."
+  },
+  {
+    "id": 548,
+    "question": "What is the 'capital social suscrito y desembolsado' in Spanish corporate terminology?",
+    "options": [
+      "Total authorized capital without payment",
+      "Capital subscribed by shareholders and actually paid",
+      "Capital reserved for future expansion",
+      "Capital allocated to dividends"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "5.0",
+    "explanation": "It refers to the portion of capital shareholders have committed to and actually paid."
+  },
+  {
+    "id": 549,
+    "question": "Which of the following is NOT a reason for a company to be dissolved according to Spanish corporate law?",
+    "options": [
+      "Completion of the company’s purpose",
+      "Shareholder unanimous decision",
+      "Bankruptcy and insolvency",
+      "Increase in capital stock"
+    ],
+    "correctAnswer": 3,
+    "subject": "economy",
+    "topic": "5.0",
+    "explanation": "Increasing capital stock does not cause dissolution; it is a growth activity."
+  },
+  {
+    "id": 550,
+    "question": "What is the main legal difference between 'Sociedad Civil' and 'Sociedad Mercantil' in Spain?",
+    "options": [
+      "Sociedad Civil is governed by civil law and not engaged in commercial activity, while Sociedad Mercantil is a commercial company governed by commercial law",
+      "Sociedad Civil has limited liability, Sociedad Mercantil does not",
+      "Sociedad Mercantil can only be formed by individuals, Sociedad Civil by companies",
+      "Sociedad Civil must be publicly traded"
+    ],
+    "correctAnswer": 0,
+    "subject": "economy",
+    "topic": "5.0",
+    "explanation": "Sociedad Civil is non-commercial and governed by civil law, while Sociedad Mercantil is commercial."
+  },
+  {
+    "id": 551,
+    "question": "What is the Lean Canvas used for?",
+    "options": [
+      "New businesses and ongoing businesses",
+      "New businesses",
+      "Ongoing businesses",
+      "Human resources planning"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "Midterm",
+    "explanation": "The Lean Canvas is a tool to design and validate business models, mainly aimed at new businesses."
+  },
+  {
+    "id": 552,
+    "question": "What is a business plan?",
+    "options": [
+      "A document that details a company's strategy, its objectives, and how it plans to achieve them",
+      "A marketing plan to promote products and services",
+      "An annual financial report of the company",
+      "A document of internal human resources policies"
+    ],
+    "correctAnswer": 0,
+    "subject": "economy",
+    "topic": "Midterm",
+    "explanation": "A business plan is a document that details the strategy, objectives, and how a company plans to achieve them."
+  },
+  {
+    "id": 553,
+    "question": "An idea is not always a business opportunity. The main characteristics of an opportunity are being:",
+    "options": [
+      "Conservative and logical",
+      "Attractive, durable, and timely (taking advantage of a window in the market)",
+      "Valuable to the customer and attractive",
+      "Competitive, exclusive, and costly"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "Midterm",
+    "explanation": "A business opportunity must be attractive, durable, and take advantage of a timely window in the market."
+  },
+  {
+    "id": 554,
+    "question": "What does market capitalization represent?",
+    "options": [
+      "The book value of the company's assets",
+      "The total value of a company's shares",
+      "The total long-term debt",
+      "The value of retained earnings"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "Midterm",
+    "explanation": "Market capitalization is the total value of all a company's shares in the market, calculated by multiplying the share price by the number of shares issued."
+  },
+  {
+    "id": 555,
+    "question": "Suppose you are reviewing the Balance Statement of a technology company called 'Tech Solutions.' You find the following: • Total assets: $800,000 • Total liabilities: $400,000 • Equity: ? Given this scenario, which of the following statements is true regarding 'Tech Solutions'?",
+    "options": [
+      "To calculate the net equity of 'Tech Solutions' I need to know the gross profit",
+      "'Tech Solutions' equity is equal to the difference between its total assets and total liabilities",
+      "'Tech Solutions' equity is greater than its liabilities",
+      "None of the above"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "Midterm",
+    "explanation": "Net equity is calculated by subtracting total liabilities from total assets. In this case, equity is $800,000 - $400,000 = $400,000."
+  },
+  {
+    "id": 556,
+    "question": "Which of the following options correctly lists the key characteristics of a good business opportunity?",
+    "options": [
+      "Attractive, Durable, Timely, Anchored in a Product or Service",
+      "Valuable, Economical, Temporary, Alternative to the product",
+      "Innovative, Exclusive, Temporary, Focused on technology",
+      "Competitive, Sustainable, Flexible, Based on social networks"
+    ],
+    "correctAnswer": 0,
+    "subject": "economy",
+    "topic": "Midterm",
+    "explanation": "The key characteristics of a good business opportunity are that it is attractive, durable, timely, and anchored in a product or service that adds value."
+  },
+  {
+    "id": 557,
+    "question": "What does 'pivot' mean in the context of a startup?",
+    "options": [
+      "Changing the target market due to lack of customers",
+      "Substantially changing the business strategy based on learnings about the product or service",
+      "Partially adapting your business model to respond to customer suggestions",
+      "Maintaining the original strategy without changes"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "Midterm",
+    "explanation": "Pivoting means significantly changing the business strategy based on what has been learned about the product or service to improve chances of success."
+  },
+  {
+    "id": 558,
+    "question": "What is the purpose of identifying Negative Buyer Personas?",
+    "options": [
+      "Increase sales to all potential customers",
+      "Exclude customers who are not suitable for the company",
+      "Expand segmentation to new unprofitable markets",
+      "Identify only customers with the highest purchasing power"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "Midterm",
+    "explanation": "Identifying Negative Buyer Personas helps exclude those customers who are not suitable for the company, avoiding wasted effort and resources."
+  },
+  {
+    "id": 559,
+    "question": "What is the main objective of the customer search section in a business plan?",
+    "options": [
+      "Analyze competition and potential market",
+      "Define production cost structure",
+      "Establish necessary human resources",
+      "Understand pricing, promotion, distribution, and sales"
+    ],
+    "correctAnswer": 3,
+    "subject": "economy",
+    "topic": "Midterm",
+    "explanation": "The customer search section in a business plan focuses on understanding how pricing, promotion, distribution, and sales are set to reach and attract customers."
+  },
+  {
+    "id": 560,
+    "question": "A company generates sales revenues of 400,000 euros. Its manufacturing costs are 50,000 euros and labor costs are 90,000 euros. What is the company's gross margin?",
+    "options": [
+      "65%",
+      "65.5%",
+      "65.79%",
+      "66%"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "Midterm",
+    "explanation": "Gross margin is calculated as: Gross Margin = (Revenues - Direct Costs) / Revenues. Direct costs = 50,000 (manufacturing) + 90,000 (labor) = 140,000. Gross Margin = (400,000 - 140,000) / 400,000 = 260,000 / 400,000 = 0.65 = 65%. However, if labor costs were excluded, it would be 87.5%. In this case, labor costs are included, so the answer is approximately 65.79%."
+  },
+  {
+    "id": 561,
+    "question": "Why is it important to continuously test, iterate, and adjust the Value Proposition in the Lean Canvas during the startup development process?",
+    "options": [
+      "To keep focus on competitors and adapt to their strategies",
+      "To ensure the company remains faithful to its original vision and does not change course",
+      "To effectively respond to changing customer needs and maintain the product or service's relevance in the market",
+      "To guarantee an aesthetic product design regardless of demand"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "Midterm",
+    "explanation": "The Value Proposition in the Lean Canvas must be constantly adjusted to align with the real needs of customers. This iteration process allows the startup to adapt, learn from feedback, and create more relevant solutions, increasing the chances of market success."
+  },
+  {
+    "id": 562,
+    "question": "What is the main objective of launching a Minimum Viable Product (MVP) in the startup development process?",
+    "options": [
+      "Minimize production costs",
+      "Validate critical business hypotheses with real customers and obtain quick feedback to iterate on the product",
+      "Attract early investors by showing a fully developed product ready for market",
+      "Present a final graphic design for advertising campaigns"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "Midterm",
+    "explanation": "The goal of the MVP is to validate fundamental business model hypotheses with a basic version of the product, allowing rapid learning from customer behavior and needs without heavy initial investment."
+  },
+  {
+    "id": 563,
+    "question": "Which of the following best describes the function of Key Resources in a startup's Lean Canvas?",
+    "options": [
+      "Key Resources are physical assets like equipment and machinery needed for production",
+      "Key Resources refer to the initial financing needed to launch the startup",
+      "Key Resources can include tangible and intangible assets, technology, knowledge, relationships, and human capital",
+      "Key Resources only include the business location"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "Midterm",
+    "explanation": "Key Resources in the Lean Canvas are all essential elements for the business model to work. This includes both tangible assets (like technology or infrastructure) and intangible ones (knowledge, relationships, human capital, etc.)."
+  },
+  {
+    "id": 564,
+    "question": "What is the key difference between shareholders and stakeholders?",
+    "options": [
+      "Shareholders own debts; stakeholders own shares",
+      "Shareholders own shares and have financial interest; stakeholders include all parties interested in or affected by the company",
+      "Shareholders manage daily operations; stakeholders only invest money",
+      "Shareholders are customers; stakeholders are employees"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "Midterm",
+    "explanation": "Shareholders are those who own company shares and have a financial interest, while stakeholders include all people or groups affected by or interested in the company's operations, such as employees, customers, suppliers, community, and shareholders."
+  },
+ {
+    "id": 565,
+    "question": "An entrepreneur is characterized by:",
+    "options": [
+      "Leadership ability, being innovative, and participating in new markets",
+      "Not taking risks, high technical knowledge, and business experience",
+      "All of the above",
+      "None of the above"
+    ],
+    "correctAnswer": 0,
+    "subject": "economy",
+    "topic": "Midterm",
+    "explanation": "Entrepreneurs usually stand out for their leadership, creativity, and willingness to explore or create new markets. Taking risks is also a common characteristic, unlike option 2, which states the opposite."
+  },
+  {
+    "id": 566,
+    "question": "The main factors of production in a company are:",
+    "options": [
+      "Land, Labor, and Capital",
+      "Money, Technology, and Innovation",
+      "Income, Costs, and Human Capital",
+      "Clients, Suppliers, and Patents"
+    ],
+    "correctAnswer": 0,
+    "subject": "economy",
+    "topic": "Midterm",
+    "explanation": "The classic factors of production in economics are Land, Labor, and Capital. These represent the fundamental resources used in the production of goods and services."
+  },
+  {
+    "id": 567,
+    "question": "A company's fixed costs amount to 75,000 euros. The selling price per unit is 50 euros and the variable cost per unit is 30 euros. If the company wants to obtain a profit of 25,000 euros, how many units must it sell?",
+    "options": [
+      "4,000",
+      "5,000",
+      "4,500",
+      "5,500"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "Midterm",
+    "explanation": "To calculate the number of units needed: (Fixed Costs + Desired Profit) / (Price per unit - Variable cost per unit) = (75,000 + 25,000) / (50 - 30) = 100,000 / 20 = 5,000 units."
+  },
+  {
+    "id": 568,
+    "question": "Which of the following options correctly corresponds to types of social entrepreneurship based on market impact and company mission?",
+    "options": [
+      "Traditional, Non-profit, Environmental, Hybrid",
+      "Traditional, Social Purpose, Social Consequence, Non-profit Entrepreneur, Hybrid",
+      "Social Purpose, Technological, Educational, Hybrid",
+      "Social Purpose, Traditional, Competitive, Hybrid"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "Midterm",
+    "explanation": "The most accepted types of social entrepreneurship include: Social Purpose (strong focus on a social cause), Social Consequence (has social impact although not the main mission), Non-profit entrepreneurship (no economic profit goal), and Hybrid (mix between social and economic focus)."
+  },
+  {
+    "id": 569,
+    "question": "If a company seeks to introduce a new product in a new market, it is following a strategy of:",
+    "options": [
+      "Intrapreneurship",
+      "Market stability",
+      "Total diversification",
+      "Market penetration"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "Midterm",
+    "explanation": "The total diversification strategy involves launching a new product in a completely new market for the company. It is the highest risk strategy according to Ansoff's matrix."
+  },
+  {
+    "id": 570,
+    "question": "Which is NOT an essential component of the structure of a Business Plan?",
+    "options": [
+      "Identification of the business opportunity",
+      "Detailed description of organizational culture",
+      "Competitor analysis and competitive strategy",
+      "Five-year cash budget"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "Midterm",
+    "explanation": "Although organizational culture can be relevant, it is not an essential or mandatory component in a standard business plan. Essentials include the business opportunity, competitive analysis, strategy, and financial projections."
+  },
+  {
+    "id": 571,
+    "question": "What does ROA (Return on Assets) measure?",
+    "options": [
+      "The company's short-term liquidity",
+      "A company's profitability in relation to its total assets",
+      "The debt-to-equity ratio",
+      "Inventory management efficiency"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "Midterm",
+    "explanation": "ROA (Return on Assets) measures how profitable a company is based on the total of its assets, indicating how much profit is generated per monetary unit invested in assets."
+  },
+  {
+    "id": 572,
+    "question": "What is the main objective of the Management Team section in a complete business plan?",
+    "options": [
+      "Show financial results from the last year",
+      "Describe strategic alliances with suppliers",
+      "Present the organizational chart and team structure",
+      "Detail the marketing and sales plan"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "Midterm",
+    "explanation": "The Management Team section in a business plan is intended to present the team structure, including the organizational chart, key profiles, and management experience, which is crucial to build investor confidence and demonstrate executive capability."
+  },
+  {
+    "id": 573,
+    "question": "In Porter's Five Forces model, which scenario would most significantly increase the bargaining power of suppliers?",
+    "options": [
+      "The supplier offers volume discounts",
+      "The supplier provides a highly specialized component",
+      "The supplier has access to multiple distribution channels",
+      "The supplier freely shares financial information"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "Midterm",
+    "explanation": "When a supplier provides a highly specialized component, switching costs for the buyer increase and there are fewer alternatives. This gives the supplier more bargaining power since the customer relies heavily on their unique offering."
+  },
+  {
+    "id": 574,
+    "question": "Which of the following best describes a Minimum Viable Product (MVP)?",
+    "options": [
+      "The final complete product version for investors",
+      "A prototype without sales capability, only for design",
+      "A basic version with essential features to test the business idea",
+      "A theoretical model without a working prototype"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "Midterm",
+    "explanation": "A Minimum Viable Product (MVP) is a basic version of a product that includes only the essential functions needed to validate a business hypothesis and get customer feedback with minimal effort and resources."
+  },
+  {
+    "id": 575,
+    "question": "Suppose you own a company. You have estimated your production quantities, calculated your fixed and variable costs, and determined that your Break Even Selling Price is $15. If you want to produce a new premium-design necklace costing more to make but in the same quantities, how is this expected to affect the Break Even Selling Price of your necklaces?",
+    "options": [
+      "The Break Even Selling Price will remain the same",
+      "The Break Even Selling Price will increase",
+      "The Break Even Selling Price will decrease",
+      "None of the above"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "Midterm",
+    "explanation": "If production costs increase due to a premium design, and quantities remain constant, the break-even price will also increase to cover the higher variable costs and reach the break-even point."
+  },
+  {
+    "id": 576,
+    "question": "Which of the following costs is NOT considered when calculating operating profit?",
+    "options": [
+      "Raw material costs",
+      "Labor costs",
+      "Loan interest",
+      "Administrative costs"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "Midterm",
+    "explanation": "Operating profit is calculated before deducting loan interest, which corresponds to financial expenses. Therefore, interest is not included in the operating profit calculation."
+  },
+  {
+    "id": 577,
+    "question": "What is the main goal of Search Engine Optimization (SEO)?",
+    "options": [
+      "Reduce paid advertising costs",
+      "Increase visibility and ranking of a website on search engines",
+      "Improve the graphic design of the website",
+      "Increase the number of social media followers"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "Midterm",
+    "explanation": "SEO’s primary goal is to increase the organic visibility of a website on search engines, improving its ranking to attract more traffic without paying for ads."
+  },
+  {
+    "id": 578,
+    "question": "What is the main purpose of a CTA button on a Landing Page?",
+    "options": [
+      "Show company statistics",
+      "Present legal information",
+      "Encourage visitors to take an action",
+      "Increase the time visitors spend on the page"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "Midterm",
+    "explanation": "A CTA (Call To Action) button is designed to encourage visitors to perform a specific action, such as signing up, purchasing, or requesting information."
+  },
+  {
+    "id": 579,
+    "question": "What does Gross Domestic Product (GDP) measure?",
+    "options": [
+      "The total monetary value of all goods and services produced within a country in a specific period",
+      "The income distribution among the population",
+      "The total exports of a country",
+      "The inflation rate"
+    ],
+    "correctAnswer": 0,
+    "subject": "economy",
+    "topic": "Midterm",
+    "explanation": "GDP measures the total market value of all final goods and services produced within a country's borders over a specific period, usually annually or quarterly."
+  },
+  {
+    "id": 580,
+    "question": "A company has a Current Ratio of 2.5. After a more detailed analysis, it is discovered that a large part of its current assets consist of obsolete inventory and accounts receivable from customers with financial difficulties. Considering this information, how might this affect the interpretation of the Current Ratio?",
+    "options": [
+      "The calculated Current Ratio would still be an accurate measure of the company's liquidity",
+      "The Current Ratio could overestimate the company's ability to meet its short-term obligations",
+      "The Current Ratio could underestimate the company's ability to meet its short-term obligations",
+      "None of the above"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "Midterm",
+    "explanation": "The Current Ratio can overestimate the company's real liquidity if it includes current assets that are not easily convertible to cash, such as obsolete inventory or doubtful accounts receivable."
+  },
+  {
+    "id": 581,
+    "question": "What is the main advantage of a well-prepared business plan?",
+    "options": [
+      "Reduce immediate operating costs",
+      "Facilitate internal communication",
+      "Attract investors",
+      "Improve organizational culture"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "Midterm",
+    "explanation": "A well-prepared business plan is key to attracting investors, as it demonstrates that the company has a clear strategy, defined objectives, and a plan to achieve them."
+  },
+  {
+    "id": 582,
+    "question": "The break-even point is useful for:",
+    "options": [
+      "Determining long-term financial profitability",
+      "Calculating return on investment",
+      "Determining how many units must be sold to cover all costs",
+      "Measuring the company's annual growth"
+    ],
+    "correctAnswer": 2,
+    "subject": "economy",
+    "topic": "Midterm",
+    "explanation": "The break-even point indicates the minimum number of units that must be sold to cover all costs, without making losses or profits."
+  },
+  {
+    "id": 583,
+    "question": "Which of the following is an example of a company with social consequences?",
+    "options": [
+      "A factory dedicated exclusively to fast fashion",
+      "A company that sells eco-friendly products to generate profits",
+      "A business that operates solely as a financial intermediary",
+      "A store that only sells imported products without certification"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "Midterm",
+    "explanation": "A factory dedicated to fast fashion usually has negative social impacts such as poor labor conditions and environmental effects, reflecting significant social consequences."
+  },
+  {
+    "id": 584,
+    "question": "Which of the following statements best describes an Operational Plan?",
+    "options": [
+      "Details the company’s annual budget",
+      "Explains how the company would produce goods or services",
+      "Defines the communication and marketing strategy",
+      "Presents the SWOT analysis of the organization"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "Midterm",
+    "explanation": "The Operational Plan describes the activities, processes, and resources necessary to produce goods or services, ensuring that the company operates efficiently."
+  },
+  {
+    "id": 585,
+    "question": "Which two variables are usually considered when measuring risk?",
+    "options": [
+      "Time and money",
+      "Probability and impact",
+      "Profitability and liquidity",
+      "Quality and quantity"
+    ],
+    "correctAnswer": 1,
+    "subject": "economy",
+    "topic": "Midterm",
+    "explanation": "Risk is commonly measured by considering the probability that an event will occur and the impact that the event would have on the project or business."
+  }
+
+
 
 ]
 
@@ -3613,7 +8104,7 @@ const topics =
     "4.3": "Topic 4.3",
     "4.4": "Topic 4.4",
     "5.0": "Topic 5.0",
-    formulas: "Formulas",
+    Midterm: "Midterm 2024",
   },
   transmedia: 
   {
@@ -4047,7 +8538,7 @@ export default function QuizApp() {
           <div className="text-center mb-8">
             <div className="relative">
               <BarChart3 className="mx-auto h-20 w-20 text-emerald-600 dark:text-emerald-400 mb-4 drop-shadow-lg" />
-              <Sparkles className="absolute -top-2 -right-2 h-6 w-6 text-yellow-500 animate-pulse" />
+              <Sparkles className="absolute -top-2 -right-2 h-0 w-6 text-yellow-500 animate-pulse" />
             </div>
             <h1 className="text-5xl font-bold bg-gradient-to-r from-emerald-600 to-teal-600 dark:from-emerald-400 dark:to-teal-400 bg-clip-text text-transparent mb-3">
               Analytics 
@@ -4151,6 +8642,7 @@ export default function QuizApp() {
                 </CardContent>
               </Card>
 
+
               {/* Topics Overview Bar Chart */}
               <Card className="shadow-2xl border-0 bg-white/80 dark:bg-gray-800/80 backdrop-blur-sm">
                 <CardHeader className="bg-gradient-to-r from-blue-500/10 to-purple-500/10 dark:from-blue-400/10 dark:to-purple-400/10">
@@ -4178,54 +8670,19 @@ export default function QuizApp() {
                   </div>
                 </CardContent>
               </Card>
-
-              {/* Individual Topic Trend Charts */}
-              <div className="grid gap-8 md:grid-cols-2">
-                {statsArray
-                  .filter((stat) => stat.testAttempts && stat.testAttempts.length > 0)
-                  .map((stat) => {
-                    const trendData = stat.testAttempts.map((attempt, index) => ({
-                      test: `Test ${index + 1}`,
-                      score: Number.parseFloat(attempt.score.toFixed(1)),
-                    }))
-
-                    if (trendData.length === 1) {
-                      trendData.push({
-                        test: "Test 2",
-                        score: trendData[0].score,
-                      })
-                    }
-
-                    return (
-                      <Card key={stat.topic} className="shadow-2xl border-0 bg-white/80 dark:bg-gray-800/80 backdrop-blur-sm">
-                        <CardHeader>
-                          <CardTitle className="text-lg truncate">{stat.topic}</CardTitle>
-                        </CardHeader>
-                        <CardContent className="p-2 sm:p-8">
-                          <div className="w-full overflow-x-auto">
-                            <div className="min-w-[300px] h-[200px] sm:h-[250px]">
-                              <ChartContainer
-                                config={{
-                                  score: { label: "Score", color: "#3b82f6" },
-                            }}
-                            className="h-full w-full"
-                          >
-                            <ResponsiveContainer width="100%" height="100%">
-                              <LineChart data={trendData}>
-                                <XAxis dataKey="test" />
-                                <YAxis domain={[0, 10]} />
-                                <Line type="monotone" dataKey="score" stroke="#3b82f6" strokeWidth={3} dot />
-                                <ChartTooltip content={<ChartTooltipContent />} formatter={(value, name) => [value, "Score"]} />
-                              </LineChart>
-                            </ResponsiveContainer>
-                          </ChartContainer>
-                        </div>
-                      </div>
-                    </CardContent>
-                  </Card>
-                )
-              })}
-          </div>
+{/* Mike Acton Photo at the Bottom */}
+<div className="flex flex-col items-center mt-12 mb-8">
+  <img
+    src="/acton1_0.jpg"
+    alt="Mike Acton"
+    className="rounded shadow-lg w-80 h-80 object-cover"
+  />
+  
+  <p className="mt-4 text-center text-gray-600 italic">
+    Mike Acton wouldn't be proud of the implementation of this page
+  </p>
+</div>
+              
         </div>
       )}
     </div>
@@ -4765,6 +9222,8 @@ export default function QuizApp() {
                 <p className="text-blue-800 dark:text-blue-200 leading-relaxed">{currentQuestion.explanation}</p>
               </div>
             )}
+
+            
 
             <div className="flex justify-between pt-6">
               <Button
