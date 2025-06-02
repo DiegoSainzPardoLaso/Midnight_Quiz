@@ -8076,7 +8076,1275 @@ const mockQuestions: Question[] =
     "subject": "economy",
     "topic": "Midterm",
     "explanation": "Risk is commonly measured by considering the probability that an event will occur and the impact that the event would have on the project or business."
-  }
+  },
+  {
+  "id": 586,
+  "question": "The phases of the operating cycle to be considered when calculating the average economic maturity period are:",
+  "options": [
+    "Storage of raw materials, manufacturing, storage of finished products, collection from customers.",
+    "Storage of raw materials, manufacturing, storage of finished products, storage of returned products, collection from customers",
+    "Storage of raw materials, manufacturing, storage of semi-finished products, storage of finished products, collection from customers",
+    "None is correct"
+  ],
+  "correctAnswer": 0,
+  "subject": "economy",
+  "topic": "Final 1",
+  "explanation": "The average economic maturity period includes the phases of the operating cycle from the acquisition of raw materials to the collection of sold finished products, excluding returned or semi-finished products."
+},
+{
+  "id": 587,
+  "question": "The average economic maturity period:",
+  "options": [
+    "Allows us to see the average time it takes to recover a monetary unit invested in the operating cycle.",
+    "Allows us to see if the need for the company's assets can be reduced",
+    "Allows us to see if the need for immobilized capital can be reduced",
+    "All are correct"
+  ],
+  "correctAnswer": 3,
+  "subject": "economy",
+  "topic": "Final 1",
+  "explanation": "The average economic maturity period provides insights into the duration and efficiency of the operating cycle. It helps assess the recovery time of invested capital, as well as opportunities to optimize asset and capital usage."
+},
+{
+  "id": 588,
+  "question": "A possible classification of types of investments can be:",
+  "options": [
+    "Tangible and intangible",
+    "Fixed asset and current asset",
+    "Financial and productive",
+    "All are correct"
+  ],
+  "correctAnswer": 3,
+  "subject": "economy",
+  "topic": "Final 1",
+  "explanation": "Investments can be classified in various ways: by their nature (tangible or intangible), by their role in the balance sheet (fixed or current assets), or by their purpose (financial or productive)."
+},
+{
+  "id": 589,
+  "question": "Cash flows:",
+  "options": [
+    "Are one of the fundamental variables that determine an investment analysis",
+    "Are the same as the profit generated in the same period",
+    "Include only the income generated in the same period",
+    "All are correct"
+  ],
+  "correctAnswer": 0,
+  "subject": "economy",
+  "topic": "Final 1",
+  "explanation": "Cash flows are crucial in investment analysis because they reflect the actual movement of money in and out of a business. Unlike accounting profit, they consider all cash transactions and are not limited to income or affected by non-cash items."
+},
+{
+  "id": 590,
+  "question": "The internal rate of return (IRR):",
+  "options": [
+    "Does not take the time factor into account",
+    "Is one of the dynamic methods of investment selection",
+    "Examines the annual return required by the investor",
+    "All are correct"
+  ],
+  "correctAnswer": 1,
+  "subject": "economy",
+  "topic": "Final 1",
+  "explanation": "The IRR is a dynamic investment appraisal method that *does* take the time value of money into account. It calculates the discount rate that makes the net present value (NPV) of cash flows equal to zero. Therefore, option a is incorrect, and option b is correct."
+},
+{
+  "id": 591,
+  "question": "NPV (Net Present Value) (VAN in spanish) is one of the dynamic methods of investment selection, therefore:",
+  "options": [
+    "It estimates the difference between the present value of the investment project and its initial outlay",
+    "It considers that capital has different value depending on the moment it is generated",
+    "It seeks to measure whether the investment project increases or decreases the value of the firm",
+    "All are correct"
+  ],
+  "correctAnswer": 3,
+  "subject": "economy",
+  "topic": "Final 1",
+  "explanation": "NPV is a dynamic investment evaluation method that incorporates the time value of money. It calculates whether an investment will add value to the firm by comparing the present value of future cash flows to the initial investment."
+},
+{
+  "id": 592,
+  "question": "Sources of financing:",
+  "options": [
+    "Are different ways of obtaining the necessary means to carry out investments",
+    "Some of the criteria used for their classification are duration and ownership",
+    "Can be internal or external",
+    "All are correct"
+  ],
+  "correctAnswer": 3,
+  "subject": "economy",
+  "topic": "Final 1",
+  "explanation": "Financing sources refer to the various methods through which a business obtains funds for its operations or investments. They are classified based on factors such as time horizon (short or long-term), origin (internal or external), and ownership (equity or debt)."
+},
+{
+  "id": 593,
+  "question": "Inflation:",
+  "options": [
+    "Makes it difficult to calculate the cost of a source of financing",
+    "Does not affect the cost of a source of financing",
+    "Favors debtors and harms creditors",
+    "All are correct"
+  ],
+  "correctAnswer": 2,
+  "subject": "economy",
+  "topic": "Final 1",
+  "explanation": "Inflation generally benefits debtors because they repay loans with money that has less purchasing power, and it harms creditors for the same reason. However, it does not make the cost calculation easier and does affect financing costs, so only option c is correct."
+},
+{
+  "id": 594,
+  "question": "The 'valley of death', in entrepreneurial terms, refers to:",
+  "options": [
+    "The period of time between when a startup receives initial capital and when it begins to generate revenue.",
+    "The positive cash flow in the early stages of a startup.",
+    "A point from which it is impossible to exit a startup, so the business is usually shut down.",
+    "None of the above."
+  ],
+  "correctAnswer": 0,
+  "subject": "economy",
+  "topic": "Final 1",
+  "explanation": "The 'valley of death' refers to the critical early phase of a startup when the business is operating at a loss and has yet to generate steady income. It is a challenging period where many startups fail if they cannot secure further funding or reach profitability."
+},
+{
+  "id": 595,
+  "question": "A restaurant offering a free dessert with a main course on a specific day of the week is using an effective strategy to boost sales. This also creates the perception in consumers' minds that they are getting great value for their money. What pricing tactic is being used in this case?",
+  "options": [
+    "Odd pricing",
+    "Bundle pricing",
+    "Captive product pricing",
+    "Dynamic pricing"
+  ],
+  "correctAnswer": 1,
+  "subject": "economy",
+  "topic": "Final 1",
+  "explanation": "Bundle pricing involves offering multiple products or services together for a single price, often perceived as a bargain by customers. In this case, the dessert is bundled with the main dish to enhance perceived value and encourage purchases."
+},
+{
+  "id": 596,
+  "question": "Franchising:",
+  "options": [
+    "Offers the franchisor an opportunity to enter new markets with minimal initial funding.",
+    "Is a good formula for business expansion when the franchisor has limited capital.",
+    "Is a good way to grow when the franchisor has limited human resources.",
+    "All are correct"
+  ],
+  "correctAnswer": 3,
+  "subject": "economy",
+  "topic": "Final 1",
+  "explanation": "Franchising allows a business to expand rapidly without requiring large amounts of capital or personnel. Franchisees provide the investment and management, enabling the franchisor to scale up efficiently in new markets."
+},
+{
+  "id": 597,
+  "question": "New product development:",
+  "options": [
+    "Is an external growth strategy for a company.",
+    "Is an internal growth strategy for a company.",
+    "Is a strategy for any company when the global economy slows down.",
+    "None of the above"
+  ],
+  "correctAnswer": 1,
+  "subject": "economy",
+  "topic": "Final 1",
+  "explanation": "Developing new products is considered an internal growth strategy because it involves using a company's own resources and capabilities to innovate and expand its product offerings."
+},
+{
+  "id": 598,
+  "question": "Strict employment protection:",
+  "options": [
+    "Is generally more favorable to the creation of new businesses.",
+    "Is more detrimental to the creation of new businesses in factor-driven and efficiency-driven countries.",
+    "Is strongly associated with low entrepreneurial initiative in the early stages.",
+    "None of the above"
+  ],
+  "correctAnswer": 2,
+  "subject": "economy",
+  "topic": "Final 1",
+  "explanation": "Strict employment protection is often linked to reduced entrepreneurial activity in early stages, as it increases the perceived risk and cost of hiring, which can discourage new business creation, especially in environments with limited flexibility."
+},
+{
+  "id": 599,
+  "question": "Cash flow is generated by the following types of activities:",
+  "options": [
+    "Ongoing business operations, also known as operating activities.",
+    "Purchase of fixed assets, acquisition or sale of other businesses, and other investing activities.",
+    "Borrowing and repayment of loans, issuance or repurchase of shares, and other financing activities.",
+    "All are correct"
+  ],
+  "correctAnswer": 3,
+  "subject": "economy",
+  "topic": "Final 1",
+  "explanation": "Cash flow arises from three main types of activities: operating (day-to-day operations), investing (e.g., purchase or sale of assets), and financing (e.g., issuing shares or repaying loans)."
+},
+{
+  "id": 600,
+  "question": "The business location, as one of the points in a business plan, should:",
+  "options": [
+    "Be analyzed based on advantages for the business, such as legal and administrative facilities, good access infrastructure, digital connectivity, or proximity to essential services and raw materials, among others.",
+    "Be decided by the investors who will fund the business's growth.",
+    "Be decided exclusively based on employment and education levels.",
+    "All are correct"
+  ],
+  "correctAnswer": 0,
+  "subject": "economy",
+  "topic": "Final 1",
+  "explanation": "The location of a business must be strategically chosen based on factors that benefit operations, such as infrastructure, accessibility, legal advantages, and proximity to resources. While investors and labor conditions are important, they are not the sole deciding factors."
+},
+{
+  "id": 601,
+  "question": "The downside of being an entrepreneur:",
+  "options": [
+    "Refers to income uncertainty",
+    "Can involve a low quality of life",
+    "May include a high level of stress",
+    "All are correct"
+  ],
+  "correctAnswer": 0,
+  "subject": "economy",
+  "topic": "Final 1",
+  "explanation": "Entrepreneurship often comes with income instability, long working hours, stress, and challenges that can affect quality of life, especially in the early stages of the business."
+},
+{
+  "id": 602,
+  "question": "A liquidity crisis is caused by:",
+  "options": [
+    "Excessive supplies and a rapid increase in business expenses",
+    "Overdue accounts receivable",
+    "A high volume of fixed asset acquisitions, such as machinery and equipment",
+    "All are correct"
+  ],
+  "correctAnswer": 1,
+  "subject": "economy",
+  "topic": "Final 1",
+  "explanation": "A liquidity crisis can arise from multiple factors, including rising expenses, delayed payments from customers, and large capital expenditures that reduce available cash."
+},
+{
+  "id": 603,
+  "question": "Business opportunities:",
+  "options": [
+    "Do not depend on the availability of funds to turn them into a viable business",
+    "Are attractive, timely, and lasting business ideas",
+    "Are characterized by being attractive, lasting, and timely, and must be anchored in a product or service",
+    "All are correct"
+  ],
+  "correctAnswer": 2,
+  "subject": "economy",
+  "topic": "Final 1",
+  "explanation": "A true business opportunity must be attractive, timely, and durable, and it must be based on a real product or service that addresses a need or problem. Funding is important, but the opportunity itself must have intrinsic potential."
+},
+{
+  "id": 604,
+  "question": "The main characteristics of market windows are the following:",
+  "options": [
+    "They should immediately generate returns on investment",
+    "They fit products and services that are completely new, establishing a clear competitive advantage in the market",
+    "They remain open for a relatively long time, allowing new products or services to be introduced and accepted in the market",
+    "All are correct"
+  ],
+  "correctAnswer": 2,
+  "subject": "economy",
+  "topic": "Final 1",
+  "explanation": "Market windows are periods during which new products or services can enter and gain acceptance. They may not yield immediate returns, but their duration allows for market penetration and establishing competitive advantage."
+},
+{
+  "id": 605,
+  "question": "What are the reasons for writing a business plan?",
+  "options": [
+    "To communicate the merits of the company to people outside of it, such as investors or bankers",
+    "To force shareholders and managers to think systematically about every aspect of the business",
+    "To establish short- and long-term strategies and explain how to pursue all set objectives",
+    "All are correct"
+  ],
+  "correctAnswer": 3,
+  "subject": "economy",
+  "topic": "Final 1",
+  "explanation": "Writing a business plan helps communicate the business's value to external stakeholders, encourages thorough planning by internal teams, and sets clear strategies and goals for the company."
+},
+{
+  "id": 606,
+  "question": "A start-up:",
+  "options": [
+    "Exists to learn how to build a sustainable business",
+    "Focuses on how to turn ideas into products, measure consumer response, and know when to pivot or persevere",
+    "Must be in an iterative process involving repetition focused on learning and improving the business model",
+    "All are correct"
+  ],
+  "correctAnswer": 3,
+  "subject": "economy",
+  "topic": "Final 1",
+  "explanation": "Start-ups are experimental ventures aimed at discovering scalable and sustainable business models through iterative learning and adaptation."
+},
+{
+  "id": 607,
+  "question": "A company with limited liability means:",
+  "options": [
+    "The company's debt liability generally does not fall on the owners personally",
+    "The company's debt liability generally falls on the owners personally",
+    "Owners must bear a high personal income tax impulse that replaces the corporate income tax by paying in unlimited liability companies",
+    "None of the above"
+  ],
+  "correctAnswer": 0,
+  "subject": "economy",
+  "topic": "Final 1",
+  "explanation": "Limited liability means that owners' personal assets are protected, and they are not personally responsible for the company's debts beyond their investment."
+},
+{
+  "id": 608,
+  "question": "External factors influencing business activities include:",
+  "options": [
+    "Technological development and innovation",
+    "Political, cultural, and economic forces",
+    "Demographic development",
+    "All are correct"
+  ],
+  "correctAnswer": 3,
+  "subject": "economy",
+  "topic": "Final 1",
+  "explanation": "Business activities are influenced by a wide range of external factors including technology, politics, culture, economy, and demographics."
+},
+{
+  "id": 609,
+  "question": "For a company to be functional, it needs to:",
+  "options": [
+    "Produce regardless of whether the goods and services produced generate utility",
+    "Have the set of production factors (land, labor, and capital) coordinated by the entrepreneur",
+    "Pursue the main objectives which are exactly the same in any company",
+    "All are correct"
+  ],
+  "correctAnswer": 3,
+  "subject": "economy",
+  "topic": "Final 1",
+  "explanation": "A functional company must coordinate the essential factors of production through effective management to operate efficiently."
+},
+{
+  "id": 610,
+  "question": "When a company has a negative gross margin:",
+  "options": [
+    "The alert level is maximum, since the more the company sells, the more losses it generates",
+    "It means that some costs cannot be covered by revenues",
+    "It requires an extraordinary review as the alert level is lower in this case",
+    "It is impossible to cover financial costs generated by a high level of company leverage"
+  ],
+  "correctAnswer": 0,
+  "subject": "economy",
+  "topic": "Final 1",
+  "explanation": "A negative gross margin signals serious financial trouble, indicating that increased sales lead to greater losses, requiring urgent attention."
+},
+{
+  "id": 611,
+  "question": "Demand:",
+  "options": [
+    "Includes customers and stakeholders who can affect market trends",
+    "Represents the quantity of products or services that the target market wants and can buy to satisfy their needs",
+    "Includes data related to price, distribution, or packaging of the product and how the customer values these aspects",
+    "Belongs to the microenvironment that influences the company's ability to conduct business transactions"
+  ],
+  "correctAnswer": 2,
+  "subject": "economy",
+  "topic": "Final 1",
+  "explanation": "Demand specifically refers to the amount of goods or services that customers in the target market are willing and able to purchase."
+},
+{
+  "id": 612,
+  "question": "Companies are classified:",
+  "options": [
+    "Only by their size considering exclusively the number of employees: small, medium, and large",
+    "Only according to ownership form (individual and collective) and the purposes pursued (commercial and civil)",
+    "According to various criteria, including the sector, such as primary, secondary, or tertiary",
+    "All are correct"
+  ],
+  "correctAnswer": 2,
+  "subject": "economy",
+  "topic": "Final 1",
+  "explanation": "Companies can be classified based on multiple factors, including size, ownership type, and sector of activity."
+},
+{
+  "id": 613,
+  "question": "The subsystems of a company:",
+  "options": [
+    "Include administration, financing, production, and commercial, among others",
+    "Are aligned with the processes through which orders and information flow",
+    "Position administration in the management process with the purpose of planning, organizing, and controlling the activities needed to achieve set objectives",
+    "All are correct"
+  ],
+  "correctAnswer": 3,
+  "subject": "economy",
+  "topic": "Final 1",
+  "explanation": "Company subsystems encompass key functions and processes, including management, finance, production, and sales, all essential for achieving business goals."
+},
+{
+  "id": 614,
+  "question": "Indicate which pricing strategy applies in the following example: \"The software has a higher price than the system itself, and it is necessary to update it periodically as new versions are introduced to the market\":",
+  "options": [
+    "Odd pricing",
+    "Bundle pricing",
+    "Captive product pricing",
+    "Dynamic pricing"
+  ],
+  "correctAnswer": 2,
+  "subject": "economy",
+  "topic": "Final 1",
+  "explanation": "Captive product pricing involves charging a higher price for a product that must be used with a primary product, often requiring periodic updates or purchases."
+},
+{
+  "id": 615,
+  "question": "The retail price of a ski jacket is €85.00, allowing the retailer to obtain a profit margin of 45%. What is the cost of the jacket?",
+  "options": [
+    "€46.75",
+    "€154.55",
+    "€188.89",
+    "None of the above"
+  ],
+  "correctAnswer": 0,
+  "subject": "economy",
+  "topic": "Final 1",
+  "explanation": "To find the cost, divide the retail price by 1 plus the profit margin: 85 / (1 + 0.45) = €58.62. Since none matches, the correct answer is 'None of the above.' However, the closest given option is €46.75 if considering margin differently."
+},
+{
+  "id": 616,
+  "question": "Leasing (Arrendamiento)...:",
+  "options": [
+    "Is a way to obtain more capital.",
+    "Means that the company is the user but not the owner of an asset.",
+    "Consists of selling an asset to obtain a more balanced cash flow, but the interest rates to be paid in this case are very high.",
+    "Are the revenues generated by the sale of goods or services before deducting any costs or expenses."
+  ],
+  "correctAnswer": 1,
+  "subject": "economy",
+  "topic": "Final 1",
+  "explanation": "Leasing means the company uses an asset without owning it, typically paying periodic fees for its use."
+},
+{
+  "id": 617,
+  "question": "Creativity, as one of the critical elements of entrepreneurial initiative:",
+  "options": [
+    "Is high in environments where working conditions are not very good.",
+    "Is high in environments where motivation is high.",
+    "Is high in environments where there are many obstacles, especially emotional ones.",
+    "All are correct."
+  ],
+  "correctAnswer": 1,
+  "subject": "economy",
+  "topic": "Final 1",
+  "explanation": "Creativity tends to be higher in environments where motivation is high, fostering initiative and innovation."
+},
+{
+  "id": 618,
+  "question": "The start-up method:",
+  "options": [
+    "Is based on a scientific approach.",
+    "Involves building the proposal, measuring assumptions, modifying them according to feedback, and learning from the process and results.",
+    "Involves learning more quickly what works and discarding what does not work.",
+    "All are correct."
+  ],
+  "correctAnswer": 3,
+  "subject": "economy",
+  "topic": "Final 1",
+  "explanation": "The start-up method uses a scientific, iterative approach that focuses on quickly learning what works through feedback and adaptation."
+},
+{
+  "id": 619,
+  "question": "Indicate what DOES NOT refer to Business Angels:",
+  "options": [
+    "They are wealthy individuals who invest in start-ups in exchange for equity in the company.",
+    "Their contribution is a donation and not an investment.",
+    "It is an example of capital as a source of financing for a startup.",
+    "They usually finance growth in the early years of a startup."
+  ],
+  "correctAnswer": 1,
+  "subject": "economy",
+  "topic": "Final 1",
+  "explanation": "Business Angels invest capital in start-ups in exchange for equity; their contribution is an investment, not a donation."
+},
+{
+  "id": 620,
+  "question": "The difference between a company's total revenues and its expenses is:",
+  "options": [
+    "Measures the company's liquidity.",
+    "Is a profit.",
+    "Indicates the financial growth of a company.",
+    "All are correct."
+  ],
+  "correctAnswer": 1,
+  "subject": "economy",
+  "topic": "Final 1",
+  "explanation": "The difference between total revenues and expenses is called profit. It does not directly measure liquidity or indicate financial growth."
+},
+{
+  "id": 621,
+  "question": "Fundraising for a startup:",
+  "options": [
+    "Is an exit strategy for future investors.",
+    "Is raising funds for current financial needs and those not yet identified.",
+    "Focuses on covering previously identified specific financing needs.",
+    "All are correct."
+  ],
+  "correctAnswer": 2,
+  "subject": "economy",
+  "topic": "Final 1",
+  "explanation": "Fundraising in startups involves securing capital not only for immediate known needs but also to anticipate future financial requirements that might arise."
+},
+{
+  "id": 622,
+  "question": "Equity (Patrimonio):",
+  "options": [
+    "Implies shared control of a company.",
+    "Includes the personal capital of the company's founders.",
+    "Is more attractive than debt since there is no scheduled repayment.",
+    "All are correct."
+  ],
+  "correctAnswer": 3,
+  "subject": "economy",
+  "topic": "Final 1",
+  "explanation": "Equity represents ownership interest which often means shared control, includes founders' personal capital, and unlike debt, does not require fixed repayments, making it attractive in financing."
+},
+{
+  "id": 623,
+  "question": "Indicate what is NOT related to an executive summary in a business plan:",
+  "options": [
+    "It is a brief summary by sections.",
+    "It includes an outline of the business strategy.",
+    "It includes a detailed financial plan and requirements.",
+    "It shows the vision and mission of a company."
+  ],
+  "correctAnswer": 2,
+  "subject": "economy",
+  "topic": "Final 1",
+  "explanation": "The executive summary is a brief and clear summary covering the main sections, strategy, vision, and mission, but it usually does not include a detailed financial plan, which is presented in specific sections of the plan."
+},
+{
+  "id": 624,
+  "question": "Which document shows when money is available to pay investors?",
+  "options": [
+    "The pro forma income statement.",
+    "The pro forma cash flow statement.",
+    "A pro forma balance sheet.",
+    "A current account statement."
+  ],
+  "correctAnswer": 1,
+  "subject": "economy",
+  "topic": "Final 1",
+  "explanation": "The pro forma cash flow statement shows cash inflows and outflows, indicating when money is available to pay investors."
+},
+{
+  "id": 625,
+  "question": "If a startup defines its market too broadly, it means that:",
+  "options": [
+    "It lacks a clear vision of a true target market.",
+    "It will have more chances to get a lot of capital from investors.",
+    "The local government will help because it will create more jobs in the region.",
+    "None of the above."
+  ],
+  "correctAnswer": 2,
+  "subject": "economy",
+  "topic": "Final 1",
+  "explanation": "Defining the market too broadly indicates a lack of focus and an unclear vision of the true target market, which can hinder the startup's success."
+},
+{
+  "id": 626,
+  "question": "Crowdfunding:",
+  "options": [
+    "Is a popular way for small startups to obtain initial funding.",
+    "Uses the power of the Internet and social media to raise funds.",
+    "Involves donations rather than investments from ordinary people.",
+    "All of the above."
+  ],
+  "correctAnswer": 3,
+  "subject": "economy",
+  "topic": "Final 1",
+  "explanation": "Crowdfunding is a popular method of initial funding for small businesses and startups, leveraging the Internet and social media to raise money. It can involve donations, investments, or rewards, so all the options are correct together."
+},
+{
+  "id": 627,
+  "question": "In entrepreneurial language, a 'valley of death' is:",
+  "options": [
+    "A financial gap between the invention (idea) and the commercialization of the product/service (business launch).",
+    "Associated with negative cash flow in the early stages of a startup.",
+    "The period during which new startups experience negative cash flow.",
+    "All of the above."
+  ],
+  "correctAnswer": 3,
+  "subject": "economy",
+  "topic": "Final 1",
+  "explanation": "The 'valley of death' refers to the time when startups face negative cash flow between developing an idea and launching a product, making all statements correct."
+},
+{
+  "id": 628,
+  "question": "Creative approach for entrepreneurs:",
+  "options": [
+    "Helps reduce risks and uncertainty in decision-making.",
+    "Is related to a new way of thinking and offers new results in the form of ideas or products.",
+    "Is usually more effective in a creative environment.",
+    "All of the above."
+  ],
+  "correctAnswer": 3,
+  "subject": "economy",
+  "topic": "Final 1",
+  "explanation": "A creative approach helps entrepreneurs by reducing risks and uncertainty, encourages innovative thinking, and is most effective in creative environments, making all options correct."
+},
+{
+  "id": 629,
+  "question": "Indicate the focus of possible business opportunities that correspond to the legal and regulatory:",
+  "options": [
+    "Insurance, telecommunications, pension funds, and energy management.",
+    "New capital structure.",
+    "Technological innovation.",
+    "Service quality."
+  ],
+  "correctAnswer": 0,
+  "subject": "economy",
+  "topic": "Final 1",
+  "explanation": "Legal and regulatory business opportunities typically involve sectors such as insurance, telecommunications, pension funds, and energy management, where compliance and regulation play a major role."
+},
+{
+  "id": 630,
+  "question": "The main objectives of the Lean Startup method are:",
+  "options": [
+    "Include recognizing opportunities that serve its social mission and engaging in an innovative economic process.",
+    "Achieve a complete and concise business model, validate ideas, and react accordingly.",
+    "Offer a market window open for a long time.",
+    "All are correct."
+  ],
+  "correctAnswer": 1,
+  "subject": "economy",
+  "topic": "Final 1",
+  "explanation": "The Lean Startup method focuses on developing a clear business model, validating ideas quickly, and adapting based on feedback to reduce risk and increase success chances."
+},
+{
+  "id": 631,
+  "question": "In a general partnership (sociedad colectiva), when liability is limited:",
+  "options": [
+    "The partnership has a single general partner who manages the business and is responsible for its obligations.",
+    "Partners pay special taxes in addition to personal income tax.",
+    "Each partner is personally responsible not only for their own actions but also for the actions of all partners.",
+    "All are correct."
+  ],
+  "correctAnswer": 0,
+  "subject": "economy",
+  "topic": "Final 1",
+  "explanation": "In a general partnership with limited liability, there is usually a single managing partner responsible for the obligations. The other options describe unlimited liability or tax aspects not specific to this case."
+},
+{
+  "id": 632,
+  "question": "Cash flow is generated by the following types of activities:",
+  "options": [
+    "Operating activities.",
+    "Purchase, sale, or investment in fixed assets.",
+    "Financing activities.",
+    "All are correct."
+  ],
+  "correctAnswer": 3,
+  "subject": "economy",
+  "topic": "Final 1",
+  "explanation": "Cash flow is generated from operating, investing (purchase/sale of fixed assets), and financing activities, so all options are correct."
+},
+{
+  "id": 633,
+  "question": "The proliferation of fast food restaurants is not due to people's liking for fast food, but because people are busy and often don't have time to cook their own meals. Identify the driving force behind this new business opportunity for fast food restaurants:",
+  "options": [
+    "Economic.",
+    "Social.",
+    "Regulatory and political.",
+    "None of the above."
+  ],
+  "correctAnswer": 1,
+  "subject": "economy",
+  "topic": "Final 1",
+  "explanation": "The key driver behind the growth of fast food restaurants is social factors, particularly people's busy lifestyles and lack of time to cook."
+},
+{
+  "id": 634,
+  "question": "A printer manufacturer sells color ink cartridges for the printer. To maintain printer performance, it is advisable that the customer uses ink from the same manufacturer, although cartridges from other suppliers, usually of lower quality, are also available. Therefore, in this case, the customer does not have many options but to buy ink from the main manufacturer. Thus, the manufacturer can afford to set ink prices at higher levels since its customer base is almost guaranteed. What pricing tactic is used in this case?",
+  "options": [
+    "Price skimming.",
+    "Bundle pricing.",
+    "Captive product pricing.",
+    "Dynamic pricing."
+  ],
+  "correctAnswer": 2,
+  "subject": "economy",
+  "topic": "Final 1",
+  "explanation": "Captive product pricing involves setting a low price for the main product but higher prices for necessary complementary products, such as ink cartridges for printers."
+},
+{
+  "id": 635,
+  "question": "When presenting a business proposal, the entrepreneur's goal is to achieve the highest possible score in the so-called 5 C's. What are they?",
+  "options": [
+    "Capital, capacity, collateral, character, and conditions.",
+    "Cost, capital, cash flow, customers, and control.",
+    "Creativity, commitment, capital, customers, and communication.",
+    "Capital, confidence, collaboration, character, and control."
+  ],
+  "correctAnswer": 0,
+  "subject": "economy",
+  "topic": "Final 1",
+  "explanation": "The 5 C's refer to Capital, Capacity, Collateral, Character, and Conditions, which are criteria used to evaluate the creditworthiness of a business proposal."
+},
+{
+  "id": 636,
+  "question": "What are the main sections of a business plan?",
+  "options": [
+    "Executive summary, complete business plan, and operational plan.",
+    "Marketing plan, financial plan, and human resources plan.",
+    "Product description, sales strategy, and customer analysis.",
+    "Risk analysis, contingency plan, and growth strategy."
+  ],
+  "correctAnswer": 0,
+  "subject": "economy",
+  "topic": "Final 1",
+  "explanation": "The main sections of a business plan typically include an executive summary, the complete detailed business plan, and the operational plan."
+},
+{
+  "id": 637,
+  "question": "What types of social entrepreneurship do you know?",
+  "options": [
+    "Traditional, social consequence, social purpose, and non-profit entrepreneurship.",
+    "Commercial, technological, environmental, and educational entrepreneurship.",
+    "Corporate, individual, cooperative, and community entrepreneurship.",
+    "Innovative, sustainable, collaborative, and impact entrepreneurship."
+  ],
+  "correctAnswer": 0,
+  "subject": "economy",
+  "topic": "Final 1",
+  "explanation": "The main types of social entrepreneurship include traditional, social consequence, social purpose, and non-profit entrepreneurship."
+},
+{
+  "id": 638,
+  "question": "What kind of obstacles do norms and rules present for an entrepreneur?",
+  "options": [
+    "Rational evaluation obstacles.",
+    "Financial obstacles.",
+    "Emotional obstacles.",
+    "Legal obstacles."
+  ],
+  "correctAnswer": 0,
+  "subject": "economy",
+  "topic": "Final 1",
+  "explanation": "Norms and rules often present rational evaluation obstacles for entrepreneurs, as they must carefully assess compliance and regulatory requirements."
+},
+{
+  "id": 639,
+  "question": "Problems faced by a company can be solved by reassigning elements without needing to act directly on them. According to K. Ohmae's three-approach mental model, what type of solution is used in this case?",
+  "options": [
+    "Mechanical",
+    "Organic",
+    "Cultural",
+    "Strategic"
+  ],
+  "correctAnswer": 0,
+  "subject": "economy",
+  "topic": "Final 1",
+  "explanation": "In K. Ohmae's model, a mechanical solution involves solving problems by rearranging existing elements without changing their nature."
+},
+{
+  "id": 640,
+  "question": "Which concepts are related to the entrepreneur?",
+  "options": [
+    "New business, innovation, risk-taking",
+    "Marketing, sales, accounting",
+    "Production, logistics, distribution",
+    "Finance, investment, dividends"
+  ],
+  "correctAnswer": 0,
+  "subject": "economy",
+  "topic": "Final 1",
+  "explanation": "The key concepts related to an entrepreneur include starting a new business, innovating, and taking risks."
+},
+{
+  "id": 641,
+  "question": "Startups influenced by families...",
+  "options": [
+    "Are a new type of business where the family sets the strategy for decision-making and the financial structure of the new company.",
+    "Are startups founded by an existing family business that can create synergies with the main company.",
+    "Are acquisitions of a startup by the existing family business.",
+    "None of the above."
+  ],
+  "correctAnswer": 0,
+  "subject": "economy",
+  "topic": "Final 2",
+  "explanation": "Startups influenced by families are typically those founded by an existing family business and can generate synergies with the parent company."
+},
+{
+  "id": 642,
+  "question": "Indicate which pricing strategy applies in the following example: 'The price of the computer software is higher compared to the operating system price and it needs to be updated regularly when new versions are released.'",
+  "options": [
+    "Odd Pricing",
+    "Bundling Pricing",
+    "Captive-product Pricing",
+    "Dynamic Pricing"
+  ],
+  "correctAnswer": 2,
+  "subject": "economy",
+  "topic": "Final 2",
+  "explanation": "This is an example of captive-product pricing, where the main product is sold at a lower price, but complementary products or updates (software) are sold at a higher price to generate ongoing revenue."
+},
+{
+  "id": 643,
+  "question": "Social entrepreneurship...",
+  "options": [
+    "Can be combined with philanthropy and specific government programs.",
+    "Is associated with innovation applied to deficiencies detected in society, such as education, poverty, health, or environmental issues.",
+    "Is generally formulated through the hybrid model that combines social purpose businesses and nonprofit organizations focused on social missions.",
+    "All are correct."
+  ],
+  "correctAnswer": 3,
+  "subject": "economy",
+  "topic": "Final 2",
+  "explanation": "Social entrepreneurship involves innovative solutions to social problems and often combines business with philanthropy and nonprofit approaches."
+},
+{
+  "id": 644,
+  "question": "What are the ways to increase a company's profitability? Indicate the one that fits best:",
+  "options": [
+    "Increase billing by setting higher unit selling prices and trying to sell more products than before.",
+    "Use multiple sources of financing.",
+    "Increase operating costs.",
+    "All are correct."
+  ],
+  "correctAnswer": 0,
+  "subject": "economy",
+  "topic": "Final 2",
+  "explanation": "Increasing profitability is best achieved by raising unit prices and increasing sales volume, while increasing costs does not improve profitability."
+},
+{
+  "id": 645,
+  "question": "Innovation...",
+  "options": [
+    "Is related to the entrepreneur.",
+    "Refers to the implementation of new creative ideas in the form of new products, procedures, systems, and solutions to problems.",
+    "Involves new combinations that the entrepreneur makes in an economic environment.",
+    "All are correct."
+  ],
+  "correctAnswer": 3,
+  "subject": "economy",
+  "topic": "Final 2",
+  "explanation": "Innovation involves creative implementation of new ideas and combinations in an economic context, and is closely linked to the entrepreneur."
+},
+{
+  "id": 646,
+  "question": "Factoring...",
+  "options": [
+    "Is a long-term financing mechanism.",
+    "Means the company is the user but not the owner of the asset.",
+    "Involves selling an asset to achieve a more balanced cash flow, with quite high interest payments.",
+    "Involves a loan secured by an asset."
+  ],
+  "correctAnswer": 2,
+  "subject": "economy",
+  "topic": "Final 2",
+  "explanation": "Factoring involves selling accounts receivable to improve cash flow, often with higher costs, rather than being a long-term financing method or a secured loan."
+},
+{
+  "id": 647,
+  "question": "The franchise model offers multiple advantages because...",
+  "options": [
+    "It makes it possible to reach new markets with less risk of capital and human resources.",
+    "It is fully focused on social entrepreneurship, thus contributing to solving many social and environmental problems.",
+    "It creates a powerful network, but only for franchises operating through direct sales channels.",
+    "All are correct."
+  ],
+  "correctAnswer": 0,
+  "subject": "economy",
+  "topic": "Final 2",
+  "explanation": "The franchise model allows expansion into new markets with reduced capital and human resource risks, which is one of its key advantages."
+},
+{
+  "id": 648,
+  "question": "Liquidity...",
+  "options": [
+    "Is the company's strategy to generate profit.",
+    "Is the company's ability to meet its short-term obligations.",
+    "Refers to intangible assets such as know-how, brand, or R&D.",
+    "All are correct."
+  ],
+  "correctAnswer": 1,
+  "subject": "economy",
+  "topic": "Final 2",
+  "explanation": "Liquidity refers to a company's ability to cover its short-term liabilities, ensuring it can meet financial obligations as they come due."
+},
+{
+  "id": 649,
+  "question": "The downside of being an entrepreneur...",
+  "options": [
+    "Refers to the uncertainty of income.",
+    "Can lead to a low quality of life.",
+    "May include a high level of stress.",
+    "All are correct."
+  ],
+  "correctAnswer": 3,
+  "subject": "economy",
+  "topic": "Final 2",
+  "explanation": "Being an entrepreneur often involves uncertain income, potential impacts on quality of life, and high stress levels."
+},
+{
+  "id": 650,
+  "question": "Business opportunities...",
+  "options": [
+    "Do not depend on the availability of funds to transform them into a viable business.",
+    "Are attractive, timely, and lasting business ideas.",
+    "Are characterized by being attractive, lasting, and timely, and must be anchored in a product or service.",
+    "All are correct."
+  ],
+  "correctAnswer": 2,
+  "subject": "economy",
+  "topic": "Final 2",
+  "explanation": "Business opportunities are defined as attractive, timely, and lasting ideas that are based on a product or service; they generally depend on available funds to become viable."
+},
+{
+  "id": 651,
+  "question": "The main characteristics of market windows are:",
+  "options": [
+    "They should generate immediate returns on investment.",
+    "They fit those products and services that are absolutely new, establishing a clear competitive advantage in the market.",
+    "They remain open for a relatively long time, allowing new products or services to be introduced and accepted in the market.",
+    "All are correct."
+  ],
+  "correctAnswer": 2,
+  "subject": "economy",
+  "topic": "Final 2",
+  "explanation": "Market windows are characterized by being open for a relatively long time, giving new products or services the opportunity to enter and be accepted by the market."
+},
+{
+  "id": 652,
+  "question": "What are the reasons for writing a business plan?",
+  "options": [
+    "To communicate the merits of the company to people who are not part of it, such as investors or bankers.",
+    "To force shareholders and managers to think systematically about every aspect of the business.",
+    "To establish short- and long-term strategies and explain how to pursue all the set objectives.",
+    "All are correct."
+  ],
+  "correctAnswer": 3,
+  "subject": "economy",
+  "topic": "Final 2",
+  "explanation": "A business plan helps communicate the company's merits, requires key stakeholders to consider all aspects of the business, and establishes strategies to achieve short- and long-term objectives."
+},
+{
+  "id": 653,
+  "question": "Capital...",
+  "options": [
+    "Includes different sources of financing, such as personal savings, crowdfunding donations, or venture capital.",
+    "Includes bank loans and lines of credit that offer a more economical financing cost.",
+    "Is a method of raising financing from multiple sources.",
+    "None of the above."
+  ],
+  "correctAnswer": 3,
+  "subject": "economy",
+  "topic": "Final 2",
+  "explanation": "Capital encompasses various financing sources, including personal savings, crowdfunding, venture capital, bank loans, and credit lines, providing multiple avenues for funding a business or investment."
+},
+{
+  "id": 654,
+  "question": "A start-up...",
+  "options": [
+    "Exists to learn how to build a sustainable business.",
+    "Focuses on turning ideas into products, measuring consumer response, and deciding whether to pivot or persevere.",
+    "Must be in an iterative process that involves repetition, focusing on learning and improving the business model.",
+    "All are correct."
+  ],
+  "correctAnswer": 3,
+  "subject": "economy",
+  "topic": "Final 2",
+  "explanation": "A start-up is a dynamic organization designed to learn and adapt, focusing on transforming ideas into products, analyzing customer feedback, and iterating to refine its business model."
+},
+{
+  "id": 655,
+  "question": "Indicate what does NOT correspond to creativity:",
+  "options": [
+    "Its level is high in environments where motivation is high.",
+    "The presence of many obstacles positively influences employees' creativity.",
+    "It is one of the critical elements in entrepreneurship.",
+    "It can be learned, but it is important to foster it through appropriate environments."
+  ],
+  "correctAnswer": 1,
+  "subject": "economy",
+  "topic": "Final 2",
+  "explanation": "Creativity thrives in motivated environments and can be cultivated, but excessive obstacles may hinder rather than enhance creative thinking."
+},
+{
+  "id": 656,
+  "question": "Indicate what does NOT refer to crowdfunding:",
+  "options": [
+    "It is always recommended in the mature stage of the business.",
+    "It is considered capital to create or continue the business.",
+    "It includes various modalities, such as donations or loans.",
+    "It is an effective method of rapid capital growth simultaneously through multiple investors."
+  ],
+  "correctAnswer": 0,
+  "subject": "economy",
+  "topic": "Final 2",
+  "explanation": "Crowdfunding is commonly used in early-stage business development rather than in mature stages, as it helps generate initial funding from a broad network of supporters."
+},
+{
+  "id": 657,
+  "question": "The development of a new product:",
+  "options": [
+    "Is an external growth strategy for a company.",
+    "Is an internal growth strategy for a company.",
+    "Is a strategy for any company when the global economy stagnates.",
+    "None of the above."
+  ],
+  "correctAnswer": 1,
+  "subject": "economy",
+  "topic": "Final 2",
+  "explanation": "Developing a new product is considered an internal growth strategy, as it focuses on innovation within the company to expand its market presence and competitiveness."
+},
+{
+  "id": 658,
+  "question": "The external forces that influence business activity:",
+  "options": [
+    "Refer only to potential competitors.",
+    "Refer to suppliers, consumers, and existing competitors.",
+    "Are demographic, natural, economic, political, cultural, and technological.",
+    "None of the above."
+  ],
+  "correctAnswer": 2,
+  "subject": "economy",
+  "topic": "Final 2",
+  "explanation": "External forces influencing businesses include demographic, economic, political, and technological factors, along with suppliers, consumers, and competitors, shaping the competitive landscape."
+},
+{
+  "id": 659,
+  "question": "The lean startup method...",
+  "options": [
+    "Uses 'macro' market information, requires an initial hypothesis, and validates the idea.",
+    "Helps build a sustainable business.",
+    "Uses adaptation as a method, allowing quick reactions to any detected market changes.",
+    "All are correct."
+  ],
+  "correctAnswer": 3,
+  "subject": "economy",
+  "topic": "Final 2",
+  "explanation": "The lean startup method is based on iterative learning, market validation, and adaptability, helping businesses efficiently evolve in response to market changes."
+},
+{
+  "id": 660,
+  "question": "A liquidity crisis is caused by...",
+  "options": [
+    "Excessive supplies and a rapid increase in business expenses.",
+    "Overdue accounts receivable.",
+    "A high volume of fixed asset acquisitions, such as machinery and equipment.",
+    "All are correct."
+  ],
+  "correctAnswer": 3,
+  "subject": "economy",
+  "topic": "Final 2",
+  "explanation": "A liquidity crisis occurs due to financial mismanagement, including excessive spending, delayed receivables, and major investments in fixed assets without ensuring sufficient cash flow."
+},
+{
+  "id": 661,
+  "question": "A liquidity crisis is caused by...",
+  "options": [
+    "Excessive supplies and a rapid increase in business expenses.",
+    "Overdue accounts receivable.",
+    "A high volume of fixed asset acquisitions, such as machinery and equipment.",
+    "All are correct."
+  ],
+  "correctAnswer": 3,
+  "subject": "economy",
+  "topic": "Final 3",
+  "explanation": "A liquidity crisis occurs due to financial mismanagement, including excessive spending, delayed receivables, and major investments in fixed assets without ensuring sufficient cash flow."
+},
+{
+  "id": 662,
+  "question": "Business opportunities...",
+  "options": [
+    "Do not depend on the availability of funds to become a viable company.",
+    "Have a common characteristic: the quality of being attractive, durable, and timely, and must be anchored in a product or service.",
+    "Are attractive, timely, and durable business ideas.",
+    "All are correct."
+  ],
+  "correctAnswer": 3,
+  "subject": "economy",
+  "topic": "Final 3",
+  "explanation": "Business opportunities must be viable, strategic, and anchored in a product or service that meets market demands effectively and sustainably."
+},
+{
+  "id": 663,
+  "question": "The 'valley of death', in business terms, refers to:",
+  "options": [
+    "The period between when a startup receives its initial capital injection and when it begins generating revenue.",
+    "The association with positive cash flow in the early stages of a startup.",
+    "The idea that it is impossible for a startup to recover, so such businesses are often closed.",
+    "None of the above."
+  ],
+  "correctAnswer": 0,
+  "subject": "economy",
+  "topic": "Final 3",
+  "explanation": "The 'valley of death' describes the challenging period a startup faces between obtaining its initial funding and starting to generate revenue, making cash flow management a critical hurdle for survival."
+},
+{
+  "id": 664,
+  "question": "Capital...",
+  "options": [
+    "Includes different sources of financing, such as personal savings, crowdfunding donations, or venture capital.",
+    "Includes bank loans and lines of credit that offer a more economical financing cost.",
+    "Is a method of obtaining capital from multiple sources.",
+    "None of the above."
+  ],
+  "correctAnswer": 2,
+  "subject": "economy",
+  "topic": "Final 3",
+  "explanation": "Capital is acquired through various financing sources—personal savings, crowdfunding donations, venture capital, bank loans, and credit lines—which means it is essentially obtained from multiple channels."
+},
+{
+  "id": 665,
+  "question": "Family-influenced startups...",
+  "options": [
+    "It is an acquisition of a newly created company by an existing family business.",
+    "It is a startup founded by an already existing family business, which could create synergies with the main business.",
+    "It is a new business in which the family established the decision-making strategy and the financial structure of this new enterprise.",
+    "None of the above."
+  ],
+  "correctAnswer": 1,
+  "subject": "economy",
+  "topic": "Final 3",
+  "explanation": "Family-influenced startups typically refer to new ventures founded by an existing family business, thereby leveraging the core business's experience and creating possible synergies."
+},
+{
+  "id": 666,
+  "question": "Cash flow is generated by the following types of activities:",
+  "options": [
+    "Regular ongoing business activities, also known as operating activities.",
+    "Acquisition of fixed assets, acquisition or sale of other businesses, and other investment activities.",
+    "Borrowing and repayment of loans, issuance or repurchase of shares, and other financing activities.",
+    "All are correct."
+  ],
+  "correctAnswer": 3,
+  "subject": "economy",
+  "topic": "Final 3",
+  "explanation": "Cash flow is generated from operating, investing, and financing activities, meaning all these activities contribute to the overall cash flow of a business."
+},
+{
+  "id": 667,
+  "question": "Indicate what does NOT correspond to leasing:",
+  "options": [
+    "Leasing preserves capital and offers more flexibility than loans for purchasing equipment.",
+    "In leasing, the company is a user rather than the owner of an asset.",
+    "Leasing can address a company's working capital needs.",
+    "Leasing an item is almost always more expensive than purchasing it."
+  ],
+  "correctAnswer": 2,
+  "subject": "economy",
+  "topic": "Final 3",
+  "explanation": "Leasing is commonly used to preserve capital and finance fixed assets rather than to manage working capital needs. While leasing may incur higher long-term costs, it is not intended to serve as a solution for a company's circulating capital requirements."
+},
+{
+  "id": 668,
+  "question": "Overly optimistic financial projections presented by a startup...",
+  "options": [
+    "Will lose credibility with investors.",
+    "Mean that the entrepreneur is very committed to the company.",
+    "Convey that the business plan is based on solid evidence.",
+    "All are correct."
+  ],
+  "correctAnswer": 0,
+  "subject": "economy",
+  "topic": "Final 3",
+  "explanation": "Overly optimistic financial projections often lead to losing credibility with investors when the results do not match these high expectations. They do not inherently indicate strong commitment from the entrepreneur nor demonstrate that the business plan is based on solid evidence."
+},
+{
+  "id": 669,
+  "question": "Indicate what characterizes social entrepreneurship:",
+  "options": [
+    "It can have different organizational models, such as non-profit, for-profit, or even hybrid social enterprises.",
+    "It is always associated with innovation, whether in the form of new products and services or in new production and distribution methods.",
+    "It includes a new business approach aimed at alleviating problems associated with poverty.",
+    "All are correct."
+  ],
+  "correctAnswer": 3,
+  "subject": "economy",
+  "topic": "Final 3",
+  "explanation": "Social entrepreneurship is characterized by its versatility in organizational models, its strong focus on innovation, and its commitment to addressing social challenges like poverty, making all of these aspects fundamental to the concept."
+},
+{
+  "id": 670,
+  "question": "Indicate what does NOT refer to crowdfunding:",
+  "options": [
+    "It is considered capital to start or continue a business.",
+    "It is always recommended during the mature stage of the company.",
+    "It includes various modalities such as donations or loans.",
+    "It is an effective and fast-growing method to obtain capital simultaneously through many private investors."
+  ],
+  "correctAnswer": 1,
+  "subject": "economy",
+  "topic": "Final 3",
+  "explanation": "Crowdfunding is primarily used to raise capital in the early stages of a business rather than during its mature phase. It leverages various financing modalities from a broad pool of private investors, making option B the one that does not apply."
+},
+{
+  "id": 671,
+  "question": "Innovation...",
+  "options": [
+    "It is related to the entrepreneur.",
+    "It refers to the application of new creative ideas in the form of new products, procedures, systems, and problem-solving solutions.",
+    "It implies new combinations that an entrepreneur forms in an economic environment.",
+    "All are correct."
+  ],
+  "correctAnswer": 3,
+  "subject": "economy",
+  "topic": "Final 3",
+  "explanation": "Innovation is characterized by its connection to entrepreneurship, the application of creative ideas into new products and processes, and the formation of novel combinations within the economic environment. Therefore, all of the statements are correct."
+},
+{
+  "id": 672,
+  "question": "Liquidity...",
+  "options": [
+    "Refers to assets that can be easily converted into cash.",
+    "Is the ability of a company to meet its long-term financial obligations.",
+    "Is a profit that goes to the company's owners.",
+    "All are correct."
+  ],
+  "correctAnswer": 0,
+  "subject": "economy",
+  "topic": "Final 3",
+  "explanation": "Liquidity is defined by the ease with which assets can be quickly converted into cash without a significant loss in value. Option (a) correctly captures this concept, while options (b) and (c) refer to other financial aspects not directly related to liquidity."
+},
+{
+  "id": 673,
+  "question": "What are the reasons for writing a business plan?",
+  "options": [
+    "To communicate the merits of a company to outsiders, such as investors or bank managers.",
+    "To force shareholders and executives to systematically reflect on every aspect of the company.",
+    "To establish long- and short-term strategies and describe how to pursue all the related objectives.",
+    "All are correct."
+  ],
+  "correctAnswer": 3,
+  "subject": "economy",
+  "topic": "Final 3",
+  "explanation": "A business plan serves multiple roles: it communicates the company's strengths to external stakeholders, compels key decision-makers to evaluate every aspect of the enterprise, and outlines both short- and long-term strategies to achieve the company's goals. Therefore, all the statements are correct."
+},
+{
+  "id": 674,
+  "question": "The franchise offers multiple advantages because...",
+  "options": [
+    "It is entirely focused on social entrepreneurship, thereby contributing to solving many social and environmental problems.",
+    "It enables reaching new markets with less capital risk and fewer human resources.",
+    "It creates a powerful network, but only for franchised companies that operate through direct sales.",
+    "All are correct."
+  ],
+  "correctAnswer": 1,
+  "subject": "economy",
+  "topic": "Final 3",
+  "explanation": "Among the provided options, option (b) is the most accurate. Franchising primarily offers the advantage of market expansion with lower capital risk and reduced human resource commitments. The other options contain attributes that are either too narrow or not generally applicable to the franchising model."
+},
+{
+  "id": 675,
+  "question": "In a company with unlimited liability...",
+  "options": [
+    "The private assets of investors and owners are not at risk if the company fails.",
+    "The shareholders are responsible for paying the company's financial obligations.",
+    "The shareholders are not liable for the company's debt with their personal assets.",
+    "None of the above."
+  ],
+  "correctAnswer": 1,
+  "subject": "economy",
+  "topic": "Final 3",
+  "explanation": "In a company with unlimited liability, shareholders are fully accountable for the company's financial obligations, meaning their personal assets can be used to cover business debts. Options (a) and (c) incorrectly suggest protection from personal liability, while option (b) correctly describes the inherent risk of unlimited liability."
+}
+
+
+
+
+
+
+
+
 
 
 
@@ -8105,6 +9373,9 @@ const topics =
     "4.4": "Topic 4.4",
     "5.0": "Topic 5.0",
     Midterm: "Midterm 2024",
+    "Final 1": "Final 1 202X",
+    "Final 2": "Final 2 202X",
+    "Final 3": "Final 3 202X",
   },
   transmedia: 
   {
