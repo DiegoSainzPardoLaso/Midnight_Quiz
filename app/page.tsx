@@ -3626,7 +3626,7 @@ const mockQuestions: Question[] =
       "To show projected sales, profits, and margins.",
       "To summarize the company’s legal risks."
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation": "The pro forma income statement provides an economic projection of the business, including expected sales, profits, and margins."
   },
   {
