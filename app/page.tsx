@@ -85,6 +85,8 @@ interface QuestionSummary {
   explanation?: string
 }
 
+
+
 const mockQuestions: Question[] = 
 [
   {
@@ -9338,16 +9340,6 @@ const mockQuestions: Question[] =
   "explanation": "In a company with unlimited liability, shareholders are fully accountable for the company's financial obligations, meaning their personal assets can be used to cover business debts. Options (a) and (c) incorrectly suggest protection from personal liability, while option (b) correctly describes the inherent risk of unlimited liability."
 }
 
-
-
-
-
-
-
-
-
-
-
 ]
 
 
@@ -9446,6 +9438,8 @@ function ThemeToggle() {
 }
 
 export default function QuizApp() {
+  const [penaltyEnabled, setPenaltyEnabled] = useState(false);
+  const [penaltyValue, setPenaltyValue] = useState(0.111);
   const [activeTab, setActiveTab] = useState("quiz")
   const [selectedSubject, setSelectedSubject] = useState<string>("")
   const [selectedTopic, setSelectedTopic] = useState<string>("")
@@ -10143,7 +10137,41 @@ export default function QuizApp() {
                           ? "Answers will be shown immediately when you select an option"
                           : "Review missed questions at the end of the test"}
                       </p>
-                    </div>
+
+                      {/* Add your new penalty toggle button here */}
+                        <div className="flex items-center space-x-3 p-4 bg-gradient-to-r from-orange-50 to-red-50 dark:from-orange-900/20 dark:to-red-900/20 rounded-xl">
+                  
+                        <Checkbox
+                          id="penalty-toggle"
+                          checked={penaltyEnabled}
+                          onCheckedChange={(checked) => setPenaltyEnabled(checked as boolean)}
+                          className="border-2"
+                        />
+                        <label
+                          htmlFor="penalty-toggle"
+                          className="text-sm font-medium leading-none peer-disabled:cursor-not-allowed peer-disabled:opacity-70 text-gray-700 dark:text-gray-300"
+                        >
+                          Subtract points from your final score for every question you fail
+                        </label>
+                      </div>
+                      {penaltyEnabled && (
+                        <div className="mt-2 ml-8">
+                          <label className="text-xs text-gray-700 dark:text-gray-300 mr-2">
+                            Penalty per missed question:
+                          </label>
+                          <input
+                            type="number"
+                            step="0.001"
+                            min="0"
+                            value={penaltyValue}
+                            onChange={e => setPenaltyValue(Number(e.target.value))}
+                            className="w-24 px-2 py-1 rounded border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-800 text-sm"
+                          />
+                          <span className="text-xs text-gray-500 dark:text-gray-400 ml-2">
+                            (will be subtracted from your final score)
+                          </span>
+                          </div>
+                    )}  
 
                     {filteredQuestions.length > 0 && (
                       <div className="bg-gradient-to-r from-blue-50 to-indigo-50 dark:from-blue-900/20 dark:to-indigo-900/20 p-6 rounded-xl border border-blue-200 dark:border-blue-800">
@@ -10152,6 +10180,9 @@ export default function QuizApp() {
                         </p>
                       </div>
                     )}
+                    </div>
+                  </CardContent>
+                  <CardContent className="p-6">
                     
 
                     <Button
@@ -10186,7 +10217,8 @@ export default function QuizApp() {
   }
 
   if (isQuizComplete) {
-    const finalScore = (score / filteredQuestions.length) * 10
+const penalty = penaltyEnabled ? missedQuestions.length * penaltyValue : 0
+const finalScore = Math.max(0, ((score / filteredQuestions.length) * 10) - penalty)
 
     return (
       <div className="min-h-screen bg-gradient-to-br from-emerald-50 via-green-50 to-teal-100 dark:from-gray-900 dark:via-emerald-900 dark:to-teal-900 p-4 transition-all duration-500">
