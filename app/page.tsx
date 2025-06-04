@@ -9338,7 +9338,2791 @@ const mockQuestions: Question[] =
   "subject": "economy",
   "topic": "Final 3",
   "explanation": "In a company with unlimited liability, shareholders are fully accountable for the company's financial obligations, meaning their personal assets can be used to cover business debts. Options (a) and (c) incorrectly suggest protection from personal liability, while option (b) correctly describes the inherent risk of unlimited liability."
-}
+},
+{
+    "id": 676,
+    "question": "¿Qué implica el paso de monomedia a multimedia en los medios digitales?",
+    "options": [
+      "La especialización en un único tipo de lenguaje comunicativo.",
+      "La incorporación de múltiples lenguajes como texto, audio y vídeo en un mismo medio.",
+      "El uso exclusivo de medios impresos frente a los digitales.",
+      "La eliminación de contenido visual en favor del texto."
+    ],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "1.0",
+    "explanation": "La transición de monomedia a multimedia implica que los medios digitales combinan distintos lenguajes (texto, imagen, vídeo, sonido), borrando la separación tradicional entre medios."
+  },
+  {
+    "id": 677,
+    "question": "¿Cuál es una consecuencia directa de la transición de la periodicidad al tiempo real en los medios?",
+    "options": [
+      "Mayor calidad en el análisis de noticias.",
+      "Desaparición de las redes sociales como canales informativos.",
+      "Saturación de información y pérdida de reflexión.",
+      "Menor participación del usuario en la producción de contenido."
+    ],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "1.0",
+    "explanation": "El paso de la periodicidad al tiempo real ha provocado una sobrecarga informativa y una disminución en la reflexión crítica, debido a la velocidad de producción y consumo de contenido."
+  },
+  {
+    "id": 678,
+    "question": "¿Qué caracteriza la transformación de la escasez a la abundancia en el entorno digital?",
+    "options": [
+      "La limitación en la cantidad de contenido accesible para los usuarios.",
+      "La dificultad para que los usuarios produzcan contenido.",
+      "La sobreabundancia de información que requiere nuevos filtros de relevancia.",
+      "La desaparición del rol del usuario como receptor."
+    ],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "1.0",
+    "explanation": "El entorno digital ha generado una abundancia de información, haciendo necesarios nuevos criterios de selección, organización y recomendación de contenidos."
+  },
+  {
+    "id": 679,
+    "question": "¿Qué implica la transformación de lo analógico a lo digital en los medios?",
+    "options": [
+      "La pérdida de calidad en los contenidos audiovisuales.",
+      "La preservación del medio físico como principal soporte de información.",
+      "La transformación de los contenidos en datos codificables que se pueden transmitir y almacenar digitalmente.",
+      "La eliminación de los archivos digitales por falta de espacio."
+    ],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "1.0",
+    "explanation": "Lo digital permite codificar y almacenar contenidos como datos binarios, posibilitando su transmisión, edición y preservación más eficiente frente a lo analógico."
+  },
+  {
+    "id": 680,
+    "question": "¿Cómo cambia el rol del usuario en el paso de la escasez a la abundancia?",
+    "options": [
+      "De consumidor pasivo a productor y curador de contenido.",
+      "De periodista profesional a espectador.",
+      "De receptor de medios impresos a televidente.",
+      "De comunicador activo a lector ocasional."
+    ],
+    "correctAnswer": 0,
+    "subject": "transmedia",
+    "topic": "1.0",
+    "explanation": "Con la abundancia de contenido, el usuario deja de ser sólo consumidor y asume roles como productor, editor, comentarista y recomendador."
+  },
+  {
+    "id": 681,
+    "question": "¿Qué implica la transición del broadcast al multicast en la comunicación digital?",
+    "options": [
+      "Una emisión masiva sin posibilidad de segmentación.",
+      "La posibilidad de adaptar mensajes a públicos específicos.",
+      "La eliminación de los medios de comunicación tradicionales.",
+      "El uso exclusivo de plataformas audiovisuales."
+    ],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "1.0",
+    "explanation": "El paso de broadcast (uno a todos) a multicast (uno a muchos seleccionados) permite que los contenidos sean dirigidos a públicos específicos, según intereses o características comunes."
+  },
+  {
+    "id": 682,
+    "question": "¿Qué transformación permite que los usuarios ya no dependan de un soporte físico para acceder a los contenidos?",
+    "options": [
+      "De lo digital a lo analógico.",
+      "De la abundancia a la escasez.",
+      "Del soporte al flujo.",
+      "De la narrativa a la hiperficción."
+    ],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "1.0",
+    "explanation": "El paso del soporte al flujo hace referencia a cómo los contenidos ya no requieren un medio físico (como un periódico o un disco) sino que circulan digitalmente a través de redes."
+  },
+  {
+    "id": 683,
+    "question": "¿Qué ocurre con el papel del emisor tradicional en el entorno transmedia?",
+    "options": [
+      "Se mantiene como único generador de mensajes.",
+      "Desaparece completamente.",
+      "Se transforma en un nodo más dentro de una red de múltiples emisores.",
+      "Se convierte exclusivamente en moderador de debates."
+    ],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "1.0",
+    "explanation": "En el entorno transmedia, el emisor tradicional deja de ser único y se integra en una red de emisores y receptores que pueden intercambiar constantemente roles."
+  },
+  {
+    "id": 684,
+    "question": "¿Qué relación tiene la convergencia tecnológica con la transformación de los medios?",
+    "options": [
+      "Favorece la especialización de plataformas según tipo de contenido.",
+      "Elimina la necesidad de dispositivos digitales.",
+      "Permite que múltiples funciones se integren en un solo dispositivo.",
+      "Fomenta el uso exclusivo de un lenguaje audiovisual."
+    ],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "1.0",
+    "explanation": "La convergencia tecnológica permite que un solo dispositivo (como un smartphone) combine múltiples funciones: comunicación, producción, distribución y consumo de contenido."
+  },
+  {
+    "id": 685,
+    "question": "¿Cuál es una de las consecuencias principales del paso del consumo a la participación?",
+    "options": [
+      "Mayor control editorial de los medios tradicionales.",
+      "Reducción del contenido disponible en línea.",
+      "Empoderamiento del usuario como generador de contenido.",
+      "Desaparición de las redes sociales."
+    ],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "1.0",
+    "explanation": "La transformación del usuario pasivo a uno activo implica que ahora participa creando, comentando y difundiendo contenidos, generando un ecosistema de comunicación más horizontal."
+  },
+  {
+    "id": 686,
+    "question": "¿Cuál es un rasgo distintivo del medio digital frente al medio impreso?",
+    "options": [
+      "Su carácter efímero e irreproducible.",
+      "La linealidad y secuencialidad obligatoria.",
+      "La posibilidad de edición, actualización y replicación instantánea.",
+      "La imposibilidad de archivar contenido."
+    ],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "1.0",
+    "explanation": "Los medios digitales permiten actualizar, replicar y compartir contenidos en tiempo real, lo cual representa una diferencia esencial respecto al medio impreso tradicional."
+  },
+  {
+    "id": 687,
+    "question": "¿Qué ha provocado el paso de la escasez de medios a su abundancia?",
+    "options": [
+      "La necesidad de control gubernamental sobre internet.",
+      "La fragmentación de audiencias y la personalización del contenido.",
+      "El regreso a los formatos impresos.",
+      "La desaparición del rol del periodista."
+    ],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "1.0",
+    "explanation": "La abundancia de medios ha dado lugar a audiencias más fragmentadas, donde el contenido se personaliza y se consume según intereses individuales y contextos específicos."
+  },
+  {
+    "id": 688,
+    "question": "¿Qué caracteriza la lógica de red frente a la lógica de masa?",
+    "options": [
+      "Comunicación vertical y jerárquica.",
+      "Participación unidireccional del usuario.",
+      "Comunicación distribuida y horizontal.",
+      "Emisión restringida al entorno local."
+    ],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "1.0",
+    "explanation": "La lógica de red se basa en relaciones horizontales, interacción entre usuarios y descentralización, en contraste con la lógica de masa tradicionalmente vertical y centralizada."
+  },
+  {
+    "id": 689,
+    "question": "¿Qué tipo de contenido predomina en el nuevo ecosistema digital?",
+    "options": [
+      "Contenido controlado exclusivamente por medios tradicionales.",
+      "Contenido generado por usuarios (UGC).",
+      "Contenido exclusivamente textual.",
+      "Contenido exclusivamente corporativo."
+    ],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "1.0",
+    "explanation": "El contenido generado por usuarios (UGC) ha cobrado gran protagonismo en el ecosistema digital, permitiendo a cualquier persona contribuir al flujo informativo."
+  },
+  {
+    "id": 690,
+    "question": "¿Qué efecto tiene la hipertextualidad en el consumo de contenidos digitales?",
+    "options": [
+      "Fomenta una lectura lineal.",
+      "Limita la posibilidad de explorar otros contenidos.",
+      "Permite navegar no linealmente a través de enlaces.",
+      "Obliga al lector a seguir un único camino de lectura."
+    ],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "1.0",
+    "explanation": "La hipertextualidad permite que el usuario navegue por distintos contenidos de forma no lineal, estableciendo sus propios recorridos informativos a través de enlaces."
+  },
+  {
+    "id": 691,
+    "question": "¿Cuál de los siguientes es un ejemplo de la evolución del texto al hipertexto?",
+    "options": [
+      "Un libro impreso con ilustraciones.",
+      "Una noticia digital con enlaces a otras fuentes y multimedia.",
+      "Una enciclopedia impresa.",
+      "Un periódico físico de edición semanal."
+    ],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "1.0",
+    "explanation": "El hipertexto integra enlaces, multimedia y navegación no lineal, como se ve en las noticias digitales que permiten profundizar con un solo clic."
+  },
+  {
+    "id": 692,
+    "question": "¿Cuál es una característica clave del entorno digital según Orihuela?",
+    "options": [
+      "La comunicación unilateral del emisor al receptor.",
+      "La linealidad del mensaje.",
+      "La interacción constante entre usuarios.",
+      "La permanencia del soporte físico."
+    ],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "1.0",
+    "explanation": "La interacción entre usuarios es un componente central del entorno digital, facilitando el diálogo, la colaboración y la creación compartida de contenido."
+  },
+  {
+    "id": 693,
+    "question": "¿Qué tipo de medio se construye en la era de la abundancia de información?",
+    "options": [
+      "Medios cerrados y jerárquicos.",
+      "Medios interactivos, descentralizados y participativos.",
+      "Medios exclusivamente académicos.",
+      "Medios unidireccionales como la radio AM."
+    ],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "1.0",
+    "explanation": "La abundancia de información ha impulsado la creación de medios abiertos, participativos e interactivos, donde los usuarios pueden intervenir activamente."
+  },
+  {
+    "id": 694,
+    "question": "¿Cómo afecta la digitalización al modelo de negocio de los medios tradicionales?",
+    "options": [
+      "Fortalece la venta de ejemplares impresos.",
+      "Mantiene intacta la lógica publicitaria anterior.",
+      "Obliga a replantear fuentes de ingresos y formas de distribución.",
+      "Hace innecesaria la presencia en redes sociales."
+    ],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "1.0",
+    "explanation": "La digitalización ha desafiado el modelo tradicional, forzando a los medios a encontrar nuevas formas de monetización, como el contenido premium, suscripciones y publicidad segmentada."
+  },
+  {
+    "id": 695,
+    "question": "¿Qué transformación permite la participación directa del usuario en la producción informativa?",
+    "options": [
+      "De emisor a espectador.",
+      "De lector a editor colaborativo.",
+      "De receptor a audiencia pasiva.",
+      "De autor a consumidor."
+    ],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "1.0",
+    "explanation": "La posibilidad de comentar, compartir, producir y editar información ha transformado al usuario en un actor activo, incluso en el rol de editor colaborativo."
+  },
+  {
+    "id": 696,
+    "question": "¿Qué cambio representa el paso de la escasez a la abundancia informativa?",
+    "options": [
+      "Un control centralizado del contenido.",
+      "Una necesidad creciente de alfabetización mediática.",
+      "Una simplificación del mensaje informativo.",
+      "La eliminación de la necesidad de filtrar contenidos."
+    ],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "1.0",
+    "explanation": "En un entorno con sobrecarga de información, es esencial desarrollar habilidades de alfabetización mediática para discriminar fuentes y evaluar la calidad del contenido."
+  },
+  {
+    "id": 697,
+    "question": "¿Qué tipo de comunicación representa la lógica digital de red?",
+    "options": [
+      "Jerárquica y descendente.",
+      "Circular y descentralizada.",
+      "Unidireccional y cerrada.",
+      "Secuencial y lineal."
+    ],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "1.0",
+    "explanation": "La lógica digital de red permite una comunicación circular, interactiva y descentralizada, rompiendo con el modelo vertical de los medios tradicionales."
+  },
+  {
+    "id": 698,
+    "question": "¿Qué implica la transformación del receptor en usuario?",
+    "options": [
+      "Pasividad absoluta ante el mensaje.",
+      "Capacidad de elegir, producir y redistribuir contenidos.",
+      "Desaparición de la figura del autor.",
+      "Incapacidad de interactuar con el contenido."
+    ],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "1.0",
+    "explanation": "El usuario digital deja de ser un mero receptor para asumir roles activos: elige, comenta, produce y comparte contenidos dentro de redes colaborativas."
+  },
+  {
+    "id": 699,
+    "question": "¿Cuál de los siguientes elementos no forma parte de la lógica transmedia?",
+    "options": [
+      "Fragmentación de la narrativa en múltiples plataformas.",
+      "Participación del usuario en la expansión del contenido.",
+      "Distribución secuencial de contenido en medios tradicionales.",
+      "Complementariedad entre distintos formatos narrativos."
+    ],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "1.0",
+    "explanation": "La transmedia no implica una simple distribución secuencial en medios tradicionales, sino una narrativa expandida en múltiples plataformas con participación activa del usuario."
+  },
+  {
+    "id": 700,
+    "question": "¿Qué fenómeno permite a los usuarios modificar, comentar y redistribuir los contenidos?",
+    "options": [
+      "Hegemonía informativa.",
+      "Monopolio mediático.",
+      "Interactividad digital.",
+      "Consumo pasivo."
+    ],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "1.0",
+    "explanation": "La interactividad digital permite a los usuarios no solo recibir contenido, sino también intervenir en él, comentarlo, modificarlo y redistribuirlo."
+  },
+  {
+    "id": 701,
+    "question": "¿Qué consecuencia tiene la disolución de la frontera entre productores y consumidores de contenido?",
+    "options": [
+      "La reducción del contenido en plataformas digitales.",
+      "La profesionalización exclusiva del periodismo.",
+      "La aparición del 'prosumidor', que produce y consume contenido.",
+      "El regreso al modelo de comunicación unidireccional."
+    ],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "1.0",
+    "explanation": "La disolución de fronteras entre productor y consumidor da origen al 'prosumidor', una figura central en el ecosistema digital, que participa activamente en la creación y distribución de contenido."
+  },
+  {
+    "id": 702,
+    "question": "¿Cuál es una característica del nuevo entorno mediático propiciado por la digitalización?",
+    "options": [
+      "Un único canal de distribución por contenido.",
+      "Inmutabilidad del contenido una vez publicado.",
+      "Multiplicidad de formatos, plataformas y narrativas.",
+      "Dependencia exclusiva del soporte impreso."
+    ],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "1.0",
+    "explanation": "La digitalización permite que el mismo contenido se adapte y distribuya en múltiples formatos y plataformas, ampliando las posibilidades narrativas y de alcance."
+  },
+  {
+    "id": 703,
+    "question": "¿Qué fenómeno describe la interacción constante de los usuarios en tiempo real?",
+    "options": [
+      "Consumo asincrónico de medios.",
+      "Comunicación diferida.",
+      "Conectividad permanente e instantaneidad.",
+      "Lectura tradicional de contenidos impresos."
+    ],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "1.0",
+    "explanation": "La conectividad permanente e instantaneidad caracterizan la era digital, permitiendo que los usuarios interactúen con contenidos y entre ellos en tiempo real."
+  },
+  {
+    "id": 704,
+    "question": "¿Cuál es un desafío principal para los medios tradicionales en la era digital?",
+    "options": [
+      "La falta de herramientas digitales.",
+      "La disminución del acceso a internet.",
+      "La pérdida del control exclusivo sobre la producción informativa.",
+      "La ausencia de periodistas profesionales."
+    ],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "1.0",
+    "explanation": "Los medios tradicionales ya no tienen el monopolio de la producción informativa, lo que obliga a adaptarse a nuevas dinámicas en las que el usuario también es productor de contenidos."
+  },
+  {
+    "id": 705,
+    "question": "¿Qué implica el paso del mensaje cerrado al mensaje abierto en medios digitales?",
+    "options": [
+      "Reducción de la interactividad.",
+      "Mayor control sobre la interpretación del contenido.",
+      "Posibilidad de que el contenido sea remezclado, comentado o ampliado.",
+      "Imposibilidad de edición posterior al envío del mensaje."
+    ],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "1.0",
+    "explanation": "El mensaje abierto permite la intervención del usuario, que puede comentar, modificar, compartir o incluso reutilizar el contenido en nuevos contextos digitales."
+  },
+  {
+    "id": 706,
+    "question": "¿Cuál fue una de las primeras novelas que incorporó imágenes fotográficas con un propósito estético?",
+    "options": [
+      "Fugues, de Marie-Françoise Plissart",
+      "Bruges-la-Morte, de Georges Rodenbach",
+      "Droit de regards, de Marie-Françoise Plissart",
+      "Elige tu propia aventura"
+    ],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "2.0",
+    "explanation": "Bruges-la-Morte (1892) de Georges Rodenbach es considerada la primera novela en incorporar imágenes fotográficas con un claro propósito estético."
+  },
+  {
+    "id": 707,
+    "question": "¿Qué caracteriza a una novela visual según Molina (2022)?",
+    "options": [
+      "Son relatos teatrales grabados en directo",
+      "Se basan en textos con imágenes animadas sin sonido",
+      "Funcionan como libros animados con diálogos interactivos",
+      "Permiten crear música interactiva con elementos narrativos"
+    ],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "2.0",
+    "explanation": "Molina (2022) define la novela visual como una ficción digital interactiva cuya dinámica consiste en leer diálogos, funcionando como un libro animado."
+  },
+  {
+    "id": 708,
+    "question": "¿Qué permite la herramienta Twine?",
+    "options": [
+      "Grabar podcasts desde el móvil",
+      "Diseñar videojuegos con motor gráfico 3D",
+      "Crear historias interactivas sin necesidad de saber programar",
+      "Ilustrar álbumes infantiles con IA"
+    ],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "2.0",
+    "explanation": "Twine es una herramienta gratuita que permite crear historias interactivas con múltiples caminos sin necesidad de conocimientos de programación."
+  },
+  {
+    "id": 709,
+    "question": "¿Qué es el LARP dentro del contexto de los juegos de rol?",
+    "options": [
+      "Una herramienta de podcast educativo",
+      "Un formato de cómic digital",
+      "Un juego de rol de mesa con dados virtuales",
+      "Un juego de rol en vivo donde los participantes interpretan físicamente"
+    ],
+    "correctAnswer": 3,
+    "subject": "transmedia",
+    "topic": "2.0",
+    "explanation": "LARP (Live Action Role Playing) es una modalidad de juego de rol en vivo donde los jugadores interpretan físicamente a sus personajes."
+  },
+  {
+    "id": 710,
+    "question": "¿Qué término describe a un usuario que deja de ser solo consumidor para convertirse en creador de contenido?",
+    "options": [
+      "Streamer",
+      "Influencer",
+      "Prosumidor",
+      "Creator-user"
+    ],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "2.0",
+    "explanation": "El término 'Prosumidor', acuñado por Alvin Toffler en 'La tercera ola' (1980), se refiere a un usuario que es tanto consumidor como productor de contenido."
+  },
+  {
+    "id": 711,
+    "question": "¿Qué innovación tecnológica permitió popularizar la ilustración en libros durante los siglos XVIII y XIX?",
+    "options": [
+      "El internet",
+      "La revolución industrial",
+      "La fotografía digital",
+      "La televisión"
+    ],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "2.0",
+    "explanation": "La revolución industrial permitió mejorar la impresión y reducir costos, haciendo más accesible la ilustración en libros."
+  },
+  {
+    "id": 712,
+    "question": "¿Qué caracteriza a los libros-objeto o libros de artista?",
+    "options": [
+      "Utilizan exclusivamente papel reciclado",
+      "Rompen con la estructura tradicional del libro",
+      "Solo contienen ilustraciones religiosas",
+      "Tienen exclusivamente texto sin imágenes"
+    ],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "2.0",
+    "explanation": "El libro-objeto rompe la estructura convencional del libro, convirtiéndose en una obra artística visual y conceptual."
+  },
+  {
+    "id": 713,
+    "question": "¿Cuál fue la primera novela en utilizar imágenes fotográficas con propósito estético?",
+    "options": [
+      "Fugues",
+      "Bruges-la-Morte",
+      "Droit de regards",
+      "Twilight"
+    ],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "2.0",
+    "explanation": "‘Bruges-la-Morte’ de Georges Rodenbach, publicada en 1892, es reconocida como la primera novela en usar fotografías con intención estética."
+  },
+  {
+    "id": 714,
+    "question": "¿Qué elemento distingue a las novelas visuales de otros formatos?",
+    "options": [
+      "Se leen de atrás hacia adelante",
+      "Utilizan gráficos 3D en tiempo real",
+      "Permiten interacción del lector mediante decisiones",
+      "Están escritas en verso"
+    ],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "2.0",
+    "explanation": "Las novelas visuales permiten al jugador tomar decisiones que afectan el curso de la historia."
+  },
+  {
+    "id": 715,
+    "question": "¿Qué define a la novela gráfica según Gómez (2013)?",
+    "options": [
+      "Relatos simples y cómicos para niños",
+      "Obras literarias adultas, autoconclusivas y con temas serios",
+      "Historias sin narrativa visual",
+      "Solo contienen imágenes sin texto"
+    ],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "2.0",
+    "explanation": "Gómez (2013) describe la novela gráfica como obras literarias adultas, autoconclusivas y de autor, que tratan temas serios."
+  },
+  {
+    "id": 716,
+    "question": "¿Qué plataforma española facilita partidas de rol online?",
+    "options": [
+      "Nivel20",
+      "Twine",
+      "Steam",
+      "Discord"
+    ],
+    "correctAnswer": 0,
+    "subject": "transmedia",
+    "topic": "2.0",
+    "explanation": "Nivel20 es una plataforma española que permite gestionar partidas de rol online."
+  },
+  {
+    "id": 717,
+    "question": "¿Qué es un LARP?",
+    "options": [
+      "Juego de mesa tradicional",
+      "Juego de cartas coleccionables",
+      "Juego de rol en vivo",
+      "Podcast de ficción"
+    ],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "2.0",
+    "explanation": "LARP (Live Action Role Playing) es un tipo de juego de rol en el que los participantes interpretan físicamente sus personajes."
+  },
+  {
+    "id": 718,
+    "question": "¿Qué herramienta permite crear historias interactivas sin saber programar?",
+    "options": [
+      "Audacity",
+      "Premiere Pro",
+      "Twine",
+      "Photoshop"
+    ],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "2.0",
+    "explanation": "Twine permite crear historias interactivas con múltiples caminos sin necesidad de conocimientos de programación."
+  },
+  {
+    "id": 719,
+    "question": "¿Qué distingue al podcast de la radio tradicional?",
+    "options": [
+      "Solo transmite en vivo",
+      "Se escucha en cines",
+      "Permite consumo a demanda y en cualquier momento",
+      "Solo funciona en iPods"
+    ],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "2.0",
+    "explanation": "El podcast permite escuchar contenido cuando el usuario lo desea, transformando el consumo de audio."
+  },
+  {
+    "id": 720,
+    "question": "¿Qué término define al usuario que consume y produce contenido en la web 2.0?",
+    "options": [
+      "Streamer",
+      "Prosumer",
+      "Influencer",
+      "Editor"
+    ],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "2.0",
+    "explanation": "El término ‘prosumer’, acuñado por Alvin Toffler, describe a los usuarios que consumen y también producen contenido."
+  },
+  {
+    "id": 721,
+    "question": "¿Cuál es una característica esencial de los juegos de rol de mesa?",
+    "options": [
+      "Uso de auriculares",
+      "Lectura silenciosa",
+      "Narración colectiva guiada por un director de juego",
+      "Partidas individuales"
+    ],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "2.0",
+    "explanation": "Los juegos de rol de mesa consisten en una historia colectiva guiada por un director de juego."
+  },
+  {
+    "id": 722,
+    "question": "¿Qué función tiene el ‘game master’ en un juego de rol de mesa?",
+    "options": [
+      "Crear fichas de personajes",
+      "Repartir los dados",
+      "Narrar la historia y controlar los eventos del juego",
+      "Espectador pasivo"
+    ],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "2.0",
+    "explanation": "El game master narra la historia, describe el entorno, controla a los PNJs y guía el desarrollo del juego."
+  },
+  {
+    "id": 723,
+    "question": "¿Qué distingue al álbum ilustrado de otros libros ilustrados?",
+    "options": [
+      "Está dirigido solo a adultos",
+      "Contiene ensayos filosóficos",
+      "La imagen tiene un papel primordial en la narrativa",
+      "No tiene texto"
+    ],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "2.0",
+    "explanation": "En el álbum ilustrado, la imagen juega un papel fundamental en el desarrollo de la historia."
+  },
+  {
+    "id": 724,
+    "question": "¿Qué tipo de historias solían abordar tradicionalmente las foto-novelas?",
+    "options": [
+      "Ciencia ficción",
+      "Novela rosa",
+      "Terror psicológico",
+      "Biografías"
+    ],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "2.0",
+    "explanation": "Tradicionalmente, las foto-novelas trataban historias románticas dirigidas a un público femenino."
+  },
+  {
+    "id": 725,
+    "question": "¿Qué formato combina audio con contenido audiovisual para una experiencia envolvente?",
+    "options": [
+      "Podcast tradicional",
+      "Video-podcast",
+      "Entrevista radial",
+      "Audiolibro"
+    ],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "2.0",
+    "explanation": "El video-podcast combina audio y video, haciéndolo más atractivo y versátil para distintas plataformas."
+  },
+  {
+    "id": 726,
+    "question": "¿Qué permitió el surgimiento de la figura del prosumidor?",
+    "options": [
+      "La imprenta",
+      "La Web 2.0",
+      "La televisión por cable",
+      "El cine mudo"
+    ],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "2.0",
+    "explanation": "La Web 2.0 facilitó la participación activa de los usuarios en la creación de contenido."
+  },
+  {
+    "id": 727,
+    "question": "¿Qué aspecto caracteriza a los juegos de rol online respecto a los tradicionales?",
+    "options": [
+      "No tienen historia",
+      "No requieren personajes",
+      "Usan mapas interactivos y efectos de sonido",
+      "Solo pueden jugarse en papel"
+    ],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "2.0",
+    "explanation": "Los juegos de rol online incorporan herramientas multimedia que enriquecen la experiencia."
+  },
+  {
+    "id": 728,
+    "question": "¿Qué define a un motion comic?",
+    "options": [
+      "Novela gráfica con aroma",
+      "Libro en braille para ciegos",
+      "Cómic con animaciones y sonido",
+      "Película sin imagen"
+    ],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "2.0",
+    "explanation": "Un motion comic es un cómic digital con animaciones y efectos sonoros que amplifican la experiencia narrativa."
+  },
+  {
+    "id": 729,
+    "question": "¿Qué caracteriza a las ficciones sonoras en los podcasts?",
+    "options": [
+      "Lectura de textos legales",
+      "Películas para los oídos",
+      "Diarios personales",
+      "Música sin letra"
+    ],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "2.0",
+    "explanation": "Las ficciones sonoras son historias dramatizadas en audio, similares a una película sin imagen."
+  },
+  {
+    "id": 730,
+    "question": "¿Qué elemento permitió la expansión del fenómeno podcast en su origen?",
+    "options": [
+      "Los tocadiscos",
+      "La televisión por satélite",
+      "El iPod",
+      "El fax"
+    ],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "2.0",
+    "explanation": "El iPod facilitó la popularización del podcast al permitir el consumo portátil de archivos de audio."
+  },
+   {
+    "id": 731,
+    "question": "¿Qué se entiende por narrativa transmedia?",
+    "options": [
+      "Una historia que se repite en distintos medios sin cambios",
+      "Una narrativa que se adapta a distintos idiomas",
+      "Una historia que se expande a través de múltiples medios, aportando contenidos diferentes en cada uno",
+      "Un único relato contado en forma de libro y cómic al mismo tiempo"
+    ],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "2.0",
+    "explanation": "La narrativa transmedia expande una historia mediante diferentes medios, aportando partes únicas en cada uno que enriquecen el universo narrativo."
+  },
+  {
+    "id": 732,
+    "question": "¿Cuál de las siguientes opciones es un ejemplo claro de narrativa transmedia?",
+    "options": [
+      "Una novela que luego se convierte en película con el mismo guion",
+      "Una película, una serie y un videojuego que cuentan distintas partes de una misma historia",
+      "Una canción con videoclip",
+      "Una obra traducida a múltiples idiomas"
+    ],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "2.0",
+    "explanation": "Cuando distintos medios (película, serie, videojuego) aportan partes únicas del relato, se configura un ejemplo de narrativa transmedia."
+  },
+  {
+    "id": 733,
+    "question": "¿Qué rol tienen los usuarios en una narrativa transmedia?",
+    "options": [
+      "Solo observan la historia de forma pasiva",
+      "Pueden consumir una parte y comprender todo",
+      "Participan activamente descubriendo y compartiendo contenido entre plataformas",
+      "Solo actúan como compradores de merchandising"
+    ],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "2.0",
+    "explanation": "Los usuarios en una narrativa transmedia se convierten en exploradores activos del contenido, descubriendo e incluso creando piezas del universo narrativo."
+  },
+  {
+    "id": 734,
+    "question": "¿Qué ventaja ofrece una estrategia transmedia en el mercado cultural?",
+    "options": [
+      "Reduce costos de producción",
+      "Limita el consumo a un solo público",
+      "Permite mayor engagement al diversificar la experiencia",
+      "Evita la fragmentación de audiencias"
+    ],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "2.0",
+    "explanation": "Una estrategia transmedia permite aumentar el engagement al ofrecer experiencias variadas y complementarias en distintos medios."
+  },
+  {
+    "id": 735,
+    "question": "¿Qué diferencia principal hay entre una adaptación y una narrativa transmedia?",
+    "options": [
+      "La adaptación solo ocurre en videojuegos",
+      "La narrativa transmedia aporta nuevas piezas narrativas en cada medio",
+      "Ambas son idénticas",
+      "La adaptación es exclusiva del cine"
+    ],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "2.0",
+    "explanation": "Mientras que una adaptación traslada una historia al nuevo medio sin alterarla, la narrativa transmedia añade elementos originales en cada soporte."
+  },
+  
+  
+
+
+
+
+
+   {
+    "id": 736,
+    "question": "¿Qué característica principal distingue al webdoc del documental tradicional?",
+    "options": ["Narración lineal", "Presencia de un narrador omnisciente", "Interactividad", "Duración limitada"],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "3.0",
+    "explanation": "La interactividad es lo que define al webdoc, permitiendo al usuario decidir qué partes explorar."
+  },
+  {
+    "id": 737,
+    "question": "¿Cuál es una característica típica de la estructura de los webdocs?",
+    "options": ["Continuidad narrativa", "Fragmentación modular", "Resolución cinematográfica", "Ausencia de hipervínculos"],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "3.0",
+    "explanation": "Los webdocs se componen de módulos o fragmentos que el espectador elige explorar."
+  },
+  {
+    "id": 738,
+    "question": "¿En qué década se consolidan los webdocs como un formato reconocible?",
+    "options": ["Década de 1980", "Década de 1990", "2000-2010", "2010-actualidad"],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "3.0",
+    "explanation": "La consolidación de los webdocs se sitúa entre los años 2000 y 2010."
+  },
+  {
+    "id": 739,
+    "question": "¿Qué estructura interactiva organiza contenidos por temas o espacios?",
+    "options": ["Narrativa", "Categórica", "Colaborativa", "Concéntrica"],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "3.0",
+    "explanation": "La estructura categórica presenta vídeos breves organizados por temas."
+  },
+  {
+    "id": 740,
+    "question": "¿Cuál de las siguientes estructuras permite al usuario aportar contenido?",
+    "options": ["Narrativa", "Categórica", "Colaborativa", "Ramificada"],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "3.0",
+    "explanation": "La estructura colaborativa se caracteriza por permitir la participación del usuario."
+  },
+  {
+    "id": 741,
+    "question": "¿Qué tecnología favorece la inmersión al permitir una visión completa del entorno?",
+    "options": ["Video HD", "360°", "GIFs interactivos", "Nodos ramificados"],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "3.0",
+    "explanation": "La grabación en 360° permite una inmersión mayor al simular la presencia física."
+  },
+  {
+    "id": 742,
+    "question": "¿Cuál es una de las temáticas más frecuentes en los webdocs?",
+    "options": ["Ciencia ficción", "Cultura popular japonesa", "Ecología", "Fútbol"],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "3.0",
+    "explanation": "Ecología es una temática habitual en los webdocs por su enfoque autoral y crítico."
+  },
+  {
+    "id": 743,
+    "question": "¿Qué narrativa implica nodos adyacentes que regresan al núcleo central?",
+    "options": ["Lineal", "Espina de pescado", "Paralela", "Concéntrica"],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "3.0",
+    "explanation": "La narrativa espina de pescado regresa siempre al hilo central del documental."
+  },
+  {
+    "id": 744,
+    "question": "¿Cuál de estas herramientas se utiliza comúnmente para el diseño gráfico del webdoc?",
+    "options": ["After Effects", "Photoshop", "DaVinci Resolve", "Audition"],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "3.0",
+    "explanation": "Photoshop es clave para crear elementos visuales coherentes en la interfaz del webdoc."
+  },
+  {
+    "id": 745,
+    "question": "¿Qué aporta la gamificación al documental interactivo?",
+    "options": ["Reducir costos de producción", "Recompensas y motivación", "Mayor duración", "Narración más simple"],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "3.0",
+    "explanation": "La gamificación aporta mecánicas de recompensa que estimulan la participación del usuario."
+  },
+  {
+    "id": 746,
+    "question": "¿Qué tipo de narrativa permite múltiples finales dependiendo de las decisiones del usuario?",
+    "options": ["Concéntrica", "Ramificada", "Paralela", "Hilada"],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "3.0",
+    "explanation": "La narrativa ramificada maximiza la interactividad ofreciendo múltiples finales."
+  },
+  {
+    "id": 747,
+    "question": "¿Qué aspecto complica la estructura narrativa de un webdoc?",
+    "options": ["Duración fija", "Presencia de actores", "Co-creación del usuario", "Presupuesto limitado"],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "3.0",
+    "explanation": "La co-creación del usuario introduce múltiples trayectorias y decisiones en la narrativa."
+  },
+  {
+    "id": 748,
+    "question": "¿Qué formato antecedió al webdoc durante los años 80 y 90?",
+    "options": ["Blu-Ray", "Video Disc y CD-ROM", "DVD", "Flash interactivo"],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "3.0",
+    "explanation": "Los formatos ópticos como Video Disc y CD-ROM fueron precursores museísticos del webdoc."
+  },
+  {
+    "id": 749,
+    "question": "¿Cuál de estas herramientas se usa habitualmente para edición en postproducción?",
+    "options": ["Unity", "Audacity", "Final Cut", "ZBrush"],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "3.0",
+    "explanation": "Final Cut es uno de los principales softwares para editar documental interactivo."
+  },
+  {
+    "id": 750,
+    "question": "¿Qué enfoque estructural narra a través de múltiples perspectivas individuales?",
+    "options": ["Espacio", "Tiempo", "Personajes", "Eventos"],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "3.0",
+    "explanation": "El enfoque basado en personajes permite explorar la historia desde varias voces."
+  },
+  {
+    "id": 751,
+    "question": "¿Qué estructura narrativa ofrece libertad inicial pero final único?",
+    "options": ["Lineal", "Hilada", "Paralela", "Concéntrica"],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "3.0",
+    "explanation": "La narrativa hilada converge en un único final pese a las decisiones del usuario."
+  },
+  {
+    "id": 752,
+    "question": "¿Qué software se emplea para tratamiento profesional de sonido?",
+    "options": ["After Effects", "Photoshop", "Premiere", "ProTools"],
+    "correctAnswer": 3,
+    "subject": "transmedia",
+    "topic": "3.0",
+    "explanation": "ProTools es una herramienta profesional para el procesamiento de sonido en postproducción."
+  },
+  {
+    "id": 753,
+    "question": "¿Qué elemento NO es característico de un webdoc?",
+    "options": ["Interactividad", "Narración cerrada", "Fragmentación", "Hibridación multimedia"],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "3.0",
+    "explanation": "La narración cerrada es típica de documentales lineales, no de webdocs."
+  },
+  {
+    "id": 754,
+    "question": "¿Qué narrativa se caracteriza por tener un hilo central con ramificaciones que siempre regresan?",
+    "options": ["Concéntrica", "Espina de pescado", "Paralela", "Ramificada"],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "3.0",
+    "explanation": "La narrativa espina de pescado mantiene la estructura conectada a un núcleo."
+  },
+  {
+    "id": 755,
+    "question": "¿Qué permite la narrativa paralela en un webdoc?",
+    "options": ["Evitar la interacción", "Seguir una sola línea de tiempo", "Equilibrar libertad y experiencia compartida", "Crear bucles infinitos"],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "3.0",
+    "explanation": "La narrativa paralela permite rutas alternativas pero con nodos compartidos, equilibrando libertad e interacción común."
+  },
+  {
+    "id": 755,
+    "question": "¿Qué función cumple la interfaz en un webdoc?",
+    "options": ["Actuar como narrador", "Distribuir la narrativa lineal", "Facilitar la experiencia del usuario", "Elaborar los efectos especiales"],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "3.0",
+    "explanation": "La interfaz organiza la navegación y permite que el usuario interactúe con los contenidos del documental."
+  },
+  {
+    "id": 756,
+    "question": "¿Cuál de los siguientes es un beneficio de la narrativa no lineal en los webdocs?",
+    "options": ["Evita el uso de tecnología", "Favorece la inmersión y la exploración", "Limita la creatividad del usuario", "Facilita el análisis estadístico"],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "3.0",
+    "explanation": "La narrativa no lineal permite al usuario explorar diferentes trayectorias, generando una experiencia más personalizada."
+  },
+  {
+    "id": 757,
+    "question": "¿Qué caracteriza al enfoque espacial en la narrativa del webdoc?",
+    "options": ["Se centra en los cambios temporales", "Se basa en ubicaciones geográficas", "Sigue un personaje a lo largo del tiempo", "Usa estructuras tradicionales de cine"],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "3.0",
+    "explanation": "El enfoque espacial organiza la narrativa a través de entornos o ubicaciones geográficas."
+  },
+  {
+    "id": 758,
+    "question": "¿Cuál es uno de los desafíos técnicos de los webdocs?",
+    "options": ["Falta de contenido multimedia", "Poca interactividad", "Gestión de múltiples rutas narrativas", "Incompatibilidad con video"],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "3.0",
+    "explanation": "Los webdocs requieren una planificación compleja para gestionar las rutas narrativas posibles."
+  },
+  {
+    "id": 759,
+    "question": "¿Qué elemento multimedia suele integrarse en los webdocs para potenciar el realismo?",
+    "options": ["Dibujos animados", "Infografías estáticas", "Audio ambiente y video real", "Gráficos vectoriales"],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "3.0",
+    "explanation": "El audio ambiente y el video documental refuerzan la sensación de realidad y presencia."
+  },
+  {
+    "id": 760,
+    "question": "¿Qué tipo de narrativa se apoya en ejes temáticos que no necesariamente se conectan entre sí?",
+    "options": ["Concéntrica", "Ramificada", "Categórica", "Hilada"],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "3.0",
+    "explanation": "La narrativa categórica ofrece piezas temáticas independientes que el usuario puede explorar sin orden específico."
+  },
+  {
+    "id": 761,
+    "question": "¿Cuál es una función clave del diseño sonoro en un documental interactivo?",
+    "options": ["Reducir tiempos de carga", "Generar tensión narrativa", "Sustituir la imagen", "Eliminar la necesidad de interacción"],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "3.0",
+    "explanation": "El diseño sonoro ayuda a construir atmósferas, emociones y a guiar al usuario en la experiencia."
+  },
+  {
+    "id": 762,
+    "question": "¿Qué diferencia a la narrativa concéntrica de otras estructuras?",
+    "options": ["No tiene nodo principal", "Permite múltiples finales", "Tiene un eje central y nodos que regresan a él", "Es completamente lineal"],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "3.0",
+    "explanation": "La narrativa concéntrica siempre regresa a un núcleo común que organiza toda la estructura."
+  },
+  {
+    "id": 763,
+    "question": "¿Por qué se considera al webdoc un formato híbrido?",
+    "options": ["Combina documental, ficción y videojuegos", "Solo usa texto e imagen", "Se transmite por televisión", "No incluye audio ni video"],
+    "correctAnswer": 0,
+    "subject": "transmedia",
+    "topic": "3.0",
+    "explanation": "El webdoc integra elementos del documental, la narrativa interactiva y, a veces, incluso de los videojuegos."
+  },
+  {
+    "id": 764,
+    "question": "¿Qué rol tiene la audiencia en un documental interactivo?",
+    "options": ["Papel pasivo de observador", "Solo escucha", "Rol activo y participativo", "Solo sigue instrucciones lineales"],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "3.0",
+    "explanation": "La audiencia en un webdoc toma decisiones, elige rutas y puede incluso contribuir con contenido."
+  },
+  {
+    "id": 765,
+    "question": "¿Cuál es la característica principal del pacto ficcional?",
+    "options": ["Se basa en hechos reales", "Engaña al espectador sin que lo sepa", "El espectador acepta que la historia es inventada", "Evita cualquier tipo de invención"],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "4.0",
+    "explanation": "El pacto ficcional implica que el espectador sabe que lo que ve o lee es ficción y acepta entrar en ese juego."
+  },
+  {
+    "id": 766,
+    "question": "¿Qué diferencia fundamental existe entre ficción y no ficción?",
+    "options": ["El uso del diálogo", "El propósito narrativo", "La intención de engañar o no al espectador", "La duración del relato"],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "4.0",
+    "explanation": "La ficción implica un 'engaño consentido', mientras que la no ficción se basa en el pacto de verdad."
+  },
+  {
+    "id": 767,
+    "question": "Según Aristóteles, ¿qué es preferible en una historia de ficción?",
+    "options": ["Un hecho imposible pero creíble", "Un hecho posible pero inverosímil", "Solo hechos reales", "Ficción sin lógica interna"],
+    "correctAnswer": 0,
+    "subject": "transmedia",
+    "topic": "4.0",
+    "explanation": "Aristóteles valoraba más la verosimilitud interna de la ficción que su coincidencia con la realidad."
+  },
+  {
+    "id": 768,
+    "question": "¿Cuál de los siguientes casos es un ejemplo de confusión entre ficción y realidad?",
+    "options": ["Matrix (1999)", "Orson Welles y 'La guerra de los mundos'", "Inception (2010)", "2001: Una odisea del espacio"],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "4.0",
+    "explanation": "En 1938, la emisión radial de Welles fue tomada como un boletín real, generando pánico."
+  },
+  {
+    "id": 769,
+    "question": "¿Qué caracteriza a los 'mockumentaries'?",
+    "options": ["Documentales reales con toques de humor", "Ficción que imita el estilo documental", "Noticias falsas presentadas como humor", "Autobiografías interactivas"],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "4.0",
+    "explanation": "Los mockumentaries son obras de ficción que adoptan el formato documental, como 'The Blair Witch Project'."
+  },
+  {
+    "id": 770,
+    "question": "¿Qué implica la etiqueta 'basado en hechos reales'?",
+    "options": ["Que todo es absolutamente cierto", "Que solo se usan datos científicos", "Una mezcla de realidad y ficción con pacto ambiguo", "Que los personajes son reales"],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "4.0",
+    "explanation": "Esta etiqueta busca ganar credibilidad, aunque muchas veces incluye elementos de ficción."
+  },
+  {
+    "id": 771,
+    "question": "¿Qué busca la 'fake news' que la diferencia de la ficción tradicional?",
+    "options": ["Informar al ciudadano", "Provocar reflexión crítica", "Engañar al receptor intencionadamente", "Educar con entretenimiento"],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "4.0",
+    "explanation": "Las fake news no tienen pacto ficcional: buscan hacer pasar la mentira como verdad."
+  },
+  {
+    "id": 772,
+    "question": "¿Qué término describe cuando el autor se presenta a sí mismo como personaje dentro de una obra?",
+    "options": ["Metaficción", "Biografía", "Autoficción", "No ficción subjetiva"],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "4.0",
+    "explanation": "La autoficción mezcla la autobiografía con elementos ficticios, difuminando la frontera entre verdad y ficción."
+  },
+  {
+    "id": 773,
+    "question": "¿Cuál es un riesgo de la posverdad en los medios digitales?",
+    "options": ["Aumentar la participación del público", "Mejorar la alfabetización digital", "Reforzar creencias sin base real", "Facilitar la educación interactiva"],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "4.0",
+    "explanation": "La posverdad se basa en apelar a emociones más que a hechos comprobables, lo cual puede reforzar ideas falsas."
+  },
+  {
+    "id": 774,
+    "question": "¿Qué provoca la combinación de ficción y no ficción en nuevos medios digitales?",
+    "options": ["Reducción del interés por el documental", "Mayor precisión factual", "Experiencias híbridas que mezclan entretenimiento y educación", "Pérdida total de verosimilitud"],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "4.0",
+    "explanation": "Estas narrativas digitales híbridas generan impacto emocional y cognitivo al jugar con la frontera entre verdad y ficción."
+  },
+  {
+    "id": 775,
+    "question": "¿Qué elemento debe respetar una historia de ficción para ser verosímil?",
+    "options": ["Que sea basada en hechos reales", "Que incluya datos contrastados", "Que sea coherente con su propio universo narrativo", "Que tenga un narrador en primera persona"],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "4.0",
+    "explanation": "La verosimilitud en la ficción implica que los eventos sean creíbles dentro de las reglas del mundo que presenta."
+  },
+  {
+    "id": 776,
+    "question": "¿Qué tienen en común 'Operación Palace' y 'The Blair Witch Project'?",
+    "options": ["Ambas son noticias reales convertidas en películas", "Son ejemplos de autoficción", "Son falsos documentales que parecen reales", "Son parodias de documentales históricos"],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "4.0",
+    "explanation": "Ambas obras son mockumentaries: producciones ficticias que imitan el estilo documental para parecer reales."
+  },
+  {
+    "id": 777,
+    "question": "¿Cuál es una consecuencia posible del uso irresponsable del formato documental en ficción?",
+    "options": ["Mejora la educación del espectador", "Refuerza la credibilidad de los medios", "Genera confusión entre realidad y ficción", "Aumenta la objetividad narrativa"],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "4.0",
+    "explanation": "Cuando se usa el formato documental sin aclarar su ficción, puede llevar a los espectadores a creer que todo lo presentado es real."
+  },
+  {
+    "id": 778,
+    "question": "¿Qué ocurrió con el público ante la emisión de 'La guerra de los mundos' por Orson Welles en 1938?",
+    "options": ["Comprendió que era ficción desde el principio", "Ignoró el contenido", "Muchos creyeron que era una invasión real", "Solo los críticos literarios la valoraron"],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "4.0",
+    "explanation": "La emisión se presentó como un boletín informativo, lo que provocó el pánico de miles de oyentes que pensaron que era real."
+  },
+  {
+    "id": 779,
+    "question": "¿Qué función cumple la verosimilitud en una obra de ficción?",
+    "options": ["Evitar cualquier contradicción factual", "Asegurar la objetividad del relato", "Convencer al público de que lo narrado podría ser posible", "Cumplir con la estructura del documental clásico"],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "4.0",
+    "explanation": "La verosimilitud no exige realidad, sino coherencia interna para que el público 'crea' en lo que está viendo."
+  },
+  {
+    "id": 780,
+    "question": "¿Qué papel juegan las emociones en la era de la posverdad?",
+    "options": ["Se minimizan en favor de los hechos", "Sirven para engañar al espectador intencionadamente", "Sustituyen los datos objetivos como base de creencias", "Se excluyen de las narrativas digitales"],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "4.0",
+    "explanation": "La posverdad se apoya en lo emocional, haciendo que la gente crea en algo aunque no sea cierto, solo porque se ajusta a sus sentimientos."
+  },
+  {
+    "id": 781,
+    "question": "¿Por qué la frontera entre ficción y no ficción es cada vez más borrosa?",
+    "options": ["Porque ya no existen normas narrativas", "Por el uso de inteligencia artificial", "Por el auge de híbridos narrativos que mezclan ambas formas", "Porque los medios tradicionales han desaparecido"],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "4.0",
+    "explanation": "La expansión de formatos mixtos, como autoficción, mockumentaries y narrativas digitales, diluye la separación entre realidad e invención."
+  },
+  {
+    "id": 782,
+    "question": "¿Qué puede provocar el uso del rótulo 'basado en hechos reales' en una obra de ficción?",
+    "options": ["Mayor confusión sobre la veracidad de los hechos", "Evitar la empatía del público", "Reducir el impacto emocional", "Eliminar toda ficción del relato"],
+    "correctAnswer": 0,
+    "subject": "transmedia",
+    "topic": "4.0",
+    "explanation": "El rótulo suele aumentar la credibilidad, aunque puede confundir sobre qué parte es ficción y cuál es realidad."
+  },
+  {
+    "id": 783,
+    "question": "¿Qué diferencia a la autoficción de otros géneros narrativos?",
+    "options": ["Incluye exclusivamente datos objetivos", "Usa un formato documental estricto", "El autor se presenta como personaje de su propia historia", "No admite ningún elemento inventado"],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "4.0",
+    "explanation": "La autoficción juega con la identidad del autor, mezclando su vida real con elementos inventados de manera intencionada."
+  },
+  {
+    "id": 784,
+    "question": "¿Qué ocurre cuando la realidad se distorsiona para parecer más creíble que la verdad?",
+    "options": ["Se refuerza el pensamiento crítico", "Se produce un fenómeno de hiperrealidad", "Se evita la posverdad", "Se genera verosimilitud objetiva"],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "4.0",
+    "explanation": "Este fenómeno se conoce como hiperrealidad, donde la representación es más convincente o creíble que la realidad misma."
+  },
+  {
+    "id": 785,
+    "question": "¿Qué tipo de pacto acepta el espectador en una obra de ficción?",
+    "options": ["Pacto de veracidad", "Pacto informativo", "Pacto ficcional", "Pacto testimonial"],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "4.0",
+    "explanation": "En la ficción se establece un 'pacto ficcional': el espectador acepta que lo que ve no es real, pero lo disfruta como si lo fuera."
+  },
+  {
+    "id": 786,
+    "question": "¿Cuál es la principal característica de la no ficción?",
+    "options": ["Incluye elementos fantásticos", "Se basa en datos y hechos verificables", "Utiliza actores famosos", "Permite la ambigüedad narrativa"],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "4.0",
+    "explanation": "La no ficción se fundamenta en hechos reales y datos comprobables, con un compromiso de veracidad con el lector o espectador."
+  },
+  {
+    "id": 787,
+    "question": "¿Qué autor afirmó que 'es mejor un imposible creíble que un posible inverosímil'?",
+    "options": ["Sócrates", "Aristóteles", "Cicerón", "Descartes"],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "4.0",
+    "explanation": "Aristóteles defendía la verosimilitud en la ficción como un elemento esencial, incluso por encima de la realidad literal."
+  },
+  {
+    "id": 788,
+    "question": "¿Cuál de las siguientes obras se considera un ejemplo de autoficción?",
+    "options": ["The Blair Witch Project", "Fargo", "Caro diario", "Rec"],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "4.0",
+    "explanation": "'Caro diario' es una obra de autoficción, donde el autor se muestra a sí mismo como personaje, borrando la frontera entre realidad y ficción."
+  },
+  {
+    "id": 789,
+    "question": "¿Qué caracteriza a las fake news frente a la ficción?",
+    "options": ["Fingir sin engañar", "Narración desde lo emocional", "Ausencia de veracidad", "Búsqueda activa de engaño"],
+    "correctAnswer": 3,
+    "subject": "transmedia",
+    "topic": "4.0",
+    "explanation": "Las fake news no forman parte de un pacto ficcional: su objetivo es manipular y engañar al receptor haciéndole creer que es información real."
+  },
+  {
+    "id": 790,
+    "question": "¿Qué ocurre cuando el público no sabe que está viendo ficción?",
+    "options": ["Se incrementa la tensión narrativa", "Se pierde interés", "Puede generarse confusión o pánico", "Se favorece la empatía con los personajes"],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "4.0",
+    "explanation": "Cuando se disfraza la ficción de realidad, como ocurrió con 'La guerra de los mundos', puede haber consecuencias graves como el pánico social."
+  },
+  {
+    "id": 791,
+    "question": "¿Qué relación existe entre verosimilitud y creencias personales?",
+    "options": ["Ninguna, son independientes", "La verosimilitud se basa en datos objetivos", "La verosimilitud puede reforzarse si encaja con las creencias del espectador", "Solo importa en documentales"],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "4.0",
+    "explanation": "Si una historia coincide con nuestras creencias, puede parecernos más verosímil aunque no sea cierta."
+  },
+  {
+    "id": 792,
+    "question": "¿Qué efecto tiene la narrativa interactiva sobre la percepción de realidad y ficción?",
+    "options": ["La refuerza", "La diluye y mezcla", "La hace más objetiva", "La elimina por completo"],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "4.0",
+    "explanation": "En medios digitales, la interacción refuerza la mezcla de elementos reales y ficticios, generando una experiencia más ambigua y compleja."
+  },
+  {
+    "id": 793,
+    "question": "¿Cuál es un objetivo típico de los híbridos entre ficción y no ficción?",
+    "options": ["Generar confusión legal", "Educar y entretener al mismo tiempo", "Imitar noticias falsas", "Eliminar la narración emocional"],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "4.0",
+    "explanation": "Estos formatos buscan generar impacto combinando el valor educativo de lo real con la capacidad emocional de la ficción."
+  },
+  {
+    "id": 794,
+    "question": "¿Qué función cumple el 'pacto de verdad' en la no ficción?",
+    "options": ["Asegura que se usen efectos especiales", "Promete una experiencia estética", "Compromete al autor a relatar hechos reales", "Implica narrar desde un punto de vista ficcional"],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "4.0",
+    "explanation": "En la no ficción, el pacto de verdad implica un compromiso con la fidelidad a los hechos y la transparencia de las fuentes."
+  },
+   {
+    "id": 795,
+    "question": "¿Qué evento tecnológico tuvo lugar en 1984 durante la Super Bowl?",
+    "options": [
+      "Lanzamiento del navegador Netscape",
+      "Primera aparición pública de Facebook",
+      "Primer conflicto mediático de Apple",
+      "Presentación de Google"
+    ],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "dates",
+    "explanation": "En 1984, Apple lanzó su icónico anuncio de Macintosh durante la Super Bowl, considerado el primer gran conflicto mediático entre Apple y el sistema establecido."
+  },
+  {
+    "id": 796,
+    "question": "¿En qué año se produce la denuncia de Apple por su interfaz gráfica?",
+    "options": ["1984", "1988", "1991", "1994"],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "dates",
+    "explanation": "En 1988, Apple fue denunciada por el uso de una interfaz gráfica, lo que marcó un conflicto legal en la evolución del diseño de software."
+  },
+  {
+    "id": 797,
+    "question": "¿Qué inventó Tim Berners-Lee en 1991 mientras trabajaba en el CERN?",
+    "options": ["El sistema operativo Linux", "La primera red social", "La primera página web", "El correo electrónico"],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "dates",
+    "explanation": "En 1991, Berners-Lee creó la primera página web desde el CERN, dando origen a la World Wide Web."
+  },
+  {
+    "id": 798,
+    "question": "¿Qué navegador aparece en 1994?",
+    "options": ["Internet Explorer", "Firefox", "Netscape", "Safari"],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "dates",
+    "explanation": "Netscape apareció en 1994 y fue uno de los primeros navegadores web ampliamente adoptados."
+  },
+  {
+    "id": 799,
+    "question": "¿Qué empresa compra Netscape en 1998?",
+    "options": ["Microsoft", "Amazon", "Apple", "America Online (AOL)"],
+    "correctAnswer": 3,
+    "subject": "transmedia",
+    "topic": "dates",
+    "explanation": "America Online (AOL) adquirió Netscape en 1998, en un intento de fortalecerse en el mercado de internet."
+  },
+  {
+    "id": 800,
+    "question": "¿En qué año se fundó Google?",
+    "options": ["1996", "1998", "2000", "2004"],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "dates",
+    "explanation": "Google fue fundado en 1998 por Larry Page y Sergey Brin."
+  },
+  {
+    "id": 801,
+    "question": "¿Cuándo se lanza oficialmente Facebook?",
+    "options": ["2002", "2003", "2004", "2005"],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "dates",
+    "explanation": "Facebook se lanzó en 2004, inicialmente como una red universitaria en Harvard."
+  },
+  {
+    "id": 802,
+    "question": "¿Qué herramienta de publicidad lanza Google en el año 2000?",
+    "options": ["Google Ads", "Google AdWords", "AdSense", "Google Analytics"],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "dates",
+    "explanation": "En 2000, Google lanza AdWords, su plataforma de publicidad orientada a búsquedas."
+  },
+  {
+    "id": 803,
+    "question": "¿Qué navegador lanza Google en 2008?",
+    "options": ["Firefox", "Internet Explorer", "Chrome", "Opera"],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "dates",
+    "explanation": "Google Chrome fue lanzado en 2008 como un navegador rápido y minimalista."
+  },
+  {
+    "id": 804,
+    "question": "¿Qué red social nació en 2006 y se centra en mensajes cortos?",
+    "options": ["YouTube", "Flickr", "MySpace", "Twitter"],
+    "correctAnswer": 3,
+    "subject": "transmedia",
+    "topic": "dates",
+    "explanation": "Twitter se fundó en 2006, popularizándose por su formato de microblogging con mensajes breves."
+  },
+  {
+    "id": 805,
+    "question": "¿En qué año tuvo lugar el encuentro entre Tim Berners-Lee y Marc Andreessen?",
+    "options": ["1991", "1993", "1995", "1997"],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "dates",
+    "explanation": "El encuentro entre Berners-Lee (inventor de la web) y Andreessen (desarrollador de Mosaic/Netscape) se produjo en 1993."
+  },
+  {
+    "id": 806,
+    "question": "¿En qué año lanzó Bill Gates su primer navegador web?",
+    "options": ["1993", "1994", "1995", "1996"],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "dates",
+    "explanation": "Bill Gates introdujo el navegador Internet Explorer como respuesta a Netscape en 1994."
+  },
+  {
+    "id": 807,
+    "question": "¿Qué versión de Internet Explorer se lanza en 1997?",
+    "options": ["IE 2.0", "IE 3.5", "IE 4.0", "IE 5.0"],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "dates",
+    "explanation": "Internet Explorer 4.0 se lanzó en 1997, marcando un avance importante en la guerra de los navegadores."
+  },
+  {
+    "id": 808,
+    "question": "¿Qué red social fue lanzada en 2004 junto a Facebook?",
+    "options": ["MySpace", "LinkedIn", "Flickr", "Twitter"],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "dates",
+    "explanation": "LinkedIn fue lanzada en 2004, el mismo año que Facebook, pero con un enfoque profesional."
+  },
+  {
+    "id": 809,
+    "question": "¿En qué año se creó MySpace?",
+    "options": ["2001", "2002", "2003", "2004"],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "dates",
+    "explanation": "MySpace se lanzó en 2003 y rápidamente se convirtió en la red social más popular antes de la llegada de Facebook."
+  },
+  {
+    "id": 810,
+    "question": "¿Qué servicio para compartir imágenes fue lanzado en 2004?",
+    "options": ["Instagram", "Flickr", "Picasa", "Snapchat"],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "dates",
+    "explanation": "Flickr fue lanzado en 2004 y se convirtió en una de las primeras plataformas importantes para compartir fotos online."
+  },
+  {
+    "id": 811,
+    "question": "¿En qué año nació YouTube?",
+    "options": ["2004", "2005", "2006", "2007"],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "dates",
+    "explanation": "YouTube fue fundado en 2005 y revolucionó la forma de consumir y compartir vídeos en Internet."
+  },
+  {
+    "id": 812,
+    "question": "¿Qué red social popular por su microblogging nació en 2006?",
+    "options": ["Facebook", "Flickr", "Twitter", "Instagram"],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "dates",
+    "explanation": "Twitter, lanzada en 2006, introdujo el formato de microblogging con tuits de 140 caracteres."
+  },
+  {
+    "id": 813,
+    "question": "¿Qué herramienta publicitaria de Google comenzó a funcionar en el año 2000?",
+    "options": ["Google Ads", "AdWords", "AdSense", "DoubleClick"],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "dates",
+    "explanation": "Google AdWords, lanzado en 2000, revolucionó el marketing digital basado en búsquedas y clics."
+  },
+  {
+    "id": 814,
+    "question": "¿Qué navegador sustituyó a Netscape y fue clave para Google en 2008?",
+    "options": ["Firefox", "Chrome", "Edge", "Safari"],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "dates",
+    "explanation": "Google Chrome fue lanzado en 2008 y rápidamente se convirtió en el navegador más utilizado del mundo."
+  },
+   {
+    "id": 815,
+    "question": "¿Cuál de los siguientes NO es uno de los cuatro puntales de la comunicación digital?",
+    "options": ["Contenido", "Conversación", "Conexión", "Comunidad"],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "4.0",
+    "explanation": "Los cuatro puntales son Contenido, Conversación, Comunidad y Comercio. 'Conexión' no forma parte de esta lista."
+  },
+  {
+    "id": 816,
+    "question": "¿Qué función del narrador digital se relaciona con permitir al usuario elegir rutas de navegación?",
+    "options": ["Interactividad", "Personalización", "Hipertextualidad", "Diseño"],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "4.0",
+    "explanation": "La hipertextualidad permite crear enlaces y caminos no lineales dentro de una narrativa digital."
+  },
+  {
+    "id": 817,
+    "question": "¿Qué elemento es clave para mantener coherencia en la comunicación digital?",
+    "options": ["Frecuencia de publicaciones", "Estilo consistente", "Uso de hashtags", "Análisis de métricas"],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "4.0",
+    "explanation": "Definir un estilo consistente asegura una identidad clara y reconocible en todos los canales."
+  },
+  {
+    "id": 818,
+    "question": "¿Qué se busca al identificar prescriptores en una estrategia digital?",
+    "options": ["Aumentar presupuesto", "Mejorar diseño gráfico", "Ampliar alcance e influencia", "Reducir la frecuencia de publicación"],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "4.0",
+    "explanation": "Los prescriptores son personas con influencia en una comunidad que ayudan a difundir el mensaje de forma más efectiva."
+  },
+  {
+    "id": 819,
+    "question": "¿Qué función del narrador digital se enfoca en mantener la información actualizada y relevante?",
+    "options": ["Interactividad", "Actualización", "Diseño", "Personalización"],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "4.0",
+    "explanation": "La función de actualización implica mantener los contenidos vigentes, adaptados al momento y a las nuevas informaciones."
+  },
+  {
+    "id": 820,
+    "question": "¿Cuál de estas acciones es parte del proceso de monitorización del impacto en comunicación digital?",
+    "options": ["Crear logotipos", "Publicar sin estrategia", "Escuchar la conversación social", "Eliminar comentarios negativos"],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "4.0",
+    "explanation": "Monitorizar implica observar cómo reacciona la audiencia y participar activamente en las conversaciones."
+  },
+  {
+    "id": 821,
+    "question": "¿Qué función del narrador permite adaptar la experiencia a las preferencias del usuario?",
+    "options": ["Documentación", "Diseño", "Personalización", "Comunidad"],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "4.0",
+    "explanation": "La personalización consiste en adaptar contenidos o interfaces a las necesidades o gustos del usuario."
+  },
+  {
+    "id": 822,
+    "question": "¿Cuál es el primer paso lógico en una estrategia de comunicación digital?",
+    "options": ["Monitorizar el impacto", "Publicar contenido", "Establecer objetivos y públicos", "Buscar influencers"],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "4.0",
+    "explanation": "Antes de actuar, es esencial definir claramente los objetivos, el público objetivo y los canales adecuados."
+  },
+  {
+    "id": 823,
+    "question": "¿Qué puntal de la comunicación digital implica generar interacción y respuesta con la audiencia?",
+    "options": ["Comercio", "Conversación", "Comunidad", "Contenido"],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "4.0",
+    "explanation": "La conversación es clave en la comunicación digital bidireccional y se basa en escuchar y responder a la audiencia."
+  },
+  {
+    "id": 824,
+    "question": "¿Qué función del narrador digital permite crear relaciones duraderas con los usuarios?",
+    "options": ["Interactividad", "Comunidad", "Diseño", "Búsqueda"],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "4.0",
+    "explanation": "La función de comunidad permite construir y mantener una red de usuarios comprometidos con la narrativa digital."
+  },
+  {
+    "id": 825,
+    "question": "¿Qué implica la alfabetización digital según el enfoque de la Lecture 1?",
+    "options": [
+      "Solo aprender a escribir en Word",
+      "Aprender a leer y escribir con enlaces hipertexto",
+      "Crear blogs sin necesidad de leer",
+      "Desarrollar habilidades técnicas de hardware"
+    ],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "lecture1",
+    "explanation": "La alfabetización digital incluye la habilidad de leer y escribir con enlaces hipertexto, no solo habilidades técnicas."
+  },
+  {
+    "id": 826,
+    "question": "¿Cuál es una función fundamental del narrador digital según la Lecture 1?",
+    "options": [
+      "Sustituir al lector",
+      "Facilitar el diálogo mediante interactividad",
+      "Prohibir la personalización del contenido",
+      "Evitar la actualización de contenidos"
+    ],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "lecture1",
+    "explanation": "El narrador facilita el diálogo a través de la interactividad, permitiendo al usuario interactuar con contenidos y otros usuarios."
+  },
+  {
+    "id": 827,
+    "question": "¿Qué representa el uso de enlaces hipertexto en los textos digitales?",
+    "options": [
+      "Decoración del texto",
+      "Interactividad y contexto",
+      "Obstáculo para la comprensión",
+      "Estilo literario anticuado"
+    ],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "lecture1",
+    "explanation": "El uso de enlaces proporciona contexto e interactividad, transformando el texto en un mapa navegable."
+  },
+  {
+    "id": 828,
+    "question": "¿Qué recomienda García-Noblejas sobre la escritura en internet?",
+    "options": [
+      "Escribir de cualquier cosa sin importar su dominio",
+      "Escribir acerca de lo que sepas y te importe",
+      "Imitar siempre a otros escritores",
+      "No usar enlaces para no distraer al lector"
+    ],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "lecture1",
+    "explanation": "García-Noblejas destaca que se debe escribir sobre temas que uno conoce y que le importan."
+  },
+  {
+    "id": 829,
+    "question": "¿Qué función cumple el narrador como 'arquitecto del espacio'?",
+    "options": [
+      "Diseñar gráficos llamativos",
+      "Definir la estructura de navegación",
+      "Programar las páginas web",
+      "Eliminar la hipertextualidad"
+    ],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "lecture1",
+    "explanation": "El narrador diseña la estructura de navegación, organizando nodos y enlaces de forma coherente."
+  },
+  {
+    "id": 830,
+    "question": "¿Qué destaca Paco Sánchez sobre el aprendizaje de la escritura?",
+    "options": [
+      "Se aprende escribiendo y leyendo por envidia",
+      "Se aprende viendo televisión",
+      "Se aprende evitando errores",
+      "Solo se aprende con correcciones automatizadas"
+    ],
+    "correctAnswer": 0,
+    "subject": "transmedia",
+    "topic": "lecture1",
+    "explanation": "Paco Sánchez afirma que se aprende a escribir escribiendo, leyendo y, en parte, por envidia."
+  },
+  {
+    "id": 831,
+    "question": "¿Cuál es la principal moneda de cambio en la economía de atención según la cultura digital?",
+    "options": [
+      "Los comentarios",
+      "Los enlaces",
+      "Las imágenes",
+      "Los 'likes'"
+    ],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "lecture1",
+    "explanation": "Los enlaces son considerados moneda de cambio en la economía de atención digital."
+  },
+  {
+    "id": 832,
+    "question": "¿Qué tipo de narrativa redefine la función del narrador como facilitador y moderador?",
+    "options": [
+      "Narrativa oral tradicional",
+      "Narrativa hipertextual",
+      "Narrativa clásica de novela",
+      "Narrativa poética"
+    ],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "lecture1",
+    "explanation": "La narrativa hipertextual redefine al narrador como organizador de espacios virtuales donde se entabla conversación."
+  },
+  {
+    "id": 833,
+    "question": "¿Qué papel tiene el narrador respecto al tiempo en el entorno digital?",
+    "options": [
+      "Ignora la gestión del tiempo",
+      "Gestiona el tiempo en distintas dimensiones (interno, real, usuario)",
+      "Solo escribe cronologías",
+      "Se encarga únicamente del diseño visual"
+    ],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "lecture1",
+    "explanation": "El narrador gestiona el tiempo narrativo (cronologías), tiempo real (en vivo) y tiempo del usuario (navegación)."
+  },
+  {
+    "id": 834,
+    "question": "¿Cuál es un riesgo de la literatura hipertextual según la Lecture 1?",
+    "options": [
+      "Exceso de coherencia narrativa",
+      "Pérdida de linealidad y sentido de autor",
+      "Falta de interacción del lector",
+      "Rechazo de las tecnologías digitales"
+    ],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "lecture1",
+    "explanation": "La literatura hipertextual puede perder coherencia narrativa y disminuir la autoridad del autor en entornos no lineales."
+  },
+  {
+    "id": 835,
+    "question": "¿Qué convierte a un documento digital en un 'mapa' para el usuario?",
+    "options": [
+      "El uso de imágenes animadas",
+      "La inclusión de archivos PDF",
+      "La organización mediante hipertextos",
+      "El uso de fuentes clásicas"
+    ],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "lecture1",
+    "explanation": "El hipertexto convierte los documentos digitales en mapas interactivos donde los usuarios pueden navegar."
+  },
+  {
+    "id": 836,
+    "question": "¿Qué afirmaba García-Noblejas sobre lo correcto en la escritura?",
+    "options": [
+      "Lo correcto es lo más largo",
+      "Lo correcto es lo corregido",
+      "Lo correcto es lo más leído",
+      "Lo correcto es lo automático"
+    ],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "lecture1",
+    "explanation": "García-Noblejas sostenía que lo correcto es aquello que ha sido corregido, destacando la importancia de la revisión."
+  },
+  {
+    "id": 837,
+    "question": "¿Qué plataforma mencionada en 2002 se propuso como espacio de aprendizaje y escritura para alumnos?",
+    "options": [
+      "Facebook",
+      "Wikipedia",
+      "eCuaderno",
+      "Google Docs"
+    ],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "lecture1",
+    "explanation": "eCuaderno, en 2002, se convirtió en un ejemplo de uso docente de los blogs como plataforma educativa."
+  },
+  {
+    "id": 838,
+    "question": "¿Qué se recomienda hacer antes de que los alumnos creen su propio blog?",
+    "options": [
+      "Revisar sus deberes",
+      "Aprender a programar en HTML",
+      "Visitar y analizar blogs recomendados",
+      "Memorizar las normas de ortografía"
+    ],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "lecture1",
+    "explanation": "Los alumnos deben primero analizar blogs sugeridos para entender sus dinámicas antes de crear el propio."
+  },
+  {
+    "id": 839,
+    "question": "¿Qué se dice sobre los temas que los alumnos deben abordar en sus blogs?",
+    "options": [
+      "El docente debe imponer los temas",
+      "Es mejor que los alumnos los escojan",
+      "Deben centrarse exclusivamente en actualidad",
+      "Solo pueden tratar temas personales"
+    ],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "lecture1",
+    "explanation": "Se recomienda que los alumnos elijan sus temas para evitar la escritura por obligación, lo cual va contra la cultura blog."
+  },
+  {
+    "id": 840,
+    "question": "¿Qué actitud deben tener los alumnos respecto a las fuentes utilizadas?",
+    "options": [
+      "No es necesario citarlas",
+      "Solo usarlas si son oficiales",
+      "Respetarlas y enlazarlas",
+      "Copiar y pegar libremente"
+    ],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "lecture1",
+    "explanation": "Deben respetar y enlazar las fuentes utilizadas, reconociendo el valor del trabajo ajeno y fomentando la transparencia."
+  },
+  {
+    "id": 841,
+    "question": "¿Qué representa el enlace en la economía de atención digital?",
+    "options": [
+      "Un adorno textual",
+      "Una distracción para el lector",
+      "Una moneda de cambio",
+      "Un error del sistema"
+    ],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "lecture1",
+    "explanation": "El enlace es visto como moneda de cambio en la economía de atención: 'enlaza y serás enlazado'."
+  },
+  {
+    "id": 842,
+    "question": "¿Qué se recomienda en cuanto a correcciones en los blogs estudiantiles?",
+    "options": [
+      "Corregirlos públicamente en los comentarios",
+      "No corregirlos para no desmotivarlos",
+      "Corregirlos en privado",
+      "Borrar los errores directamente"
+    ],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "lecture1",
+    "explanation": "Se recomienda hacer correcciones de forma privada para mantener el respeto y el ánimo de los estudiantes."
+  },
+  {
+    "id": 843,
+    "question": "¿Qué función tiene Twitter en el contexto de alfabetización digital?",
+    "options": [
+      "Sirve para distraer a los alumnos",
+      "No se recomienda su uso",
+      "Es una herramienta complementaria de microblogging",
+      "Reemplaza al blog por completo"
+    ],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "lecture1",
+    "explanation": "Twitter se plantea como una herramienta de microblogging útil en la alfabetización digital y extensión de ideas."
+  },
+  {
+    "id": 844,
+    "question": "Según la Lecture 1, ¿a escribir se aprende...?",
+    "options": [
+      "Solamente con correcciones automáticas",
+      "Copiando textos de calidad",
+      "Escribiendo, leyendo y con buenos editores",
+      "Memorizando reglas gramaticales"
+    ],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "lecture1",
+    "explanation": "Se aprende escribiendo, leyendo y recibiendo ayuda de editores o lectores críticos."
+  },
+  {
+    "id": 845,
+    "question": "¿Cuál es el paso previo necesario antes del hipertexto o la narrativa transmedia?",
+    "options": [
+      "Tener buen dominio de software de edición",
+      "Crear un guion audiovisual",
+      "Saber programar páginas web",
+      "Una buena historia y una escritura sólida"
+    ],
+    "correctAnswer": 3,
+    "subject": "transmedia",
+    "topic": "lecture1",
+    "explanation": "Antes de llegar al hipertexto o a la transmedia, lo fundamental es tener una buena historia bien escrita."
+  },
+  {
+    "id": 846,
+    "question": "¿Qué tipo de narrativa requiere equilibrar flexibilidad e interacción con coherencia?",
+    "options": [
+      "Narrativa hipertextual",
+      "Narrativa oral",
+      "Narrativa académica",
+      "Narrativa simbólica"
+    ],
+    "correctAnswer": 0,
+    "subject": "transmedia",
+    "topic": "lecture1",
+    "explanation": "La narrativa hipertextual requiere un equilibrio entre interacción (flexibilidad) y coherencia narrativa."
+  },
+  {
+    "id": 847,
+    "question": "¿Cuál es una de las funciones clave del narrador digital según el modelo de Lecture 1?",
+    "options": [
+      "Eliminar la participación del lector",
+      "Organizar la información en nodos",
+      "Evitar enlaces externos",
+      "Mantener un estilo impersonal"
+    ],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "lecture1",
+    "explanation": "Una función clave del narrador es organizar el relato en nodos y facilitar la navegación hipertextual."
+  },
+  {
+    "id": 848,
+    "question": "¿Qué aportación hace el narrador al contexto informativo del relato?",
+    "options": [
+      "Ignora el contexto para fomentar ambigüedad",
+      "Presenta solo la información principal",
+      "Define y proporciona marcos de referencia",
+      "Traduce automáticamente los textos"
+    ],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "lecture1",
+    "explanation": "El narrador digital contextualiza el contenido y define los marcos informativos que lo rodean."
+  },
+  {
+    "id": 849,
+    "question": "¿Qué recurso ayuda a resolver la gestión del tiempo interno del relato digital?",
+    "options": [
+      "GIFs animados",
+      "Timelines o cronologías navegables",
+      "Listas numeradas",
+      "Comentarios de usuarios"
+    ],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "lecture1",
+    "explanation": "Las cronologías navegables (timelines) son útiles para gestionar el tiempo interno de un relato digital."
+  },
+  {
+    "id": 850,
+    "question": "¿Cuál es una de las herramientas para que el narrador gestione el tiempo real?",
+    "options": [
+      "Enlaces a sitios estáticos",
+      "Imágenes fijas",
+      "Coberturas en directo minuto a minuto",
+      "Animaciones flash"
+    ],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "lecture1",
+    "explanation": "Las coberturas minuto a minuto permiten que el narrador gestione el tiempo real dentro del relato."
+  },
+  {
+    "id": 851,
+    "question": "¿Qué efecto tiene la hipertextualidad en la figura del autor tradicional?",
+    "options": [
+      "Fortalece su autoridad",
+      "La elimina por completo",
+      "Debilita su autoridad",
+      "La traslada al editor"
+    ],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "lecture1",
+    "explanation": "La hipertextualidad diluye la figura autoritaria del autor, haciendo que el relato sea más abierto e interactivo."
+  },
+  {
+    "id": 852,
+    "question": "¿Qué indica Scolari respecto a la producción transmedia?",
+    "options": [
+      "Solo los profesionales deben producir contenidos",
+      "Los usuarios complementan lo que el productor no puede o no quiere hacer",
+      "La transmedia es incompatible con el hipertexto",
+      "Los blogs deben evitar la narrativa transmedia"
+    ],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "lecture1",
+    "explanation": "Scolari afirma que lo que no quiere, no puede o no sabe producir el creador, lo hará el prosumidor."
+  },
+  {
+    "id": 853,
+    "question": "¿Cuál fue una de las primeras obras literarias hipertextuales mencionadas?",
+    "options": [
+      "1984 de Orwell",
+      "Afternoon, a story de Joyce",
+      "El Aleph de Borges",
+      "The Matrix"
+    ],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "lecture1",
+    "explanation": "La obra 'Afternoon, a story' de Michael Joyce (1987) es una de las primeras referencias literarias al hipertexto."
+  },
+  {
+    "id": 854,
+    "question": "¿Qué relación plantea la Lecture 1 entre videojuegos, redes sociales y escritura hipertextual?",
+    "options": [
+      "No existe ninguna relación",
+      "Los videojuegos y redes son obstáculos para la escritura",
+      "Son formas de experiencia lúdica y participativa aplicables a la narrativa",
+      "Solo los videojuegos antiguos son útiles"
+    ],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "lecture1",
+    "explanation": "Los videojuegos y las redes sociales representan una experiencia interactiva y participativa, clave en la escritura hipertextual."
+  },
+  {
+    "id": 855,
+    "question": "¿Qué transformación trajo la imprenta en términos de acceso a la cultura?",
+    "options": [
+      "Aumento del comercio internacional",
+      "Difusión masiva de información y democratización del acceso cultural",
+      "Surgimiento de la televisión como medio dominante",
+      "Creación del mercado editorial digital"
+    ],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "lecture2",
+    "explanation": "La imprenta permitió una difusión masiva de la información y democratizó el acceso a la cultura, marcando un cambio histórico en la comunicación."
+  },
+  {
+    "id": 856,
+    "question": "¿Cuál es una característica fundamental de la red respecto a los negocios?",
+    "options": [
+      "Altas barreras de entrada",
+      "Exclusividad en el acceso a la información",
+      "Barreras de entrada muy bajas",
+      "Restricciones tecnológicas significativas"
+    ],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "lecture2",
+    "explanation": "La red ofrece barreras de entrada muy bajas, facilitando la participación de nuevos actores en el mercado digital."
+  },
+  {
+    "id": 857,
+    "question": "¿Qué implica el paso del capitalismo industrial al informacional?",
+    "options": [
+      "Mayor uso de materias primas",
+      "Énfasis en la mano de obra",
+      "Importancia del acceso a la información y datos",
+      "Reducción del comercio electrónico"
+    ],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "lecture2",
+    "explanation": "El capitalismo informacional se basa en el acceso, análisis y gestión de la información más que en la producción física."
+  },
+  {
+    "id": 858,
+    "question": "¿Qué deben revisar las empresas al adaptarse a la digitalización?",
+    "options": [
+      "El equipo de marketing exclusivamente",
+      "La localización física de sus oficinas",
+      "Las fases de la cadena de valor que podrían verse afectadas",
+      "Su presencia en eventos físicos"
+    ],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "lecture2",
+    "explanation": "La digitalización impacta múltiples áreas, por lo que es esencial revisar qué fases de la cadena de valor podrían verse modificadas."
+  },
+  {
+    "id": 859,
+    "question": "¿Qué concepto describe al consumidor que también colabora en la producción?",
+    "options": [
+      "Netripper",
+      "Microinfluencer",
+      "Prosumer",
+      "Stakeholder"
+    ],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "lecture2",
+    "explanation": "El término 'prosumidor' (prosumer) hace referencia al consumidor que también participa activamente en la producción de bienes o contenidos."
+  },
+  {
+    "id": 860,
+    "question": "¿Qué defendía el Manifiesto Cluetrain?",
+    "options": [
+      "La desactivación de la red como canal empresarial",
+      "La publicidad unidireccional",
+      "Un nuevo escenario basado en la conversación empresa-consumidor",
+      "El abandono de las plataformas digitales"
+    ],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "lecture2",
+    "explanation": "El Manifiesto Cluetrain proponía un nuevo paradigma en el que la relación empresa-consumidor se transformaba en una conversación horizontal."
+  },
+  {
+    "id": 861,
+    "question": "¿Qué debe guiar una estrategia digital efectiva?",
+    "options": [
+      "La estética visual del sitio web",
+      "La cantidad de publicaciones diarias",
+      "La alineación entre objetivos, públicos y plataformas digitales",
+      "La adopción de todas las redes sociales disponibles"
+    ],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "lecture2",
+    "explanation": "Una estrategia digital coherente debe basarse en objetivos claros, públicos definidos y el uso adecuado de plataformas relevantes."
+  },
+  {
+    "id": 862,
+    "question": "¿Qué paradigma se perfila como sucesor de la Web 2.0?",
+    "options": [
+      "Paradigma informacional",
+      "Paradigma audiovisual",
+      "Paradigma de valor y confianza (blockchain)",
+      "Paradigma unidireccional"
+    ],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "lecture2",
+    "explanation": "Después de la Web 2.0, se prevé un paradigma basado en el valor y la confianza, donde tecnologías como blockchain tendrán un papel clave."
+  },
+  {
+    "id": 863,
+    "question": "¿Cuál es un objetivo clave al organizar la comunicación digital?",
+    "options": [
+      "Maximizar los costos de producción",
+      "Reducir la presencia online",
+      "Optimizar visibilidad e interacciones",
+      "Usar solo medios tradicionales"
+    ],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "lecture2",
+    "explanation": "Uno de los principales objetivos es aumentar la visibilidad e interacción de la marca en el entorno digital."
+  },
+  {
+    "id": 864,
+    "question": "¿Qué rol deben desempeñar los blogs y podcasts en la estrategia digital?",
+    "options": [
+      "Actuar como medios de consulta técnica",
+      "Ser acciones transmedia dentro del marketing de contenidos",
+      "Sustituir a las redes sociales",
+      "Ser empleados solo en contextos corporativos formales"
+    ],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "lecture2",
+    "explanation": "Los blogs y podcasts son herramientas transmedia que refuerzan la estrategia de marketing de contenidos, especialmente al captar usuarios intensivos."
+  },
+  {
+    "id": 865,
+    "question": "¿Qué deben entender los responsables de comunicación en el entorno digital?",
+    "options": [
+      "Cómo desarrollar apps móviles",
+      "El funcionamiento de algoritmos publicitarios",
+      "El escenario de la comunicación pública y cómo conectar con el público",
+      "Las estadísticas globales de navegación"
+    ],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "lecture2",
+    "explanation": "Los responsables de comunicación deben comprender el entorno comunicativo público y saber adoptar plataformas que conecten con el público."
+  },
+  {
+    "id": 866,
+    "question": "¿Qué representa el Test de Turing permanente en la comunicación digital?",
+    "options": [
+      "La automatización de contenidos",
+      "La imposibilidad de distinguir entre humanos y máquinas",
+      "La velocidad de la conexión a internet",
+      "La fidelidad de los consumidores"
+    ],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "lecture2",
+    "explanation": "El Test de Turing permanente alude a la integración total entre humanos y tecnología en un mundo hiperconectado."
+  },
+  {
+    "id": 867,
+    "question": "¿Qué tipo de organizaciones sobreviven en el entorno digital?",
+    "options": [
+      "Las que reducen gastos al mínimo",
+      "Las que evitan innovar",
+      "Las que aprenden, innovan rápido y transforman su cultura",
+      "Las que se centran exclusivamente en productos físicos"
+    ],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "lecture2",
+    "explanation": "En el entorno digital, las organizaciones que sobreviven son aquellas capaces de aprender, innovar y adaptarse con rapidez."
+  },
+  {
+    "id": 868,
+    "question": "¿Qué debe contener un plan de comunicación digital eficaz?",
+    "options": [
+      "Una lista de contactos de prensa",
+      "Una guía de hashtags",
+      "Objetivos claros, públicos definidos y un estilo consistente",
+      "Contratación de influencers"
+    ],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "lecture2",
+    "explanation": "El plan de comunicación digital debe establecer objetivos, definir públicos y canales, y mantener coherencia estilística y de mensaje."
+  },
+  {
+    "id": 869,
+    "question": "¿Cuál de los siguientes elementos NO forma parte de la articulación on/off?",
+    "options": [
+      "Diseñar plan editorial",
+      "Optimizar SEO y SMO",
+      "Reducir el contenido gráfico",
+      "Organizar producción para cubrir objetivos"
+    ],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "lecture2",
+    "explanation": "Reducir contenido gráfico no es parte de la estrategia de articulación entre lo físico y lo digital."
+  },
+  {
+    "id": 870,
+    "question": "¿Qué se espera del contenido digital, según la guía propuesta?",
+    "options": [
+      "Que sea breve y promocional",
+      "Que se adapte a tendencias pasajeras",
+      "Que cumpla objetivos, se encuentre y genere conversación",
+      "Que se publique solo en redes sociales"
+    ],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "lecture2",
+    "explanation": "El contenido debe estar bien producido, con objetivos claros, tiempos adecuados, encontrarse fácilmente y fomentar la conversación."
+  },
+  {
+    "id": 871,
+    "question": "¿Qué han olvidado los usuarios al pasar de los blogs a las redes sociales?",
+    "options": [
+      "Cómo usar hipervínculos",
+      "El trabajo que implica mantener el valor de un contenido",
+      "El uso de emojis",
+      "Cómo monetizar publicaciones"
+    ],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "lecture2",
+    "explanation": "Los blogs enseñaron que mantener contenido con valor implica esfuerzo, algo que se ha descuidado con las redes sociales."
+  },
+  {
+    "id": 872,
+    "question": "¿Qué tipo de estrategia digital es más efectiva en ambientes conversacionales?",
+    "options": [
+      "Vending",
+      "Branding",
+      "Spam dirigido",
+      "Publicidad invasiva"
+    ],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "lecture2",
+    "explanation": "En entornos conversacionales, el branding (marca basada en valores y relación) resulta más efectivo que el vending (venta directa)."
+  },
+  {
+    "id": 873,
+    "question": "¿Qué pilar de la estrategia digital permite fidelizar al usuario?",
+    "options": [
+      "Contenido",
+      "Conversación",
+      "Comunidad",
+      "Comercio"
+    ],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "lecture2",
+    "explanation": "La comunidad se forma y se mantiene a través de conversaciones constantes, generando fidelidad del usuario."
+  },
+  {
+    "id": 874,
+    "question": "¿Cómo se considera un blog corporativo dentro de una estrategia digital?",
+    "options": [
+      "Una herramienta pasada de moda",
+      "Una fuente de datos internos",
+      "Una acción transmedia clave",
+      "Un canal informativo estático"
+    ],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "lecture2",
+    "explanation": "El blog corporativo es una acción transmedia que articula contenidos como newsletters, podcasts y publicaciones."
+  },
+  {
+    "id": 875,
+    "question": "¿Qué exige la virtualización de procesos dentro de la cadena de valor?",
+    "options": [
+      "Reducción de la plantilla",
+      "Crear comunidad ad hoc e instantánea",
+      "Digitalizar solo el área de ventas",
+      "Evitar el contacto con los medios"
+    ],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "lecture2",
+    "explanation": "La virtualización de la cadena de valor conlleva generar comunidades ad hoc, adaptadas a cada necesidad y momento."
+  },
+  {
+    "id": 876,
+    "question": "¿Qué rol cumplen las redes sociales en la RSC?",
+    "options": [
+      "Permitir hacer promociones",
+      "Actuar como canales para compartir responsabilidad social corporativa",
+      "Difundir rumores de competencia",
+      "Aumentar el tráfico sin contenido"
+    ],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "lecture2",
+    "explanation": "Las redes sociales permiten comunicar y difundir acciones de responsabilidad social corporativa de manera directa."
+  },
+  {
+    "id": 877,
+    "question": "¿Qué se busca lograr con un evento en streaming?",
+    "options": [
+      "Reducir la interacción con el público",
+      "Imitar una rueda de prensa con difusión masiva",
+      "Limitar el acceso solo a invitados",
+      "Evitar la improvisación"
+    ],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "lecture2",
+    "explanation": "El streaming permite replicar el impacto de una rueda de prensa incluso con poca asistencia presencial."
+  },
+  {
+    "id": 878,
+    "question": "¿Qué se debe tener en cuenta para planificar un evento digital?",
+    "options": [
+      "Duración limitada a 10 minutos",
+      "Estética minimalista",
+      "Expectativas del evento: serie, ámbito, ponentes, audiencia y costos",
+      "Número de hashtags utilizados"
+    ],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "lecture2",
+    "explanation": "Un evento digital debe planificarse considerando múltiples factores: objetivos, tipo de público, ponentes y presupuesto."
+  },
+  {
+    "id": 879,
+    "question": "¿Qué es clave en la gestión de crisis durante un evento digital?",
+    "options": [
+      "Programar publicaciones automáticas",
+      "Identificar fallos y tener un programa flexible",
+      "Eliminar comentarios negativos",
+      "Evitar toda participación del público"
+    ],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "lecture2",
+    "explanation": "Es esencial anticipar problemas, identificar fallos y mantener un programa adaptable ante imprevistos."
+  },
+  {
+    "id": 880,
+    "question": "¿Qué acción se recomienda tras un evento digital?",
+    "options": [
+      "Desactivar cuentas sociales",
+      "Publicar fotos y difundir conclusiones",
+      "Ocultar los errores técnicos",
+      "Reducir la visibilidad online"
+    ],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "lecture2",
+    "explanation": "Es recomendable compartir imágenes y conclusiones para cerrar la narrativa del evento y ampliar su impacto."
+  },
+  {
+    "id": 881,
+    "question": "¿Qué caracteriza a las comunidades ad hoc digitales?",
+    "options": [
+      "Duración permanente",
+      "Estructura corporativa formal",
+      "Naturaleza instantánea y contextual",
+      "Requieren validación legal"
+    ],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "lecture2",
+    "explanation": "Las comunidades ad hoc son temporales y surgen en función de necesidades específicas en tiempo real."
+  },
+  {
+    "id": 882,
+    "question": "¿Qué relación debe tener el contenido digital con el mundo físico?",
+    "options": [
+      "Ninguna, deben mantenerse separados",
+      "Total dependencia del contenido impreso",
+      "Una articulación coherente on/off",
+      "Competencia directa con eventos físicos"
+    ],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "lecture2",
+    "explanation": "La estrategia digital debe articular el entorno online con acciones físicas, logrando una experiencia integrada."
+  },
+  {
+    "id": 883,
+    "question": "¿Cuál es uno de los objetivos del SEO y SMO?",
+    "options": [
+      "Reducir la calidad del contenido",
+      "Maximizar el número de seguidores comprados",
+      "Optimizar la visibilidad e interacciones",
+      "Eliminar la competencia online"
+    ],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "lecture2",
+    "explanation": "Tanto SEO como SMO buscan aumentar la visibilidad del contenido y fomentar interacciones orgánicas."
+  },
+  {
+    "id": 884,
+    "question": "¿Quiénes son los prescriptores en la estrategia digital?",
+    "options": [
+      "Usuarios con opiniones influyentes",
+      "Clientes inactivos",
+      "Técnicos de soporte",
+      "Personas sin redes sociales"
+    ],
+    "correctAnswer": 0,
+    "subject": "transmedia",
+    "topic": "lecture2",
+    "explanation": "Los prescriptores son usuarios influyentes cuyas opiniones pueden afectar positivamente la percepción pública."
+  },
+  {
+    "id": 885,
+    "question": "¿Qué evento marcó el primer conflicto del entorno digital según Carlos Scolari?",
+    "options": [
+      "El juicio entre Apple y Microsoft",
+      "El lanzamiento del primer iPhone",
+      "El anuncio de Apple durante el Super Bowl de 1984",
+      "La fundación de Google"
+    ],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "lecture3",
+    "explanation": "Scolari identifica el anuncio del Macintosh de Apple en el Super Bowl de 1984 como el inicio del conflicto entre visiones digitales distintas."
+  },
+  {
+    "id": 886,
+    "question": "¿Cuál era la propuesta principal de Apple frente a Microsoft en los años 80?",
+    "options": [
+      "Software gratuito",
+      "Diseño y enfoque familiar",
+      "Mayor potencia de procesamiento",
+      "Compatibilidad con Linux"
+    ],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "lecture3",
+    "explanation": "Apple se posicionaba como una marca 'family friendly' con especial atención al diseño, frente al enfoque laboral de Microsoft."
+  },
+  {
+    "id": 887,
+    "question": "¿Qué empresa fue acusada por Apple de copiar su interfaz gráfica?",
+    "options": [
+      "IBM",
+      "Netscape",
+      "Microsoft",
+      "Xerox"
+    ],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "lecture3",
+    "explanation": "Apple denunció a Microsoft por copiar su interfaz gráfica, pero el juez dictaminó que Xerox la había comercializado antes."
+  },
+  {
+    "id": 888,
+    "question": "¿Quién creó la primera página web y en qué contexto?",
+    "options": [
+      "Steve Jobs en Apple",
+      "Bill Gates en Microsoft",
+      "Marc Andreessen en Netscape",
+      "Tim Berners-Lee en CERN"
+    ],
+    "correctAnswer": 3,
+    "subject": "transmedia",
+    "topic": "lecture3",
+    "explanation": "Tim Berners-Lee creó la primera página web mientras trabajaba en el CERN en 1991, desarrollando un sistema hipertextual para compartir información científica."
+  },
+  {
+    "id": 889,
+    "question": "¿Cuál fue el primer navegador web ampliamente utilizado?",
+    "options": [
+      "Internet Explorer",
+      "Chrome",
+      "Mosaic",
+      "Firefox"
+    ],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "lecture3",
+    "explanation": "Mosaic, desarrollado por NCSA, fue uno de los primeros navegadores ampliamente adoptados."
+  },
+  {
+    "id": 890,
+    "question": "¿Qué empresa fundó Marc Andreessen tras desarrollar Mosaic?",
+    "options": [
+      "Mozilla",
+      "Facebook",
+      "Netscape",
+      "Spyglass"
+    ],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "lecture3",
+    "explanation": "Marc Andreessen fundó Netscape en 1994 junto a Jim Clark, ofreciendo un navegador gratuito."
+  },
+  {
+    "id": 891,
+    "question": "¿Qué navegador integró Microsoft a todos sus ordenadores Windows?",
+    "options": [
+      "Chrome",
+      "Netscape",
+      "Opera",
+      "Internet Explorer"
+    ],
+    "correctAnswer": 3,
+    "subject": "transmedia",
+    "topic": "lecture3",
+    "explanation": "Microsoft adquirió el software Spyglass y lo convirtió en Internet Explorer, incluyéndolo en todos los sistemas Windows."
+  },
+  {
+    "id": 892,
+    "question": "¿Qué compañía adquirió Netscape en 1998?",
+    "options": [
+      "Google",
+      "Facebook",
+      "America Online (AOL)",
+      "Microsoft"
+    ],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "lecture3",
+    "explanation": "Netscape fue comprada por America Online en 1998, marcando el fin de su competencia con Microsoft."
+  },
+  {
+    "id": 893,
+    "question": "¿Cuál fue una consecuencia de la crisis de las punto-com?",
+    "options": [
+      "El nacimiento de Facebook",
+      "El cierre de Google",
+      "La caída de Netscape",
+      "La necesidad de retorno rápido de inversión"
+    ],
+    "correctAnswer": 3,
+    "subject": "transmedia",
+    "topic": "lecture3",
+    "explanation": "Durante la crisis de las punto-com, los inversores presionaban para obtener retornos rápidos en startups tecnológicas."
+  },
+  {
+    "id": 894,
+    "question": "¿Qué herramienta publicitaria creó Google en el año 2000?",
+    "options": [
+      "Chrome",
+      "Google Ads",
+      "AdWords",
+      "Gmail"
+    ],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "lecture3",
+    "explanation": "Google creó AdWords en 2000 como una herramienta para generar ingresos a través de anuncios."
+  },
+  {
+    "id": 895,
+    "question": "¿Cuál es la lógica de funcionamiento de Google según Scolari?",
+    "options": [
+      "Retener a los usuarios en su plataforma",
+      "Controlar redes sociales",
+      "Redirigir al usuario hacia diversos sitios web",
+      "Producir contenido original"
+    ],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "lecture3",
+    "explanation": "Scolari describe la lógica de Google como centrífuga: el buscador nos lleva hacia los confines de la web."
+  },
+  {
+    "id": 896,
+    "question": "¿Qué busca hacer Facebook con sus usuarios, según Scolari?",
+    "options": [
+      "Dirigirlos a otras webs",
+      "Mantenerlos en su ecosistema",
+      "Ofrecer búsquedas eficientes",
+      "Bloquear el acceso a medios tradicionales"
+    ],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "lecture3",
+    "explanation": "Facebook opera bajo una lógica centrípeta: busca que el usuario permanezca en su entorno el mayor tiempo posible."
+  },
+  {
+    "id": 897,
+    "question": "¿Cómo respondió Facebook a las acusaciones por las 'fake news'?",
+    "options": [
+      "Aceptando su rol como medio",
+      "Culpando a los usuarios",
+      "Diciendo que es una empresa tecnológica, no mediática",
+      "Censurando todos los contenidos"
+    ],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "lecture3",
+    "explanation": "Facebook afirmó que no era una empresa mediática, sino tecnológica, y que no era responsable del uso de su plataforma."
+  },
+  {
+    "id": 898,
+    "question": "¿Qué es el Metaverso según la perspectiva de rebranding empresarial?",
+    "options": [
+      "Una nueva red social",
+      "Un sistema de pago digital",
+      "Una interfaz inmersiva y transparente",
+      "Un buscador descentralizado"
+    ],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "lecture3",
+    "explanation": "El Metaverso es presentado como una interfaz inmersiva y transparente, parte de un proceso de rebranding empresarial."
+  },
+  {
+    "id": 899,
+    "question": "¿Qué rol cumplía la homepage durante la era de Netscape?",
+    "options": [
+      "Era irrelevante",
+      "Era donde se vendían productos",
+      "Funcionaba como puerta de entrada al contenido web",
+      "Permitía enviar correos electrónicos"
+    ],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "lecture3",
+    "explanation": "La homepage servía como puerta de entrada a la navegación web y era codiciada por las empresas para colocar banners publicitarios."
+  },
+  {
+    "id": 900,
+    "question": "¿Qué motivó a Microsoft a desarrollar Internet Explorer?",
+    "options": [
+      "El deseo de innovar",
+      "Su competencia con IBM",
+      "No llegar a tiempo para comprar Netscape",
+      "Presión de los usuarios"
+    ],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "lecture3",
+    "explanation": "Microsoft no logró adquirir Netscape y como reacción compró Spyglass, creando Internet Explorer."
+  },
+  {
+    "id": 901,
+    "question": "¿Qué empresa ofrecía un software gratuito para navegar en 1994?",
+    "options": [
+      "Spyglass",
+      "Netscape",
+      "Microsoft",
+      "Opera"
+    ],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "lecture3",
+    "explanation": "Netscape, creada por Andreessen y Clark, ofrecía su navegador de forma gratuita en 1994."
+  },
+  {
+    "id": 902,
+    "question": "¿Cómo respondió la justicia a la denuncia de Apple contra Microsoft por copiar la interfaz gráfica?",
+    "options": [
+      "Dictaminó que era una copia ilegal",
+      "Obligó a pagar una multa a Microsoft",
+      "Declaró que Xerox la había comercializado antes",
+      "Prohibió usar interfaces gráficas similares"
+    ],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "lecture3",
+    "explanation": "El juez determinó que la interfaz gráfica ya había sido comercializada por Xerox, por lo tanto, no había copia."
+  },
+  {
+    "id": 903,
+    "question": "¿Qué hecho marcó la estandarización de la navegación en la web?",
+    "options": [
+      "La compra de Netscape por Microsoft",
+      "El nacimiento de Google con Chrome",
+      "La venta de Apple a IBM",
+      "La desaparición del HTML"
+    ],
+    "correctAnswer": 1,
+    "subject": "transmedia",
+    "topic": "lecture3",
+    "explanation": "La creación de Chrome por Google ayudó a estandarizar la navegación web, mejorando la experiencia del usuario."
+  },
+  {
+    "id": 904,
+    "question": "¿Qué característica diferencia a Google de Facebook según Scolari?",
+    "options": [
+      "Google controla redes sociales",
+      "Facebook dirige tráfico a otros sitios",
+      "Google sigue una lógica de dispersión; Facebook de concentración",
+      "Ambos usan exactamente el mismo modelo de negocio"
+    ],
+    "correctAnswer": 2,
+    "subject": "transmedia",
+    "topic": "lecture3",
+    "explanation": "Scolari afirma que Google funciona con una lógica centrífuga y Facebook con una lógica centrípeta."
+  }
+
+
 
 ]
 
@@ -9371,10 +12155,14 @@ const topics =
   },
   transmedia: 
   {
-    "1.1": "Topic 1.1",
-    "1.2": "Topic 1.2",
-    "2.1": "Topic 2.1",
-    "2.2": "Topic 2.2",
+    "1.0": "Tema 1.0",
+    "2.0": "Tema 2.0",
+    "3.0": "Tema 3.0",
+    "4.0": "Tema 4.0",
+    "dates": "Fechas",
+    "lecture1": "Lectura 1. Hipertexto",
+    "lecture2": "Lectura 2. Estrategia",
+    "lecture3": "Lectura 3. Web Scolari",
   },
 }
 
